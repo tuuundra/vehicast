@@ -1,0 +1,301 @@
+part_id,part_name,part_number,expected_demand,current_stock,recommended_stock,retail_price,wholesale_price,demand_trend,priority
+1,Brakes for Hyundai Kona 2014,HYKO1401676,880,979,1030,93.45,74.76,increasing,medium
+2,Brakes for Audi Q5 2022,AUQ52201332,867,702,1037,121.73,97.38,stable,high
+3,Brakes for Nissan Sentra 2023,NISE2301606,477,352,481,137.56,110.05,stable,medium
+4,Brakes for Hyundai Sonata 2005,HYSO501789,1036,1000,1126,112.38,89.91,increasing,high
+5,Brakes for Hyundai Sonata 2017,HYSO1701397,660,425,562,115.22,92.17,stable,medium
+6,Brakes for Kia Sportage 2023,KISP2301544,468,430,433,161.69,129.36,stable,medium
+7,Brakes for Toyota Highlander 2013,TOHI1301395,461,503,461,82.14,65.71,stable,low
+8,Brakes for Audi Q5 2020,AUQ52001984,122,97,132,71.7,57.36,increasing,low
+9,Brakes for Toyota RAV4 2020,TORA2001660,767,553,856,150.77,120.62,stable,medium
+10,Brakes for Honda CR-V 2017,HOCR1701577,303,168,270,79.56,63.65,stable,medium
+11,Brakes for Hyundai Santa Fe 2021,HYSA2101626,825,531,700,121.95,97.56,stable,high
+12,Brakes for Honda Odyssey 2015,HOOD1501637,384,433,457,153.04,122.44,stable,low
+13,Brakes for Ford Explorer 2022,FOEX2201184,200,138,203,90.81,72.65,stable,medium
+14,Brakes for Hyundai Santa Fe 2006,HYSA601804,912,538,789,94.12,75.3,increasing,medium
+15,Brakes for Mercedes GLE 2019,MEGL1901109,678,409,559,75.77,60.61,stable,medium
+16,Brakes for Ford Explorer 2020,FOEX2001163,641,681,754,138.76,111.01,stable,low
+17,Brakes for BMW X5 2022,BMX52201732,238,255,243,163.72,130.97,stable,medium
+18,Brakes for Chevrolet Suburban 2021,CHSU2101880,349,169,280,121.39,97.11,decreasing,medium
+19,Brakes for Hyundai Sonata 2023,HYSO2301191,790,614,888,111.84,89.47,decreasing,medium
+20,Brakes for Nissan Rogue 2015,NIRO1501400,861,928,997,120.11,96.09,stable,medium
+21,Brakes for Mercedes GLC 2015,MEGL1501571,533,371,485,143.08,114.46,increasing,medium
+22,Brakes for Kia Soul 2006,KISO601306,191,135,164,134.43,107.54,stable,high
+23,Brakes for Mercedes GLE 2016,MEGL1601786,662,727,716,119.37,95.49,stable,medium
+24,Brakes for Chevrolet Suburban 2022,CHSU2201102,808,775,775,74.83,59.86,increasing,low
+25,Brakes for Hyundai Sonata 2007,HYSO701639,661,748,688,77.22,61.78,decreasing,low
+26,Brakes for Ford Focus 2010,FOFO1001396,166,143,151,141.7,113.36,increasing,medium
+27,Brakes for Ford Focus 2023,FOFO2301461,599,448,528,136.21,108.97,stable,high
+28,Brakes for Audi Q7 2011,AUQ71101762,665,416,623,103.32,82.66,stable,medium
+29,Brakes for BMW 5 Series 2011,BM5 1101654,708,815,811,79.65,63.72,stable,low
+30,Brakes for Chevrolet Malibu 2023,CHMA2301856,346,342,361,154.94,123.95,increasing,low
+31,Batteries for Chevrolet Malibu 2023,CHMA2302840,668,445,566,316.11,252.89,increasing,medium
+32,Batteries for Toyota RAV4 2020,TORA2002742,487,499,554,320.46,256.37,decreasing,medium
+33,Batteries for Audi Q5 2022,AUQ52202435,454,344,465,325.29,260.23,decreasing,low
+34,Batteries for Ford Explorer 2022,FOEX2202295,234,204,216,144.69,115.75,increasing,medium
+35,Batteries for Honda Odyssey 2015,HOOD1502566,637,491,510,288.72,230.98,decreasing,medium
+36,Batteries for Hyundai Santa Fe 2006,HYSA602987,437,357,411,319.48,255.58,stable,medium
+37,Batteries for Mercedes GLE 2016,MEGL1602642,543,406,504,149.79,119.83,decreasing,low
+38,Batteries for Nissan Rogue 2015,NIRO1502959,578,577,684,281.31,225.05,stable,medium
+39,Batteries for Mercedes GLC 2015,MEGL1502350,503,321,427,133.19,106.55,stable,high
+40,Batteries for Kia Sportage 2023,KISP2302446,795,650,847,171.38,137.11,increasing,medium
+41,Batteries for Honda CR-V 2017,HOCR1702995,249,216,258,316.74,253.39,decreasing,low
+42,Batteries for Hyundai Sonata 2023,HYSO2302156,559,548,614,199.54,159.63,decreasing,low
+43,Batteries for Chevrolet Suburban 2022,CHSU2202765,798,796,897,238.65,190.92,stable,medium
+44,Batteries for Kia Soul 2006,KISO602262,620,465,618,183.32,146.66,decreasing,medium
+45,Batteries for Hyundai Sonata 2005,HYSO502988,209,185,185,235.55,188.44,decreasing,low
+46,Batteries for Ford Explorer 2020,FOEX2002304,234,239,242,123.24,98.59,increasing,medium
+47,Batteries for Chevrolet Suburban 2021,CHSU2102537,777,628,852,275.37,220.3,increasing,low
+48,Batteries for Audi Q5 2020,AUQ52002628,707,486,692,199.21,159.37,increasing,low
+49,Batteries for BMW X5 2022,BMX52202577,745,428,658,182.27,145.82,decreasing,high
+50,Batteries for Ford Focus 2023,FOFO2302163,526,549,574,285.74,228.59,stable,high
+51,Batteries for Hyundai Santa Fe 2021,HYSA2102859,447,404,422,241.37,193.1,stable,low
+52,Batteries for Hyundai Sonata 2007,HYSO702964,728,583,647,276.95,221.56,stable,medium
+53,Batteries for Audi Q7 2011,AUQ71102953,533,572,544,259.46,207.57,increasing,high
+54,Batteries for BMW 5 Series 2011,BM5 1102885,334,283,363,228.3,182.64,increasing,low
+55,Batteries for Ford Focus 2010,FOFO1002160,758,678,672,198.22,158.57,increasing,medium
+56,Batteries for Mercedes GLE 2019,MEGL1902229,508,506,530,109.62,87.7,stable,medium
+57,Batteries for Nissan Sentra 2023,NISE2302294,280,200,258,193.65,154.92,decreasing,medium
+58,Batteries for Hyundai Sonata 2017,HYSO1702448,743,542,799,124.48,99.58,stable,high
+59,Batteries for Toyota Highlander 2013,TOHI1302795,716,722,761,306.14,244.91,stable,low
+60,Batteries for Hyundai Kona 2014,HYKO1402375,399,497,470,209.45,167.56,stable,low
+61,Alternators for Ford Focus 2010,FOFO1003268,148,106,161,355.09,284.07,decreasing,low
+62,Alternators for Hyundai Sonata 2017,HYSO1703406,115,72,102,407.78,326.22,stable,medium
+63,Alternators for BMW X5 2022,BMX52203956,653,497,613,289.72,231.78,stable,medium
+64,Alternators for Kia Sportage 2023,KISP2303725,586,572,634,394.19,315.35,stable,medium
+65,Alternators for Hyundai Sonata 2023,HYSO2303860,396,218,340,253.07,202.45,increasing,medium
+66,Alternators for Toyota Highlander 2013,TOHI1303671,658,574,646,453.97,363.17,stable,medium
+67,Alternators for Hyundai Sonata 2005,HYSO503287,841,733,723,410.01,328.01,increasing,medium
+68,Alternators for Chevrolet Suburban 2021,CHSU2103530,369,413,410,316.77,253.42,decreasing,low
+69,Alternators for Mercedes GLC 2015,MEGL1503940,716,441,584,231.55,185.24,decreasing,medium
+70,Alternators for Audi Q5 2020,AUQ52003894,1144,1016,1084,362.92,290.34,increasing,medium
+71,Alternators for Toyota RAV4 2020,TORA2003967,372,386,409,245.78,196.62,increasing,high
+72,Alternators for Kia Soul 2006,KISO603977,285,321,298,405.97,324.78,increasing,medium
+73,Alternators for Hyundai Santa Fe 2021,HYSA2103322,401,404,411,307.49,246.0,stable,medium
+74,Alternators for Honda Odyssey 2015,HOOD1503188,523,532,516,411.61,329.29,stable,medium
+75,Alternators for Audi Q7 2011,AUQ71103397,936,1122,1111,320.46,256.37,decreasing,high
+76,Alternators for Audi Q5 2022,AUQ52203280,297,349,338,334.81,267.85,increasing,low
+77,Alternators for Ford Focus 2023,FOFO2303529,510,480,554,259.78,207.82,stable,medium
+78,Alternators for Ford Explorer 2022,FOEX2203343,680,572,785,255.24,204.19,stable,high
+79,Alternators for Mercedes GLE 2019,MEGL1903871,913,888,983,391.05,312.84,stable,high
+80,Alternators for Nissan Rogue 2015,NIRO1503928,667,639,748,291.26,233.01,stable,low
+81,Alternators for Honda CR-V 2017,HOCR1703591,139,111,141,378.27,302.61,stable,medium
+82,Alternators for Mercedes GLE 2016,MEGL1603315,109,76,111,216.37,173.1,decreasing,low
+83,Alternators for Chevrolet Malibu 2023,CHMA2303477,736,834,837,274.37,219.5,stable,medium
+84,Alternators for Hyundai Sonata 2007,HYSO703411,210,160,171,266.39,213.11,increasing,medium
+85,Alternators for Chevrolet Suburban 2022,CHSU2203692,444,307,470,410.1,328.08,increasing,medium
+86,Alternators for Hyundai Santa Fe 2006,HYSA603974,576,361,574,385.41,308.33,stable,high
+87,Alternators for Hyundai Kona 2014,HYKO1403564,243,212,275,215.56,172.45,decreasing,medium
+88,Alternators for BMW 5 Series 2011,BM5 1103356,614,548,635,200.65,160.52,stable,low
+89,Alternators for Ford Explorer 2020,FOEX2003925,150,143,132,238.08,190.46,stable,high
+90,Alternators for Nissan Sentra 2023,NISE2303591,681,487,589,251.35,201.08,increasing,high
+91,Spark Plugs for Kia Soul 2006,KISO604987,333,313,334,8.0,6.4,stable,low
+92,Spark Plugs for Audi Q5 2022,AUQ52204618,775,670,660,25.8,20.64,stable,medium
+93,Spark Plugs for Nissan Sentra 2023,NISE2304185,245,141,206,13.17,10.53,increasing,medium
+94,Spark Plugs for Ford Focus 2023,FOFO2304457,368,257,420,8.84,7.07,increasing,high
+95,Spark Plugs for Mercedes GLE 2016,MEGL1604625,353,267,359,7.53,6.02,stable,low
+96,Spark Plugs for Hyundai Sonata 2007,HYSO704988,298,323,327,27.11,21.69,stable,medium
+97,Spark Plugs for Ford Explorer 2020,FOEX2004548,990,657,907,21.48,17.19,decreasing,high
+98,Spark Plugs for Ford Explorer 2022,FOEX2204308,316,232,357,13.36,10.69,increasing,medium
+99,Spark Plugs for Hyundai Santa Fe 2006,HYSA604923,314,244,335,8.73,6.98,decreasing,medium
+100,Spark Plugs for BMW 5 Series 2011,BM5 1104338,790,776,786,9.73,7.79,decreasing,low
+101,Spark Plugs for Chevrolet Malibu 2023,CHMA2304144,168,143,144,12.44,9.95,stable,medium
+102,Spark Plugs for Nissan Rogue 2015,NIRO1504116,441,409,376,20.52,16.42,increasing,high
+103,Spark Plugs for Toyota RAV4 2020,TORA2004904,148,146,137,25.36,20.29,decreasing,medium
+104,Spark Plugs for Chevrolet Suburban 2021,CHSU2104131,726,740,721,28.34,22.67,stable,medium
+105,Spark Plugs for Hyundai Sonata 2023,HYSO2304969,285,230,239,20.55,16.44,increasing,low
+106,Spark Plugs for Hyundai Sonata 2017,HYSO1704639,196,145,199,8.56,6.85,decreasing,low
+107,Spark Plugs for Audi Q7 2011,AUQ71104167,325,206,279,8.02,6.41,stable,medium
+108,Spark Plugs for Hyundai Sonata 2005,HYSO504532,337,180,296,18.06,14.45,stable,medium
+109,Spark Plugs for Chevrolet Suburban 2022,CHSU2204552,314,171,274,19.99,15.99,increasing,medium
+110,Spark Plugs for Ford Focus 2010,FOFO1004824,723,835,779,11.72,9.38,stable,medium
+111,Spark Plugs for Honda Odyssey 2015,HOOD1504801,688,762,749,25.59,20.47,increasing,medium
+112,Spark Plugs for Kia Sportage 2023,KISP2304701,198,171,178,16.41,13.12,increasing,medium
+113,Spark Plugs for BMW X5 2022,BMX52204796,694,566,819,28.58,22.86,stable,high
+114,Spark Plugs for Hyundai Kona 2014,HYKO1404458,671,599,720,18.01,14.41,stable,low
+115,Spark Plugs for Honda CR-V 2017,HOCR1704961,233,196,204,14.39,11.51,stable,low
+116,Spark Plugs for Mercedes GLE 2019,MEGL1904865,602,495,721,9.55,7.64,stable,low
+117,Spark Plugs for Audi Q5 2020,AUQ52004189,466,389,408,11.2,8.96,decreasing,high
+118,Spark Plugs for Toyota Highlander 2013,TOHI1304583,135,117,111,24.67,19.73,stable,high
+119,Spark Plugs for Mercedes GLC 2015,MEGL1504786,549,566,553,25.66,20.53,stable,high
+120,Spark Plugs for Hyundai Santa Fe 2021,HYSA2104382,1032,1289,1230,21.62,17.29,stable,medium
+121,Tires for Hyundai Sonata 2007,HYSO705667,461,329,428,350.96,280.77,stable,high
+122,Tires for Hyundai Sonata 2005,HYSO505980,630,454,566,130.49,104.39,decreasing,high
+123,Tires for Chevrolet Suburban 2021,CHSU2105234,123,135,139,375.96,300.77,stable,medium
+124,Tires for Mercedes GLE 2016,MEGL1605963,385,404,443,215.3,172.24,decreasing,high
+125,Tires for Ford Focus 2010,FOFO1005776,134,99,114,547.31,437.85,increasing,low
+126,Tires for Mercedes GLC 2015,MEGL1505449,894,992,1061,157.25,125.8,stable,low
+127,Tires for Hyundai Sonata 2023,HYSO2305217,944,1050,1123,398.68,318.94,decreasing,high
+128,Tires for Ford Explorer 2022,FOEX2205517,128,84,113,357.19,285.75,stable,medium
+129,Tires for Audi Q7 2011,AUQ71105588,452,523,482,406.93,325.54,increasing,medium
+130,Tires for Hyundai Santa Fe 2021,HYSA2105751,135,143,133,472.16,377.73,increasing,low
+131,Tires for Ford Explorer 2020,FOEX2005235,126,129,140,227.1,181.68,stable,low
+132,Tires for Audi Q5 2020,AUQ52005312,536,580,612,159.6,127.68,stable,low
+133,Tires for Nissan Rogue 2015,NIRO1505897,841,742,969,556.48,445.18,increasing,medium
+134,Tires for Nissan Sentra 2023,NISE2305272,267,209,303,197.71,158.16,stable,medium
+135,Tires for BMW 5 Series 2011,BM5 1105291,479,465,504,440.81,352.64,decreasing,low
+136,Tires for Chevrolet Malibu 2023,CHMA2305221,600,409,548,257.55,206.04,increasing,high
+137,Tires for Honda Odyssey 2015,HOOD1505702,795,661,880,417.6,334.08,stable,medium
+138,Tires for Kia Soul 2006,KISO605589,261,180,260,402.67,322.13,stable,high
+139,Tires for Hyundai Sonata 2017,HYSO1705761,526,361,490,393.87,315.1,stable,medium
+140,Tires for Chevrolet Suburban 2022,CHSU2205443,337,235,350,476.77,381.42,stable,medium
+141,Tires for Mercedes GLE 2019,MEGL1905818,146,105,166,531.16,424.93,stable,low
+142,Tires for Hyundai Kona 2014,HYKO1405299,562,319,523,373.21,298.56,stable,low
+143,Tires for BMW X5 2022,BMX52205284,300,308,315,395.6,316.48,stable,medium
+144,Tires for Kia Sportage 2023,KISP2305314,666,592,658,496.0,396.8,decreasing,medium
+145,Tires for Toyota RAV4 2020,TORA2005934,700,602,714,523.7,418.96,stable,medium
+146,Tires for Ford Focus 2023,FOFO2305439,603,647,589,583.75,467.0,stable,medium
+147,Tires for Hyundai Santa Fe 2006,HYSA605634,383,303,322,384.95,307.96,stable,low
+148,Tires for Audi Q5 2022,AUQ52205168,113,99,121,151.75,121.4,stable,low
+149,Tires for Honda CR-V 2017,HOCR1705175,841,523,809,240.76,192.61,decreasing,low
+150,Tires for Toyota Highlander 2013,TOHI1305849,835,612,890,189.52,151.61,stable,medium
+151,Oil Filters for Toyota RAV4 2020,TORA2006563,400,497,466,26.0,20.8,increasing,low
+152,Oil Filters for Mercedes GLE 2019,MEGL1906202,822,727,798,25.59,20.47,decreasing,low
+153,Oil Filters for Hyundai Sonata 2023,HYSO2306364,933,599,881,39.72,31.78,stable,low
+154,Oil Filters for Ford Focus 2023,FOFO2306980,299,254,352,13.62,10.89,increasing,medium
+155,Oil Filters for Kia Sportage 2023,KISP2306329,955,1159,1101,18.59,14.87,stable,medium
+156,Oil Filters for Ford Explorer 2022,FOEX2206866,455,558,529,27.09,21.67,stable,medium
+157,Oil Filters for Hyundai Sonata 2005,HYSO506238,460,417,492,22.69,18.16,decreasing,medium
+158,Oil Filters for Chevrolet Suburban 2022,CHSU2206429,603,328,489,43.19,34.55,stable,medium
+159,Oil Filters for Audi Q5 2020,AUQ52006256,304,234,292,28.34,22.67,increasing,medium
+160,Oil Filters for Ford Explorer 2020,FOEX2006363,436,268,438,24.61,19.69,decreasing,medium
+161,Oil Filters for BMW X5 2022,BMX52206787,504,414,417,37.18,29.74,decreasing,medium
+162,Oil Filters for Chevrolet Suburban 2021,CHSU2106394,582,454,552,28.09,22.48,stable,high
+163,Oil Filters for Honda CR-V 2017,HOCR1706538,768,713,680,30.02,24.01,stable,medium
+164,Oil Filters for Nissan Sentra 2023,NISE2306471,382,301,403,12.89,10.31,decreasing,low
+165,Oil Filters for Nissan Rogue 2015,NIRO1506956,478,378,537,31.88,25.5,increasing,medium
+166,Oil Filters for Hyundai Santa Fe 2021,HYSA2106901,793,609,800,19.89,15.91,stable,low
+167,Oil Filters for Audi Q5 2022,AUQ52206171,422,413,447,28.56,22.85,stable,low
+168,Oil Filters for Honda Odyssey 2015,HOOD1506206,482,554,567,35.88,28.71,increasing,high
+169,Oil Filters for Hyundai Santa Fe 2006,HYSA606150,462,374,413,45.05,36.04,stable,medium
+170,Oil Filters for Chevrolet Malibu 2023,CHMA2306801,166,120,133,42.4,33.92,stable,medium
+171,Oil Filters for Audi Q7 2011,AUQ71106445,630,542,570,15.63,12.51,increasing,medium
+172,Oil Filters for Hyundai Sonata 2017,HYSO1706185,410,394,410,9.19,7.35,increasing,low
+173,Oil Filters for Mercedes GLE 2016,MEGL1606719,341,323,310,18.14,14.51,decreasing,low
+174,Oil Filters for Kia Soul 2006,KISO606794,830,629,750,40.86,32.69,stable,medium
+175,Oil Filters for BMW 5 Series 2011,BM5 1106446,699,511,603,32.93,26.34,increasing,medium
+176,Oil Filters for Hyundai Kona 2014,HYKO1406155,606,720,660,12.73,10.18,stable,medium
+177,Oil Filters for Hyundai Sonata 2007,HYSO706833,444,339,370,35.91,28.73,stable,medium
+178,Oil Filters for Toyota Highlander 2013,TOHI1306946,729,429,666,35.98,28.79,stable,low
+179,Oil Filters for Ford Focus 2010,FOFO1006379,249,254,281,37.14,29.71,stable,low
+180,Oil Filters for Mercedes GLC 2015,MEGL1506872,219,252,232,24.68,19.74,decreasing,high
+181,Air Filters for Hyundai Santa Fe 2021,HYSA2107695,607,549,537,48.19,38.55,increasing,low
+182,Air Filters for BMW X5 2022,BMX52207339,802,589,779,52.07,41.65,stable,high
+183,Air Filters for Mercedes GLC 2015,MEGL1507884,522,582,558,66.66,53.33,stable,low
+184,Air Filters for Toyota Highlander 2013,TOHI1307699,594,578,558,61.14,48.91,increasing,low
+185,Air Filters for Ford Explorer 2022,FOEX2207411,831,577,703,27.82,22.25,stable,high
+186,Air Filters for Ford Explorer 2020,FOEX2007416,784,976,898,76.17,60.94,increasing,medium
+187,Air Filters for Audi Q7 2011,AUQ71107883,727,621,619,66.36,53.09,stable,medium
+188,Air Filters for Kia Sportage 2023,KISP2307947,671,600,585,36.0,28.8,decreasing,medium
+189,Air Filters for Hyundai Sonata 2017,HYSO1707245,821,503,831,65.71,52.57,decreasing,medium
+190,Air Filters for Hyundai Sonata 2023,HYSO2307540,167,111,135,17.35,13.88,stable,medium
+191,Air Filters for Kia Soul 2006,KISO607440,730,895,841,53.4,42.72,increasing,medium
+192,Air Filters for Chevrolet Suburban 2021,CHSU2107384,427,323,466,65.27,52.22,increasing,high
+193,Air Filters for Ford Focus 2010,FOFO1007589,105,102,125,19.35,15.48,decreasing,medium
+194,Air Filters for Nissan Rogue 2015,NIRO1507523,376,382,406,64.2,51.36,stable,medium
+195,Air Filters for Chevrolet Suburban 2022,CHSU2207666,141,119,139,23.13,18.51,stable,medium
+196,Air Filters for Audi Q5 2022,AUQ52207486,226,169,207,40.06,32.05,stable,high
+197,Air Filters for Chevrolet Malibu 2023,CHMA2307774,138,122,119,40.8,32.64,stable,medium
+198,Air Filters for Nissan Sentra 2023,NISE2307926,937,708,1084,28.87,23.1,decreasing,low
+199,Air Filters for Audi Q5 2020,AUQ52007486,106,89,97,54.51,43.61,increasing,high
+200,Air Filters for Hyundai Sonata 2005,HYSO507250,467,374,412,23.51,18.8,increasing,medium
+201,Air Filters for BMW 5 Series 2011,BM5 1107688,277,264,256,38.56,30.85,stable,medium
+202,Air Filters for Mercedes GLE 2016,MEGL1607272,668,529,659,49.95,39.96,stable,high
+203,Air Filters for Ford Focus 2023,FOFO2307102,413,432,407,35.48,28.38,stable,medium
+204,Air Filters for Hyundai Santa Fe 2006,HYSA607141,300,349,318,69.21,55.37,stable,low
+205,Air Filters for Honda Odyssey 2015,HOOD1507903,629,776,753,24.6,19.68,decreasing,low
+206,Air Filters for Toyota RAV4 2020,TORA2007688,773,583,690,77.05,61.64,stable,low
+207,Air Filters for Honda CR-V 2017,HOCR1707515,198,183,171,63.38,50.7,increasing,high
+208,Air Filters for Mercedes GLE 2019,MEGL1907844,347,207,318,44.84,35.87,increasing,medium
+209,Air Filters for Hyundai Kona 2014,HYKO1407929,391,266,392,74.14,59.32,decreasing,medium
+210,Air Filters for Hyundai Sonata 2007,HYSO707841,1025,876,948,15.79,12.63,decreasing,medium
+211,Starters for Hyundai Kona 2014,HYKO1408211,173,120,186,313.39,250.72,increasing,medium
+212,Starters for Ford Focus 2010,FOFO1008487,385,359,335,341.64,273.31,increasing,medium
+213,Starters for Audi Q5 2020,AUQ52008917,623,485,594,240.56,192.45,decreasing,low
+214,Starters for Ford Explorer 2022,FOEX2208676,521,470,581,395.85,316.68,increasing,medium
+215,Starters for BMW 5 Series 2011,BM5 1108234,565,349,457,257.79,206.24,increasing,low
+216,Starters for Hyundai Santa Fe 2021,HYSA2108646,565,453,456,413.98,331.19,stable,medium
+217,Starters for BMW X5 2022,BMX52208346,867,1082,999,239.89,191.91,increasing,medium
+218,Starters for Audi Q5 2022,AUQ52208286,715,621,783,403.52,322.82,stable,medium
+219,Starters for Toyota RAV4 2020,TORA2008532,390,346,432,284.43,227.54,stable,high
+220,Starters for Honda CR-V 2017,HOCR1708303,263,178,233,309.15,247.32,stable,medium
+221,Starters for Nissan Sentra 2023,NISE2308481,287,258,290,256.6,205.28,stable,low
+222,Starters for Ford Explorer 2020,FOEX2008182,1040,681,1114,171.97,137.58,stable,medium
+223,Starters for Mercedes GLC 2015,MEGL1508331,776,594,685,361.93,289.54,decreasing,medium
+224,Starters for Kia Sportage 2023,KISP2308548,670,665,685,187.84,150.27,stable,low
+225,Starters for Honda Odyssey 2015,HOOD1508312,542,531,494,368.72,294.98,increasing,medium
+226,Starters for Chevrolet Suburban 2022,CHSU2208722,569,529,502,413.54,330.83,increasing,medium
+227,Starters for Audi Q7 2011,AUQ71108787,1144,713,1164,238.53,190.83,stable,medium
+228,Starters for Hyundai Sonata 2005,HYSO508133,739,587,823,392.26,313.81,increasing,medium
+229,Starters for Ford Focus 2023,FOFO2308981,720,557,635,326.27,261.02,increasing,low
+230,Starters for Chevrolet Malibu 2023,CHMA2308238,297,228,273,190.73,152.59,stable,medium
+231,Starters for Hyundai Santa Fe 2006,HYSA608866,919,819,905,231.35,185.08,stable,medium
+232,Starters for Nissan Rogue 2015,NIRO1508699,588,421,597,374.55,299.64,stable,medium
+233,Starters for Hyundai Sonata 2017,HYSO1708695,281,170,233,387.24,309.79,stable,medium
+234,Starters for Chevrolet Suburban 2021,CHSU2108124,564,599,603,208.73,166.98,decreasing,low
+235,Starters for Kia Soul 2006,KISO608975,388,431,445,271.83,217.47,increasing,medium
+236,Starters for Hyundai Sonata 2023,HYSO2308766,190,123,188,163.18,130.54,decreasing,medium
+237,Starters for Mercedes GLE 2016,MEGL1608495,406,283,451,423.7,338.96,decreasing,medium
+238,Starters for Mercedes GLE 2019,MEGL1908623,498,314,497,174.68,139.74,decreasing,medium
+239,Starters for Toyota Highlander 2013,TOHI1308629,977,968,951,362.3,289.84,stable,medium
+240,Starters for Hyundai Sonata 2007,HYSO708308,272,189,297,411.35,329.08,stable,medium
+241,Water Pumps for Honda Odyssey 2015,HOOD1509948,1041,873,1233,300.29,240.23,decreasing,medium
+242,Water Pumps for Mercedes GLE 2019,MEGL1909964,615,581,737,224.59,179.67,increasing,low
+243,Water Pumps for Hyundai Kona 2014,HYKO1409949,486,495,542,150.54,120.43,increasing,low
+244,Water Pumps for Ford Explorer 2020,FOEX2009355,316,229,277,201.08,160.87,increasing,medium
+245,Water Pumps for Chevrolet Suburban 2021,CHSU2109565,892,445,738,280.41,224.33,decreasing,medium
+246,Water Pumps for Audi Q5 2022,AUQ52209441,823,810,835,234.83,187.86,increasing,low
+247,Water Pumps for Nissan Rogue 2015,NIRO1509491,182,146,167,230.28,184.23,increasing,medium
+248,Water Pumps for Audi Q5 2020,AUQ52009207,766,643,873,177.33,141.86,stable,high
+249,Water Pumps for Hyundai Sonata 2005,HYSO509128,470,302,398,101.51,81.2,stable,low
+250,Water Pumps for Mercedes GLC 2015,MEGL1509115,549,383,492,143.97,115.18,increasing,medium
+251,Water Pumps for Hyundai Sonata 2017,HYSO1709620,1127,690,1144,68.83,55.07,decreasing,medium
+252,Water Pumps for Chevrolet Suburban 2022,CHSU2209972,802,577,763,293.09,234.47,stable,medium
+253,Water Pumps for Ford Focus 2010,FOFO1009908,401,249,356,84.12,67.3,decreasing,high
+254,Water Pumps for Chevrolet Malibu 2023,CHMA2309858,559,552,577,151.28,121.02,decreasing,high
+255,Water Pumps for BMW X5 2022,BMX52209189,364,230,357,240.73,192.59,decreasing,medium
+256,Water Pumps for Kia Soul 2006,KISO609303,418,294,427,254.44,203.55,decreasing,medium
+257,Water Pumps for BMW 5 Series 2011,BM5 1109402,686,548,703,184.49,147.59,decreasing,high
+258,Water Pumps for Toyota RAV4 2020,TORA2009487,165,137,187,82.72,66.18,increasing,medium
+259,Water Pumps for Nissan Sentra 2023,NISE2309258,163,117,188,152.26,121.8,stable,medium
+260,Water Pumps for Toyota Highlander 2013,TOHI1309498,767,579,674,240.91,192.73,increasing,medium
+261,Water Pumps for Hyundai Santa Fe 2006,HYSA609363,456,438,418,145.36,116.29,increasing,medium
+262,Water Pumps for Mercedes GLE 2016,MEGL1609914,242,156,234,63.36,50.69,increasing,high
+263,Water Pumps for Ford Focus 2023,FOFO2309179,172,136,191,116.35,93.08,decreasing,high
+264,Water Pumps for Kia Sportage 2023,KISP2309353,695,720,686,180.58,144.46,stable,medium
+265,Water Pumps for Ford Explorer 2022,FOEX2209416,938,672,1002,241.3,193.04,decreasing,high
+266,Water Pumps for Honda CR-V 2017,HOCR1709914,518,603,594,119.89,95.91,decreasing,low
+267,Water Pumps for Hyundai Sonata 2007,HYSO709637,814,611,965,251.99,201.59,stable,high
+268,Water Pumps for Hyundai Sonata 2023,HYSO2309711,273,252,241,239.34,191.47,stable,medium
+269,Water Pumps for Audi Q7 2011,AUQ71109235,678,501,557,133.71,106.97,decreasing,medium
+270,Water Pumps for Hyundai Santa Fe 2021,HYSA2109126,341,309,343,190.72,152.57,stable,medium
+271,Fuel Pumps for Honda CR-V 2017,HOCR1710970,260,164,235,93.54,74.84,stable,medium
+272,Fuel Pumps for Hyundai Sonata 2005,HYSO510693,834,792,899,116.82,93.45,decreasing,low
+273,Fuel Pumps for Nissan Rogue 2015,NIRO1510813,232,172,188,191.1,152.88,increasing,low
+274,Fuel Pumps for Hyundai Santa Fe 2021,HYSA2110189,457,453,479,260.13,208.1,increasing,medium
+275,Fuel Pumps for Kia Soul 2006,KISO610489,102,107,109,131.76,105.41,increasing,low
+276,Fuel Pumps for Ford Focus 2010,FOFO1010678,786,673,894,453.73,362.98,increasing,low
+277,Fuel Pumps for Mercedes GLE 2016,MEGL1610123,387,463,445,381.63,305.3,decreasing,medium
+278,Fuel Pumps for Kia Sportage 2023,KISP2310245,131,120,135,319.53,255.62,increasing,medium
+279,Fuel Pumps for Ford Focus 2023,FOFO2310434,319,260,360,373.71,298.97,stable,low
+280,Fuel Pumps for Hyundai Santa Fe 2006,HYSA610377,985,640,797,82.9,66.32,decreasing,medium
+281,Fuel Pumps for Ford Explorer 2020,FOEX2010834,302,306,319,302.31,241.84,stable,high
+282,Fuel Pumps for BMW 5 Series 2011,BM5 1110816,1016,799,911,413.06,330.45,stable,high
+283,Fuel Pumps for Nissan Sentra 2023,NISE2310207,265,213,264,332.82,266.25,decreasing,high
+284,Fuel Pumps for Ford Explorer 2022,FOEX2210477,242,174,248,349.8,279.84,stable,medium
+285,Fuel Pumps for Toyota Highlander 2013,TOHI1310303,472,268,410,397.3,317.84,stable,low
+286,Fuel Pumps for Mercedes GLC 2015,MEGL1510611,745,701,671,130.95,104.76,increasing,medium
+287,Fuel Pumps for Hyundai Sonata 2007,HYSO710882,259,290,278,434.31,347.45,increasing,low
+288,Fuel Pumps for Audi Q7 2011,AUQ71110184,881,791,958,276.34,221.07,decreasing,high
+289,Fuel Pumps for Chevrolet Malibu 2023,CHMA2310192,904,671,1039,134.27,107.42,stable,high
+290,Fuel Pumps for Mercedes GLE 2019,MEGL1910621,482,423,540,352.24,281.79,decreasing,high
+291,Fuel Pumps for Chevrolet Suburban 2021,CHSU2110122,234,195,277,110.49,88.39,increasing,high
+292,Fuel Pumps for Hyundai Sonata 2017,HYSO1710274,1066,1003,995,89.61,71.69,stable,medium
+293,Fuel Pumps for Audi Q5 2022,AUQ52210926,443,326,454,197.4,157.92,stable,medium
+294,Fuel Pumps for Honda Odyssey 2015,HOOD1510251,493,416,569,143.02,114.41,stable,high
+295,Fuel Pumps for Toyota RAV4 2020,TORA2010654,928,645,1067,315.61,252.49,stable,low
+296,Fuel Pumps for Audi Q5 2020,AUQ52010853,661,674,712,373.89,299.11,stable,medium
+297,Fuel Pumps for Hyundai Sonata 2023,HYSO2310491,254,264,244,400.33,320.26,decreasing,medium
+298,Fuel Pumps for Hyundai Kona 2014,HYKO1410831,916,795,895,333.77,267.01,stable,low
+299,Fuel Pumps for BMW X5 2022,BMX52210116,709,565,572,313.59,250.87,decreasing,medium
+300,Fuel Pumps for Chevrolet Suburban 2022,CHSU2210972,1096,759,996,250.08,200.06,decreasing,high

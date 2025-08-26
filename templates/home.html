@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Automotive Parts Prediction & Inventory Optimization</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            padding-top: 2rem;
+            background-color: #f8f9fa;
+        }
+        .jumbotron {
+            background-color: #e9ecef;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border-radius: 0.3rem;
+        }
+        .card {
+            margin-bottom: 1.5rem;
+            transition: transform 0.3s;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+        }
+        .card-img-top {
+            height: 200px;
+            object-fit: cover;
+        }
+        #chat-button {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1000;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        #chat-button:hover {
+            transform: scale(1.1);
+            background-color: #0069d9;
+        }
+        #chat-button svg {
+            width: 30px;
+            height: 30px;
+        }
+        #chat-overlay {
+            position: fixed;
+            bottom: 100px;
+            right: 30px;
+            width: 380px;
+            z-index: 999;
+            display: none;
+            box-shadow: 0 5px 25px rgba(0,0,0,0.2);
+            border-radius: 10px;
+        }
+        .chat-section {
+            padding: 2rem 0;
+            background-color: #f0f2f5;
+            border-radius: 0.3rem;
+            margin-top: 1rem;
+        }
+        .chat-section h2 {
+            text-align: center;
+            margin-bottom: 1.5rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="jumbotron text-center">
+            <h1 class="display-4">Automotive Parts Prediction & Inventory Optimization</h1>
+            <p class="lead">A proof-of-concept system for predicting component failures and optimizing inventory</p>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card h-100">
+                    <img src="https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" class="card-img-top" alt="Warehouse">
+                    <div class="card-body">
+                        <h5 class="card-title">For Distributors</h5>
+                        <p class="card-text">View parts demand forecasts and stock recommendations to optimize your inventory.</p>
+                        <ul>
+                            <li>Predict parts demand across a region</li>
+                            <li>Get stock level recommendations</li>
+                            <li>Identify high-demand parts</li>
+                        </ul>
+                        <a href="/distributor" class="btn btn-primary">Go to Distributor Dashboard</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card h-100">
+                    <img src="https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" class="card-img-top" alt="Auto Shop">
+                    <div class="card-body">
+                        <h5 class="card-title">For Automotive Shops</h5>
+                        <p class="card-text">Predict component failures and find the right parts for specific vehicles.</p>
+                        <ul>
+                            <li>Predict component failures based on vehicle details</li>
+                            <li>Get part recommendations for specific vehicles</li>
+                            <li>Search for parts using natural language</li>
+                        </ul>
+                        <a href="/shop" class="btn btn-primary">Go to Shop Interface</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="chat-section mt-5">
+            <h2>Inquire about the system</h2>
+            <p class="text-center mb-4">Our intelligent assistant can help you understand how our prediction system works,
+                find specific parts, or explain any aspect of our application.</p>
+            <div id="embedded-chat" class="mx-auto" style="max-width: 600px;">
+                <!-- Chat interface will be loaded here -->
+                <iframe src="/chat-frame" width="100%" height="500px" frameborder="0" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"></iframe>
+            </div>
+        </div>
+
+        <footer class="mt-5 text-center text-muted">
+            <p>Automotive Parts Prediction & Inventory Optimization - Proof of Concept</p>
+        </footer>
+    </div>
+
+    <!-- Floating chat button -->
+    <button id="chat-button" title="Chat with our assistant">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+        </svg>
+    </button>
+
+    <!-- Chat overlay -->
+    <div id="chat-overlay">
+        <iframe src="/chat-frame" width="100%" height="600px" frameborder="0" style="border-radius: 10px;"></iframe>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const chatButton = document.getElementById('chat-button');
+            const chatOverlay = document.getElementById('chat-overlay');
+            
+            chatButton.addEventListener('click', function() {
+                if (chatOverlay.style.display === 'none' || chatOverlay.style.display === '') {
+                    chatOverlay.style.display = 'block';
+                } else {
+                    chatOverlay.style.display = 'none';
+                }
+            });
+        });
+    </script>
+</body>
+</html> 

@@ -1,0 +1,107 @@
+# Environment variables and configuration
+.env
+.env.*
+*.config
+config.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Node.js
+node_modules/
+
+# Frontend specific
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.env.*
+frontend/coverage/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+notebooks/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Generated data files
+*.csv
+# Allow specific data files needed by the application
+!demand_forecast.csv
+!generative_data/regional_demand.csv
+# Allow all CSV files in data directories
+!static_data/*.csv
+!generative_data/data/*.csv
+# Allow data files needed for deployment
+!frontend/public/static_data/*.csv
+!frontend/public/generative_data/data/*.csv
+
+# Saved models
+models/*.pkl
+models/*.joblib
+models/*.h5
+models/*.keras
+models/*.pt
+models/*.pth
+models/*.onnx
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+*.temp
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Development and planning directories
+brainstorming/
+planning/
+docs/drafts/
+
+# Local testing scripts
+test_*.py
+*_test.py
+test_env.py
+
+# Deployment specific
+.dockerignore
+docker-compose.override.yml
+
+# Specific files to exclude
+IMPLEMENT.md 

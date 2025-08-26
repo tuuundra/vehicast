@@ -1,0 +1,301 @@
+part_id,part_name,part_number,component_name,vehicle_type,expected_demand,recommended_stock
+102,Spark Plugs for Nissan Rogue 2015,NIRO1504116,spark plugs,2015 Nissan Rogue,28,33
+38,Batteries for Nissan Rogue 2015,NIRO1502959,batteries,2015 Nissan Rogue,28,33
+232,Starters for Nissan Rogue 2015,NIRO1508699,starters,2015 Nissan Rogue,28,33
+165,Oil Filters for Nissan Rogue 2015,NIRO1506956,oil filters,2015 Nissan Rogue,28,33
+133,Tires for Nissan Rogue 2015,NIRO1505897,tires,2015 Nissan Rogue,28,33
+247,Water Pumps for Nissan Rogue 2015,NIRO1509491,water pumps,2015 Nissan Rogue,28,33
+80,Alternators for Nissan Rogue 2015,NIRO1503928,alternators,2015 Nissan Rogue,28,33
+194,Air Filters for Nissan Rogue 2015,NIRO1507523,air filters,2015 Nissan Rogue,28,33
+273,Fuel Pumps for Nissan Rogue 2015,NIRO1510813,fuel pumps,2015 Nissan Rogue,28,33
+20,Brakes for Nissan Rogue 2015,NIRO1501400,brakes,2015 Nissan Rogue,28,33
+176,Oil Filters for Hyundai Kona 2014,HYKO1406155,oil filters,2014 Hyundai Kona,25,30
+87,Alternators for Hyundai Kona 2014,HYKO1403564,alternators,2014 Hyundai Kona,25,30
+114,Spark Plugs for Hyundai Kona 2014,HYKO1404458,spark plugs,2014 Hyundai Kona,25,30
+1,Brakes for Hyundai Kona 2014,HYKO1401676,brakes,2014 Hyundai Kona,25,30
+60,Batteries for Hyundai Kona 2014,HYKO1402375,batteries,2014 Hyundai Kona,25,30
+142,Tires for Hyundai Kona 2014,HYKO1405299,tires,2014 Hyundai Kona,25,30
+298,Fuel Pumps for Hyundai Kona 2014,HYKO1410831,fuel pumps,2014 Hyundai Kona,25,30
+209,Air Filters for Hyundai Kona 2014,HYKO1407929,air filters,2014 Hyundai Kona,25,30
+243,Water Pumps for Hyundai Kona 2014,HYKO1409949,water pumps,2014 Hyundai Kona,25,30
+211,Starters for Hyundai Kona 2014,HYKO1408211,starters,2014 Hyundai Kona,25,30
+41,Batteries for Honda CR-V 2017,HOCR1702995,batteries,2017 Honda CR-V,24,29
+220,Starters for Honda CR-V 2017,HOCR1708303,starters,2017 Honda CR-V,24,29
+115,Spark Plugs for Honda CR-V 2017,HOCR1704961,spark plugs,2017 Honda CR-V,24,29
+10,Brakes for Honda CR-V 2017,HOCR1701577,brakes,2017 Honda CR-V,24,29
+149,Tires for Honda CR-V 2017,HOCR1705175,tires,2017 Honda CR-V,24,29
+163,Oil Filters for Honda CR-V 2017,HOCR1706538,oil filters,2017 Honda CR-V,24,29
+81,Alternators for Honda CR-V 2017,HOCR1703591,alternators,2017 Honda CR-V,24,29
+207,Air Filters for Honda CR-V 2017,HOCR1707515,air filters,2017 Honda CR-V,24,29
+271,Fuel Pumps for Honda CR-V 2017,HOCR1710970,fuel pumps,2017 Honda CR-V,24,29
+266,Water Pumps for Honda CR-V 2017,HOCR1709914,water pumps,2017 Honda CR-V,24,29
+250,Water Pumps for Mercedes GLC 2015,MEGL1509115,water pumps,2015 Mercedes GLC,22,26
+286,Fuel Pumps for Mercedes GLC 2015,MEGL1510611,fuel pumps,2015 Mercedes GLC,22,26
+180,Oil Filters for Mercedes GLC 2015,MEGL1506872,oil filters,2015 Mercedes GLC,22,26
+21,Brakes for Mercedes GLC 2015,MEGL1501571,brakes,2015 Mercedes GLC,22,26
+119,Spark Plugs for Mercedes GLC 2015,MEGL1504786,spark plugs,2015 Mercedes GLC,22,26
+69,Alternators for Mercedes GLC 2015,MEGL1503940,alternators,2015 Mercedes GLC,22,26
+126,Tires for Mercedes GLC 2015,MEGL1505449,tires,2015 Mercedes GLC,22,26
+223,Starters for Mercedes GLC 2015,MEGL1508331,starters,2015 Mercedes GLC,22,26
+39,Batteries for Mercedes GLC 2015,MEGL1502350,batteries,2015 Mercedes GLC,22,26
+183,Air Filters for Mercedes GLC 2015,MEGL1507884,air filters,2015 Mercedes GLC,22,26
+275,Fuel Pumps for Kia Soul 2006,KISO610489,fuel pumps,2006 Kia Soul,21,25
+182,Air Filters for BMW X5 2022,BMX52207339,air filters,2022 BMW X5,21,25
+191,Air Filters for Kia Soul 2006,KISO607440,air filters,2006 Kia Soul,21,25
+255,Water Pumps for BMW X5 2022,BMX52209189,water pumps,2022 BMW X5,21,25
+113,Spark Plugs for BMW X5 2022,BMX52204796,spark plugs,2022 BMW X5,21,25
+17,Brakes for BMW X5 2022,BMX52201732,brakes,2022 BMW X5,21,25
+143,Tires for BMW X5 2022,BMX52205284,tires,2022 BMW X5,21,25
+161,Oil Filters for BMW X5 2022,BMX52206787,oil filters,2022 BMW X5,21,25
+44,Batteries for Kia Soul 2006,KISO602262,batteries,2006 Kia Soul,21,25
+256,Water Pumps for Kia Soul 2006,KISO609303,water pumps,2006 Kia Soul,21,25
+235,Starters for Kia Soul 2006,KISO608975,starters,2006 Kia Soul,21,25
+91,Spark Plugs for Kia Soul 2006,KISO604987,spark plugs,2006 Kia Soul,21,25
+49,Batteries for BMW X5 2022,BMX52202577,batteries,2022 BMW X5,21,25
+22,Brakes for Kia Soul 2006,KISO601306,brakes,2006 Kia Soul,21,25
+138,Tires for Kia Soul 2006,KISO605589,tires,2006 Kia Soul,21,25
+174,Oil Filters for Kia Soul 2006,KISO606794,oil filters,2006 Kia Soul,21,25
+72,Alternators for Kia Soul 2006,KISO603977,alternators,2006 Kia Soul,21,25
+217,Starters for BMW X5 2022,BMX52208346,starters,2022 BMW X5,21,25
+63,Alternators for BMW X5 2022,BMX52203956,alternators,2022 BMW X5,21,25
+299,Fuel Pumps for BMW X5 2022,BMX52210116,fuel pumps,2022 BMW X5,21,25
+242,Water Pumps for Mercedes GLE 2019,MEGL1909964,water pumps,2019 Mercedes GLE,20,23
+5,Brakes for Hyundai Sonata 2017,HYSO1701397,brakes,2017 Hyundai Sonata,20,23
+106,Spark Plugs for Hyundai Sonata 2017,HYSO1704639,spark plugs,2017 Hyundai Sonata,20,23
+15,Brakes for Mercedes GLE 2019,MEGL1901109,brakes,2019 Mercedes GLE,20,23
+58,Batteries for Hyundai Sonata 2017,HYSO1702448,batteries,2017 Hyundai Sonata,20,23
+251,Water Pumps for Hyundai Sonata 2017,HYSO1709620,water pumps,2017 Hyundai Sonata,20,23
+152,Oil Filters for Mercedes GLE 2019,MEGL1906202,oil filters,2019 Mercedes GLE,20,23
+189,Air Filters for Hyundai Sonata 2017,HYSO1707245,air filters,2017 Hyundai Sonata,20,23
+292,Fuel Pumps for Hyundai Sonata 2017,HYSO1710274,fuel pumps,2017 Hyundai Sonata,20,23
+62,Alternators for Hyundai Sonata 2017,HYSO1703406,alternators,2017 Hyundai Sonata,20,23
+172,Oil Filters for Hyundai Sonata 2017,HYSO1706185,oil filters,2017 Hyundai Sonata,20,23
+139,Tires for Hyundai Sonata 2017,HYSO1705761,tires,2017 Hyundai Sonata,20,23
+233,Starters for Hyundai Sonata 2017,HYSO1708695,starters,2017 Hyundai Sonata,20,23
+141,Tires for Mercedes GLE 2019,MEGL1905818,tires,2019 Mercedes GLE,20,23
+79,Alternators for Mercedes GLE 2019,MEGL1903871,alternators,2019 Mercedes GLE,20,23
+238,Starters for Mercedes GLE 2019,MEGL1908623,starters,2019 Mercedes GLE,20,23
+290,Fuel Pumps for Mercedes GLE 2019,MEGL1910621,fuel pumps,2019 Mercedes GLE,20,23
+208,Air Filters for Mercedes GLE 2019,MEGL1907844,air filters,2019 Mercedes GLE,20,23
+116,Spark Plugs for Mercedes GLE 2019,MEGL1904865,spark plugs,2019 Mercedes GLE,20,23
+56,Batteries for Mercedes GLE 2019,MEGL1902229,batteries,2019 Mercedes GLE,20,23
+190,Air Filters for Hyundai Sonata 2023,HYSO2307540,air filters,2023 Hyundai Sonata,19,23
+187,Air Filters for Audi Q7 2011,AUQ71107883,air filters,2011 Audi Q7,19,22
+288,Fuel Pumps for Audi Q7 2011,AUQ71110184,fuel pumps,2011 Audi Q7,19,22
+297,Fuel Pumps for Hyundai Sonata 2023,HYSO2310491,fuel pumps,2023 Hyundai Sonata,19,23
+129,Tires for Audi Q7 2011,AUQ71105588,tires,2011 Audi Q7,19,22
+127,Tires for Hyundai Sonata 2023,HYSO2305217,tires,2023 Hyundai Sonata,19,23
+269,Water Pumps for Audi Q7 2011,AUQ71109235,water pumps,2011 Audi Q7,19,22
+19,Brakes for Hyundai Sonata 2023,HYSO2301191,brakes,2023 Hyundai Sonata,19,23
+107,Spark Plugs for Audi Q7 2011,AUQ71104167,spark plugs,2011 Audi Q7,19,22
+65,Alternators for Hyundai Sonata 2023,HYSO2303860,alternators,2023 Hyundai Sonata,19,23
+268,Water Pumps for Hyundai Sonata 2023,HYSO2309711,water pumps,2023 Hyundai Sonata,19,23
+227,Starters for Audi Q7 2011,AUQ71108787,starters,2011 Audi Q7,19,22
+75,Alternators for Audi Q7 2011,AUQ71103397,alternators,2011 Audi Q7,19,22
+171,Oil Filters for Audi Q7 2011,AUQ71106445,oil filters,2011 Audi Q7,19,22
+236,Starters for Hyundai Sonata 2023,HYSO2308766,starters,2023 Hyundai Sonata,19,23
+53,Batteries for Audi Q7 2011,AUQ71102953,batteries,2011 Audi Q7,19,22
+153,Oil Filters for Hyundai Sonata 2023,HYSO2306364,oil filters,2023 Hyundai Sonata,19,23
+105,Spark Plugs for Hyundai Sonata 2023,HYSO2304969,spark plugs,2023 Hyundai Sonata,19,23
+42,Batteries for Hyundai Sonata 2023,HYSO2302156,batteries,2023 Hyundai Sonata,19,23
+28,Brakes for Audi Q7 2011,AUQ71101762,brakes,2011 Audi Q7,19,22
+109,Spark Plugs for Chevrolet Suburban 2022,CHSU2204552,spark plugs,2022 Chevrolet Suburban,18,21
+6,Brakes for Kia Sportage 2023,KISP2301544,brakes,2023 Kia Sportage,18,22
+224,Starters for Kia Sportage 2023,KISP2308548,starters,2023 Kia Sportage,18,22
+24,Brakes for Chevrolet Suburban 2022,CHSU2201102,brakes,2022 Chevrolet Suburban,18,21
+221,Starters for Nissan Sentra 2023,NISE2308481,starters,2023 Nissan Sentra,18,22
+93,Spark Plugs for Nissan Sentra 2023,NISE2304185,spark plugs,2023 Nissan Sentra,18,22
+134,Tires for Nissan Sentra 2023,NISE2305272,tires,2023 Nissan Sentra,18,22
+283,Fuel Pumps for Nissan Sentra 2023,NISE2310207,fuel pumps,2023 Nissan Sentra,18,22
+140,Tires for Chevrolet Suburban 2022,CHSU2205443,tires,2022 Chevrolet Suburban,18,21
+112,Spark Plugs for Kia Sportage 2023,KISP2304701,spark plugs,2023 Kia Sportage,18,22
+226,Starters for Chevrolet Suburban 2022,CHSU2208722,starters,2022 Chevrolet Suburban,18,21
+164,Oil Filters for Nissan Sentra 2023,NISE2306471,oil filters,2023 Nissan Sentra,18,22
+158,Oil Filters for Chevrolet Suburban 2022,CHSU2206429,oil filters,2022 Chevrolet Suburban,18,21
+155,Oil Filters for Kia Sportage 2023,KISP2306329,oil filters,2023 Kia Sportage,18,22
+3,Brakes for Nissan Sentra 2023,NISE2301606,brakes,2023 Nissan Sentra,18,22
+278,Fuel Pumps for Kia Sportage 2023,KISP2310245,fuel pumps,2023 Kia Sportage,18,22
+144,Tires for Kia Sportage 2023,KISP2305314,tires,2023 Kia Sportage,18,22
+300,Fuel Pumps for Chevrolet Suburban 2022,CHSU2210972,fuel pumps,2022 Chevrolet Suburban,18,21
+85,Alternators for Chevrolet Suburban 2022,CHSU2203692,alternators,2022 Chevrolet Suburban,18,21
+259,Water Pumps for Nissan Sentra 2023,NISE2309258,water pumps,2023 Nissan Sentra,18,22
+188,Air Filters for Kia Sportage 2023,KISP2307947,air filters,2023 Kia Sportage,18,22
+57,Batteries for Nissan Sentra 2023,NISE2302294,batteries,2023 Nissan Sentra,18,22
+64,Alternators for Kia Sportage 2023,KISP2303725,alternators,2023 Kia Sportage,18,22
+195,Air Filters for Chevrolet Suburban 2022,CHSU2207666,air filters,2022 Chevrolet Suburban,18,21
+198,Air Filters for Nissan Sentra 2023,NISE2307926,air filters,2023 Nissan Sentra,18,22
+252,Water Pumps for Chevrolet Suburban 2022,CHSU2209972,water pumps,2022 Chevrolet Suburban,18,21
+43,Batteries for Chevrolet Suburban 2022,CHSU2202765,batteries,2022 Chevrolet Suburban,18,21
+40,Batteries for Kia Sportage 2023,KISP2302446,batteries,2023 Kia Sportage,18,22
+264,Water Pumps for Kia Sportage 2023,KISP2309353,water pumps,2023 Kia Sportage,18,22
+90,Alternators for Nissan Sentra 2023,NISE2303591,alternators,2023 Nissan Sentra,18,22
+36,Batteries for Hyundai Santa Fe 2006,HYSA602987,batteries,2006 Hyundai Santa Fe,17,21
+184,Air Filters for Toyota Highlander 2013,TOHI1307699,air filters,2013 Toyota Highlander,17,20
+7,Brakes for Toyota Highlander 2013,TOHI1301395,brakes,2013 Toyota Highlander,17,20
+86,Alternators for Hyundai Santa Fe 2006,HYSA603974,alternators,2006 Hyundai Santa Fe,17,21
+229,Starters for Ford Focus 2023,FOFO2308981,starters,2023 Ford Focus,17,21
+285,Fuel Pumps for Toyota Highlander 2013,TOHI1310303,fuel pumps,2013 Toyota Highlander,17,20
+14,Brakes for Hyundai Santa Fe 2006,HYSA601804,brakes,2006 Hyundai Santa Fe,17,21
+59,Batteries for Toyota Highlander 2013,TOHI1302795,batteries,2013 Toyota Highlander,17,20
+154,Oil Filters for Ford Focus 2023,FOFO2306980,oil filters,2023 Ford Focus,17,21
+167,Oil Filters for Audi Q5 2022,AUQ52206171,oil filters,2022 Audi Q5,17,20
+66,Alternators for Toyota Highlander 2013,TOHI1303671,alternators,2013 Toyota Highlander,17,20
+50,Batteries for Ford Focus 2023,FOFO2302163,batteries,2023 Ford Focus,17,21
+76,Alternators for Audi Q5 2022,AUQ52203280,alternators,2022 Audi Q5,17,20
+27,Brakes for Ford Focus 2023,FOFO2301461,brakes,2023 Ford Focus,17,21
+118,Spark Plugs for Toyota Highlander 2013,TOHI1304583,spark plugs,2013 Toyota Highlander,17,20
+218,Starters for Audi Q5 2022,AUQ52208286,starters,2022 Audi Q5,17,20
+92,Spark Plugs for Audi Q5 2022,AUQ52204618,spark plugs,2022 Audi Q5,17,20
+231,Starters for Hyundai Santa Fe 2006,HYSA608866,starters,2006 Hyundai Santa Fe,17,21
+99,Spark Plugs for Hyundai Santa Fe 2006,HYSA604923,spark plugs,2006 Hyundai Santa Fe,17,21
+178,Oil Filters for Toyota Highlander 2013,TOHI1306946,oil filters,2013 Toyota Highlander,17,20
+169,Oil Filters for Hyundai Santa Fe 2006,HYSA606150,oil filters,2006 Hyundai Santa Fe,17,21
+33,Batteries for Audi Q5 2022,AUQ52202435,batteries,2022 Audi Q5,17,20
+77,Alternators for Ford Focus 2023,FOFO2303529,alternators,2023 Ford Focus,17,21
+94,Spark Plugs for Ford Focus 2023,FOFO2304457,spark plugs,2023 Ford Focus,17,21
+293,Fuel Pumps for Audi Q5 2022,AUQ52210926,fuel pumps,2022 Audi Q5,17,20
+263,Water Pumps for Ford Focus 2023,FOFO2309179,water pumps,2023 Ford Focus,17,21
+279,Fuel Pumps for Ford Focus 2023,FOFO2310434,fuel pumps,2023 Ford Focus,17,21
+2,Brakes for Audi Q5 2022,AUQ52201332,brakes,2022 Audi Q5,17,20
+239,Starters for Toyota Highlander 2013,TOHI1308629,starters,2013 Toyota Highlander,17,20
+261,Water Pumps for Hyundai Santa Fe 2006,HYSA609363,water pumps,2006 Hyundai Santa Fe,17,21
+203,Air Filters for Ford Focus 2023,FOFO2307102,air filters,2023 Ford Focus,17,21
+204,Air Filters for Hyundai Santa Fe 2006,HYSA607141,air filters,2006 Hyundai Santa Fe,17,21
+246,Water Pumps for Audi Q5 2022,AUQ52209441,water pumps,2022 Audi Q5,17,20
+146,Tires for Ford Focus 2023,FOFO2305439,tires,2023 Ford Focus,17,21
+196,Air Filters for Audi Q5 2022,AUQ52207486,air filters,2022 Audi Q5,17,20
+147,Tires for Hyundai Santa Fe 2006,HYSA605634,tires,2006 Hyundai Santa Fe,17,21
+280,Fuel Pumps for Hyundai Santa Fe 2006,HYSA610377,fuel pumps,2006 Hyundai Santa Fe,17,21
+150,Tires for Toyota Highlander 2013,TOHI1305849,tires,2013 Toyota Highlander,17,20
+148,Tires for Audi Q5 2022,AUQ52205168,tires,2022 Audi Q5,17,20
+260,Water Pumps for Toyota Highlander 2013,TOHI1309498,water pumps,2013 Toyota Highlander,17,20
+124,Tires for Mercedes GLE 2016,MEGL1605963,tires,2016 Mercedes GLE,16,20
+82,Alternators for Mercedes GLE 2016,MEGL1603315,alternators,2016 Mercedes GLE,16,20
+202,Air Filters for Mercedes GLE 2016,MEGL1607272,air filters,2016 Mercedes GLE,16,20
+37,Batteries for Mercedes GLE 2016,MEGL1602642,batteries,2016 Mercedes GLE,16,20
+173,Oil Filters for Mercedes GLE 2016,MEGL1606719,oil filters,2016 Mercedes GLE,16,20
+95,Spark Plugs for Mercedes GLE 2016,MEGL1604625,spark plugs,2016 Mercedes GLE,16,20
+262,Water Pumps for Mercedes GLE 2016,MEGL1609914,water pumps,2016 Mercedes GLE,16,20
+237,Starters for Mercedes GLE 2016,MEGL1608495,starters,2016 Mercedes GLE,16,20
+277,Fuel Pumps for Mercedes GLE 2016,MEGL1610123,fuel pumps,2016 Mercedes GLE,16,20
+23,Brakes for Mercedes GLE 2016,MEGL1601786,brakes,2016 Mercedes GLE,16,20
+289,Fuel Pumps for Chevrolet Malibu 2023,CHMA2310192,fuel pumps,2023 Chevrolet Malibu,15,18
+276,Fuel Pumps for Ford Focus 2010,FOFO1010678,fuel pumps,2010 Ford Focus,15,18
+125,Tires for Ford Focus 2010,FOFO1005776,tires,2010 Ford Focus,15,18
+210,Air Filters for Hyundai Sonata 2007,HYSO707841,air filters,2007 Hyundai Sonata,15,18
+254,Water Pumps for Chevrolet Malibu 2023,CHMA2309858,water pumps,2023 Chevrolet Malibu,15,18
+170,Oil Filters for Chevrolet Malibu 2023,CHMA2306801,oil filters,2023 Chevrolet Malibu,15,18
+31,Batteries for Chevrolet Malibu 2023,CHMA2302840,batteries,2023 Chevrolet Malibu,15,18
+110,Spark Plugs for Ford Focus 2010,FOFO1004824,spark plugs,2010 Ford Focus,15,18
+83,Alternators for Chevrolet Malibu 2023,CHMA2303477,alternators,2023 Chevrolet Malibu,15,18
+177,Oil Filters for Hyundai Sonata 2007,HYSO706833,oil filters,2007 Hyundai Sonata,15,18
+121,Tires for Hyundai Sonata 2007,HYSO705667,tires,2007 Hyundai Sonata,15,18
+287,Fuel Pumps for Hyundai Sonata 2007,HYSO710882,fuel pumps,2007 Hyundai Sonata,15,18
+26,Brakes for Ford Focus 2010,FOFO1001396,brakes,2010 Ford Focus,15,18
+253,Water Pumps for Ford Focus 2010,FOFO1009908,water pumps,2010 Ford Focus,15,18
+230,Starters for Chevrolet Malibu 2023,CHMA2308238,starters,2023 Chevrolet Malibu,15,18
+267,Water Pumps for Hyundai Sonata 2007,HYSO709637,water pumps,2007 Hyundai Sonata,15,18
+61,Alternators for Ford Focus 2010,FOFO1003268,alternators,2010 Ford Focus,15,18
+84,Alternators for Hyundai Sonata 2007,HYSO703411,alternators,2007 Hyundai Sonata,15,18
+193,Air Filters for Ford Focus 2010,FOFO1007589,air filters,2010 Ford Focus,15,18
+52,Batteries for Hyundai Sonata 2007,HYSO702964,batteries,2007 Hyundai Sonata,15,18
+25,Brakes for Hyundai Sonata 2007,HYSO701639,brakes,2007 Hyundai Sonata,15,18
+101,Spark Plugs for Chevrolet Malibu 2023,CHMA2304144,spark plugs,2023 Chevrolet Malibu,15,18
+197,Air Filters for Chevrolet Malibu 2023,CHMA2307774,air filters,2023 Chevrolet Malibu,15,18
+55,Batteries for Ford Focus 2010,FOFO1002160,batteries,2010 Ford Focus,15,18
+30,Brakes for Chevrolet Malibu 2023,CHMA2301856,brakes,2023 Chevrolet Malibu,15,18
+212,Starters for Ford Focus 2010,FOFO1008487,starters,2010 Ford Focus,15,18
+96,Spark Plugs for Hyundai Sonata 2007,HYSO704988,spark plugs,2007 Hyundai Sonata,15,18
+179,Oil Filters for Ford Focus 2010,FOFO1006379,oil filters,2010 Ford Focus,15,18
+136,Tires for Chevrolet Malibu 2023,CHMA2305221,tires,2023 Chevrolet Malibu,15,18
+240,Starters for Hyundai Sonata 2007,HYSO708308,starters,2007 Hyundai Sonata,15,18
+216,Starters for Hyundai Santa Fe 2021,HYSA2108646,starters,2021 Hyundai Santa Fe,14,16
+67,Alternators for Hyundai Sonata 2005,HYSO503287,alternators,2005 Hyundai Sonata,14,17
+274,Fuel Pumps for Hyundai Santa Fe 2021,HYSA2110189,fuel pumps,2021 Hyundai Santa Fe,14,16
+166,Oil Filters for Hyundai Santa Fe 2021,HYSA2106901,oil filters,2021 Hyundai Santa Fe,14,16
+270,Water Pumps for Hyundai Santa Fe 2021,HYSA2109126,water pumps,2021 Hyundai Santa Fe,14,16
+272,Fuel Pumps for Hyundai Sonata 2005,HYSO510693,fuel pumps,2005 Hyundai Sonata,14,17
+228,Starters for Hyundai Sonata 2005,HYSO508133,starters,2005 Hyundai Sonata,14,17
+73,Alternators for Hyundai Santa Fe 2021,HYSA2103322,alternators,2021 Hyundai Santa Fe,14,16
+120,Spark Plugs for Hyundai Santa Fe 2021,HYSA2104382,spark plugs,2021 Hyundai Santa Fe,14,16
+200,Air Filters for Hyundai Sonata 2005,HYSO507250,air filters,2005 Hyundai Sonata,14,17
+249,Water Pumps for Hyundai Sonata 2005,HYSO509128,water pumps,2005 Hyundai Sonata,14,17
+51,Batteries for Hyundai Santa Fe 2021,HYSA2102859,batteries,2021 Hyundai Santa Fe,14,16
+108,Spark Plugs for Hyundai Sonata 2005,HYSO504532,spark plugs,2005 Hyundai Sonata,14,17
+11,Brakes for Hyundai Santa Fe 2021,HYSA2101626,brakes,2021 Hyundai Santa Fe,14,16
+181,Air Filters for Hyundai Santa Fe 2021,HYSA2107695,air filters,2021 Hyundai Santa Fe,14,16
+4,Brakes for Hyundai Sonata 2005,HYSO501789,brakes,2005 Hyundai Sonata,14,17
+45,Batteries for Hyundai Sonata 2005,HYSO502988,batteries,2005 Hyundai Sonata,14,17
+130,Tires for Hyundai Santa Fe 2021,HYSA2105751,tires,2021 Hyundai Santa Fe,14,16
+157,Oil Filters for Hyundai Sonata 2005,HYSO506238,oil filters,2005 Hyundai Sonata,14,17
+122,Tires for Hyundai Sonata 2005,HYSO505980,tires,2005 Hyundai Sonata,14,17
+135,Tires for BMW 5 Series 2011,BM5 1105291,tires,2011 BMW 5 Series,13,15
+100,Spark Plugs for BMW 5 Series 2011,BM5 1104338,spark plugs,2011 BMW 5 Series,13,15
+201,Air Filters for BMW 5 Series 2011,BM5 1107688,air filters,2011 BMW 5 Series,13,15
+257,Water Pumps for BMW 5 Series 2011,BM5 1109402,water pumps,2011 BMW 5 Series,13,15
+29,Brakes for BMW 5 Series 2011,BM5 1101654,brakes,2011 BMW 5 Series,13,15
+215,Starters for BMW 5 Series 2011,BM5 1108234,starters,2011 BMW 5 Series,13,15
+54,Batteries for BMW 5 Series 2011,BM5 1102885,batteries,2011 BMW 5 Series,13,15
+282,Fuel Pumps for BMW 5 Series 2011,BM5 1110816,fuel pumps,2011 BMW 5 Series,13,15
+175,Oil Filters for BMW 5 Series 2011,BM5 1106446,oil filters,2011 BMW 5 Series,13,15
+88,Alternators for BMW 5 Series 2011,BM5 1103356,alternators,2011 BMW 5 Series,13,15
+160,Oil Filters for Ford Explorer 2020,FOEX2006363,oil filters,2020 Ford Explorer,12,15
+89,Alternators for Ford Explorer 2020,FOEX2003925,alternators,2020 Ford Explorer,12,15
+97,Spark Plugs for Ford Explorer 2020,FOEX2004548,spark plugs,2020 Ford Explorer,12,15
+131,Tires for Ford Explorer 2020,FOEX2005235,tires,2020 Ford Explorer,12,15
+16,Brakes for Ford Explorer 2020,FOEX2001163,brakes,2020 Ford Explorer,12,15
+186,Air Filters for Ford Explorer 2020,FOEX2007416,air filters,2020 Ford Explorer,12,15
+222,Starters for Ford Explorer 2020,FOEX2008182,starters,2020 Ford Explorer,12,15
+244,Water Pumps for Ford Explorer 2020,FOEX2009355,water pumps,2020 Ford Explorer,12,15
+46,Batteries for Ford Explorer 2020,FOEX2002304,batteries,2020 Ford Explorer,12,15
+281,Fuel Pumps for Ford Explorer 2020,FOEX2010834,fuel pumps,2020 Ford Explorer,12,15
+132,Tires for Audi Q5 2020,AUQ52005312,tires,2020 Audi Q5,11,14
+213,Starters for Audi Q5 2020,AUQ52008917,starters,2020 Audi Q5,11,14
+117,Spark Plugs for Audi Q5 2020,AUQ52004189,spark plugs,2020 Audi Q5,11,14
+70,Alternators for Audi Q5 2020,AUQ52003894,alternators,2020 Audi Q5,11,14
+8,Brakes for Audi Q5 2020,AUQ52001984,brakes,2020 Audi Q5,11,14
+296,Fuel Pumps for Audi Q5 2020,AUQ52010853,fuel pumps,2020 Audi Q5,11,14
+199,Air Filters for Audi Q5 2020,AUQ52007486,air filters,2020 Audi Q5,11,14
+248,Water Pumps for Audi Q5 2020,AUQ52009207,water pumps,2020 Audi Q5,11,14
+48,Batteries for Audi Q5 2020,AUQ52002628,batteries,2020 Audi Q5,11,14
+159,Oil Filters for Audi Q5 2020,AUQ52006256,oil filters,2020 Audi Q5,11,14
+156,Oil Filters for Ford Explorer 2022,FOEX2206866,oil filters,2022 Ford Explorer,10,12
+78,Alternators for Ford Explorer 2022,FOEX2203343,alternators,2022 Ford Explorer,10,12
+284,Fuel Pumps for Ford Explorer 2022,FOEX2210477,fuel pumps,2022 Ford Explorer,10,12
+128,Tires for Ford Explorer 2022,FOEX2205517,tires,2022 Ford Explorer,10,12
+98,Spark Plugs for Ford Explorer 2022,FOEX2204308,spark plugs,2022 Ford Explorer,10,12
+185,Air Filters for Ford Explorer 2022,FOEX2207411,air filters,2022 Ford Explorer,10,12
+214,Starters for Ford Explorer 2022,FOEX2208676,starters,2022 Ford Explorer,10,12
+265,Water Pumps for Ford Explorer 2022,FOEX2209416,water pumps,2022 Ford Explorer,10,12
+34,Batteries for Ford Explorer 2022,FOEX2202295,batteries,2022 Ford Explorer,10,12
+13,Brakes for Ford Explorer 2022,FOEX2201184,brakes,2022 Ford Explorer,10,12
+68,Alternators for Chevrolet Suburban 2021,CHSU2103530,alternators,2021 Chevrolet Suburban,8,9
+162,Oil Filters for Chevrolet Suburban 2021,CHSU2106394,oil filters,2021 Chevrolet Suburban,8,9
+123,Tires for Chevrolet Suburban 2021,CHSU2105234,tires,2021 Chevrolet Suburban,8,9
+47,Batteries for Chevrolet Suburban 2021,CHSU2102537,batteries,2021 Chevrolet Suburban,8,9
+192,Air Filters for Chevrolet Suburban 2021,CHSU2107384,air filters,2021 Chevrolet Suburban,8,9
+104,Spark Plugs for Chevrolet Suburban 2021,CHSU2104131,spark plugs,2021 Chevrolet Suburban,8,9
+234,Starters for Chevrolet Suburban 2021,CHSU2108124,starters,2021 Chevrolet Suburban,8,9
+245,Water Pumps for Chevrolet Suburban 2021,CHSU2109565,water pumps,2021 Chevrolet Suburban,8,9
+291,Fuel Pumps for Chevrolet Suburban 2021,CHSU2110122,fuel pumps,2021 Chevrolet Suburban,8,9
+18,Brakes for Chevrolet Suburban 2021,CHSU2101880,brakes,2021 Chevrolet Suburban,8,9
+294,Fuel Pumps for Honda Odyssey 2015,HOOD1510251,fuel pumps,2015 Honda Odyssey,4,5
+295,Fuel Pumps for Toyota RAV4 2020,TORA2010654,fuel pumps,2020 Toyota RAV4,4,4
+206,Air Filters for Toyota RAV4 2020,TORA2007688,air filters,2020 Toyota RAV4,4,4
+258,Water Pumps for Toyota RAV4 2020,TORA2009487,water pumps,2020 Toyota RAV4,4,4
+111,Spark Plugs for Honda Odyssey 2015,HOOD1504801,spark plugs,2015 Honda Odyssey,4,5
+205,Air Filters for Honda Odyssey 2015,HOOD1507903,air filters,2015 Honda Odyssey,4,5
+137,Tires for Honda Odyssey 2015,HOOD1505702,tires,2015 Honda Odyssey,4,5
+145,Tires for Toyota RAV4 2020,TORA2005934,tires,2020 Toyota RAV4,4,4
+9,Brakes for Toyota RAV4 2020,TORA2001660,brakes,2020 Toyota RAV4,4,4
+12,Brakes for Honda Odyssey 2015,HOOD1501637,brakes,2015 Honda Odyssey,4,5
+103,Spark Plugs for Toyota RAV4 2020,TORA2004904,spark plugs,2020 Toyota RAV4,4,4
+35,Batteries for Honda Odyssey 2015,HOOD1502566,batteries,2015 Honda Odyssey,4,5
+225,Starters for Honda Odyssey 2015,HOOD1508312,starters,2015 Honda Odyssey,4,5
+32,Batteries for Toyota RAV4 2020,TORA2002742,batteries,2020 Toyota RAV4,4,4
+151,Oil Filters for Toyota RAV4 2020,TORA2006563,oil filters,2020 Toyota RAV4,4,4
+168,Oil Filters for Honda Odyssey 2015,HOOD1506206,oil filters,2015 Honda Odyssey,4,5
+74,Alternators for Honda Odyssey 2015,HOOD1503188,alternators,2015 Honda Odyssey,4,5
+71,Alternators for Toyota RAV4 2020,TORA2003967,alternators,2020 Toyota RAV4,4,4
+219,Starters for Toyota RAV4 2020,TORA2008532,starters,2020 Toyota RAV4,4,4
+241,Water Pumps for Honda Odyssey 2015,HOOD1509948,water pumps,2015 Honda Odyssey,4,5

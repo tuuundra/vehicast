@@ -1,0 +1,301 @@
+part_id,part_name,part_number,type_id,component_id
+1,Brakes for Hyundai Kona 2014,HYKO1401676,14,1
+2,Brakes for Audi Q5 2022,AUQ52201332,11,1
+3,Brakes for Nissan Sentra 2023,NISE2301606,28,1
+4,Brakes for Hyundai Sonata 2005,HYSO501789,7,1
+5,Brakes for Hyundai Sonata 2017,HYSO1701397,13,1
+6,Brakes for Kia Sportage 2023,KISP2301544,1,1
+7,Brakes for Toyota Highlander 2013,TOHI1301395,2,1
+8,Brakes for Audi Q5 2020,AUQ52001984,3,1
+9,Brakes for Toyota RAV4 2020,TORA2001660,27,1
+10,Brakes for Honda CR-V 2017,HOCR1701577,24,1
+11,Brakes for Hyundai Santa Fe 2021,HYSA2101626,26,1
+12,Brakes for Honda Odyssey 2015,HOOD1501637,10,1
+13,Brakes for Ford Explorer 2022,FOEX2201184,29,1
+14,Brakes for Hyundai Santa Fe 2006,HYSA601804,12,1
+15,Brakes for Mercedes GLE 2019,MEGL1901109,18,1
+16,Brakes for Ford Explorer 2020,FOEX2001163,30,1
+17,Brakes for BMW X5 2022,BMX52201732,6,1
+18,Brakes for Chevrolet Suburban 2021,CHSU2101880,15,1
+19,Brakes for Hyundai Sonata 2023,HYSO2301191,19,1
+20,Brakes for Nissan Rogue 2015,NIRO1501400,4,1
+21,Brakes for Mercedes GLC 2015,MEGL1501571,16,1
+22,Brakes for Kia Soul 2006,KISO601306,5,1
+23,Brakes for Mercedes GLE 2016,MEGL1601786,21,1
+24,Brakes for Chevrolet Suburban 2022,CHSU2201102,8,1
+25,Brakes for Hyundai Sonata 2007,HYSO701639,20,1
+26,Brakes for Ford Focus 2010,FOFO1001396,23,1
+27,Brakes for Ford Focus 2023,FOFO2301461,22,1
+28,Brakes for Audi Q7 2011,AUQ71101762,17,1
+29,Brakes for BMW 5 Series 2011,BM5 1101654,9,1
+30,Brakes for Chevrolet Malibu 2023,CHMA2301856,25,1
+31,Batteries for Chevrolet Malibu 2023,CHMA2302840,25,2
+32,Batteries for Toyota RAV4 2020,TORA2002742,27,2
+33,Batteries for Audi Q5 2022,AUQ52202435,11,2
+34,Batteries for Ford Explorer 2022,FOEX2202295,29,2
+35,Batteries for Honda Odyssey 2015,HOOD1502566,10,2
+36,Batteries for Hyundai Santa Fe 2006,HYSA602987,12,2
+37,Batteries for Mercedes GLE 2016,MEGL1602642,21,2
+38,Batteries for Nissan Rogue 2015,NIRO1502959,4,2
+39,Batteries for Mercedes GLC 2015,MEGL1502350,16,2
+40,Batteries for Kia Sportage 2023,KISP2302446,1,2
+41,Batteries for Honda CR-V 2017,HOCR1702995,24,2
+42,Batteries for Hyundai Sonata 2023,HYSO2302156,19,2
+43,Batteries for Chevrolet Suburban 2022,CHSU2202765,8,2
+44,Batteries for Kia Soul 2006,KISO602262,5,2
+45,Batteries for Hyundai Sonata 2005,HYSO502988,7,2
+46,Batteries for Ford Explorer 2020,FOEX2002304,30,2
+47,Batteries for Chevrolet Suburban 2021,CHSU2102537,15,2
+48,Batteries for Audi Q5 2020,AUQ52002628,3,2
+49,Batteries for BMW X5 2022,BMX52202577,6,2
+50,Batteries for Ford Focus 2023,FOFO2302163,22,2
+51,Batteries for Hyundai Santa Fe 2021,HYSA2102859,26,2
+52,Batteries for Hyundai Sonata 2007,HYSO702964,20,2
+53,Batteries for Audi Q7 2011,AUQ71102953,17,2
+54,Batteries for BMW 5 Series 2011,BM5 1102885,9,2
+55,Batteries for Ford Focus 2010,FOFO1002160,23,2
+56,Batteries for Mercedes GLE 2019,MEGL1902229,18,2
+57,Batteries for Nissan Sentra 2023,NISE2302294,28,2
+58,Batteries for Hyundai Sonata 2017,HYSO1702448,13,2
+59,Batteries for Toyota Highlander 2013,TOHI1302795,2,2
+60,Batteries for Hyundai Kona 2014,HYKO1402375,14,2
+61,Alternators for Ford Focus 2010,FOFO1003268,23,3
+62,Alternators for Hyundai Sonata 2017,HYSO1703406,13,3
+63,Alternators for BMW X5 2022,BMX52203956,6,3
+64,Alternators for Kia Sportage 2023,KISP2303725,1,3
+65,Alternators for Hyundai Sonata 2023,HYSO2303860,19,3
+66,Alternators for Toyota Highlander 2013,TOHI1303671,2,3
+67,Alternators for Hyundai Sonata 2005,HYSO503287,7,3
+68,Alternators for Chevrolet Suburban 2021,CHSU2103530,15,3
+69,Alternators for Mercedes GLC 2015,MEGL1503940,16,3
+70,Alternators for Audi Q5 2020,AUQ52003894,3,3
+71,Alternators for Toyota RAV4 2020,TORA2003967,27,3
+72,Alternators for Kia Soul 2006,KISO603977,5,3
+73,Alternators for Hyundai Santa Fe 2021,HYSA2103322,26,3
+74,Alternators for Honda Odyssey 2015,HOOD1503188,10,3
+75,Alternators for Audi Q7 2011,AUQ71103397,17,3
+76,Alternators for Audi Q5 2022,AUQ52203280,11,3
+77,Alternators for Ford Focus 2023,FOFO2303529,22,3
+78,Alternators for Ford Explorer 2022,FOEX2203343,29,3
+79,Alternators for Mercedes GLE 2019,MEGL1903871,18,3
+80,Alternators for Nissan Rogue 2015,NIRO1503928,4,3
+81,Alternators for Honda CR-V 2017,HOCR1703591,24,3
+82,Alternators for Mercedes GLE 2016,MEGL1603315,21,3
+83,Alternators for Chevrolet Malibu 2023,CHMA2303477,25,3
+84,Alternators for Hyundai Sonata 2007,HYSO703411,20,3
+85,Alternators for Chevrolet Suburban 2022,CHSU2203692,8,3
+86,Alternators for Hyundai Santa Fe 2006,HYSA603974,12,3
+87,Alternators for Hyundai Kona 2014,HYKO1403564,14,3
+88,Alternators for BMW 5 Series 2011,BM5 1103356,9,3
+89,Alternators for Ford Explorer 2020,FOEX2003925,30,3
+90,Alternators for Nissan Sentra 2023,NISE2303591,28,3
+91,Spark Plugs for Kia Soul 2006,KISO604987,5,4
+92,Spark Plugs for Audi Q5 2022,AUQ52204618,11,4
+93,Spark Plugs for Nissan Sentra 2023,NISE2304185,28,4
+94,Spark Plugs for Ford Focus 2023,FOFO2304457,22,4
+95,Spark Plugs for Mercedes GLE 2016,MEGL1604625,21,4
+96,Spark Plugs for Hyundai Sonata 2007,HYSO704988,20,4
+97,Spark Plugs for Ford Explorer 2020,FOEX2004548,30,4
+98,Spark Plugs for Ford Explorer 2022,FOEX2204308,29,4
+99,Spark Plugs for Hyundai Santa Fe 2006,HYSA604923,12,4
+100,Spark Plugs for BMW 5 Series 2011,BM5 1104338,9,4
+101,Spark Plugs for Chevrolet Malibu 2023,CHMA2304144,25,4
+102,Spark Plugs for Nissan Rogue 2015,NIRO1504116,4,4
+103,Spark Plugs for Toyota RAV4 2020,TORA2004904,27,4
+104,Spark Plugs for Chevrolet Suburban 2021,CHSU2104131,15,4
+105,Spark Plugs for Hyundai Sonata 2023,HYSO2304969,19,4
+106,Spark Plugs for Hyundai Sonata 2017,HYSO1704639,13,4
+107,Spark Plugs for Audi Q7 2011,AUQ71104167,17,4
+108,Spark Plugs for Hyundai Sonata 2005,HYSO504532,7,4
+109,Spark Plugs for Chevrolet Suburban 2022,CHSU2204552,8,4
+110,Spark Plugs for Ford Focus 2010,FOFO1004824,23,4
+111,Spark Plugs for Honda Odyssey 2015,HOOD1504801,10,4
+112,Spark Plugs for Kia Sportage 2023,KISP2304701,1,4
+113,Spark Plugs for BMW X5 2022,BMX52204796,6,4
+114,Spark Plugs for Hyundai Kona 2014,HYKO1404458,14,4
+115,Spark Plugs for Honda CR-V 2017,HOCR1704961,24,4
+116,Spark Plugs for Mercedes GLE 2019,MEGL1904865,18,4
+117,Spark Plugs for Audi Q5 2020,AUQ52004189,3,4
+118,Spark Plugs for Toyota Highlander 2013,TOHI1304583,2,4
+119,Spark Plugs for Mercedes GLC 2015,MEGL1504786,16,4
+120,Spark Plugs for Hyundai Santa Fe 2021,HYSA2104382,26,4
+121,Tires for Hyundai Sonata 2007,HYSO705667,20,5
+122,Tires for Hyundai Sonata 2005,HYSO505980,7,5
+123,Tires for Chevrolet Suburban 2021,CHSU2105234,15,5
+124,Tires for Mercedes GLE 2016,MEGL1605963,21,5
+125,Tires for Ford Focus 2010,FOFO1005776,23,5
+126,Tires for Mercedes GLC 2015,MEGL1505449,16,5
+127,Tires for Hyundai Sonata 2023,HYSO2305217,19,5
+128,Tires for Ford Explorer 2022,FOEX2205517,29,5
+129,Tires for Audi Q7 2011,AUQ71105588,17,5
+130,Tires for Hyundai Santa Fe 2021,HYSA2105751,26,5
+131,Tires for Ford Explorer 2020,FOEX2005235,30,5
+132,Tires for Audi Q5 2020,AUQ52005312,3,5
+133,Tires for Nissan Rogue 2015,NIRO1505897,4,5
+134,Tires for Nissan Sentra 2023,NISE2305272,28,5
+135,Tires for BMW 5 Series 2011,BM5 1105291,9,5
+136,Tires for Chevrolet Malibu 2023,CHMA2305221,25,5
+137,Tires for Honda Odyssey 2015,HOOD1505702,10,5
+138,Tires for Kia Soul 2006,KISO605589,5,5
+139,Tires for Hyundai Sonata 2017,HYSO1705761,13,5
+140,Tires for Chevrolet Suburban 2022,CHSU2205443,8,5
+141,Tires for Mercedes GLE 2019,MEGL1905818,18,5
+142,Tires for Hyundai Kona 2014,HYKO1405299,14,5
+143,Tires for BMW X5 2022,BMX52205284,6,5
+144,Tires for Kia Sportage 2023,KISP2305314,1,5
+145,Tires for Toyota RAV4 2020,TORA2005934,27,5
+146,Tires for Ford Focus 2023,FOFO2305439,22,5
+147,Tires for Hyundai Santa Fe 2006,HYSA605634,12,5
+148,Tires for Audi Q5 2022,AUQ52205168,11,5
+149,Tires for Honda CR-V 2017,HOCR1705175,24,5
+150,Tires for Toyota Highlander 2013,TOHI1305849,2,5
+151,Oil Filters for Toyota RAV4 2020,TORA2006563,27,6
+152,Oil Filters for Mercedes GLE 2019,MEGL1906202,18,6
+153,Oil Filters for Hyundai Sonata 2023,HYSO2306364,19,6
+154,Oil Filters for Ford Focus 2023,FOFO2306980,22,6
+155,Oil Filters for Kia Sportage 2023,KISP2306329,1,6
+156,Oil Filters for Ford Explorer 2022,FOEX2206866,29,6
+157,Oil Filters for Hyundai Sonata 2005,HYSO506238,7,6
+158,Oil Filters for Chevrolet Suburban 2022,CHSU2206429,8,6
+159,Oil Filters for Audi Q5 2020,AUQ52006256,3,6
+160,Oil Filters for Ford Explorer 2020,FOEX2006363,30,6
+161,Oil Filters for BMW X5 2022,BMX52206787,6,6
+162,Oil Filters for Chevrolet Suburban 2021,CHSU2106394,15,6
+163,Oil Filters for Honda CR-V 2017,HOCR1706538,24,6
+164,Oil Filters for Nissan Sentra 2023,NISE2306471,28,6
+165,Oil Filters for Nissan Rogue 2015,NIRO1506956,4,6
+166,Oil Filters for Hyundai Santa Fe 2021,HYSA2106901,26,6
+167,Oil Filters for Audi Q5 2022,AUQ52206171,11,6
+168,Oil Filters for Honda Odyssey 2015,HOOD1506206,10,6
+169,Oil Filters for Hyundai Santa Fe 2006,HYSA606150,12,6
+170,Oil Filters for Chevrolet Malibu 2023,CHMA2306801,25,6
+171,Oil Filters for Audi Q7 2011,AUQ71106445,17,6
+172,Oil Filters for Hyundai Sonata 2017,HYSO1706185,13,6
+173,Oil Filters for Mercedes GLE 2016,MEGL1606719,21,6
+174,Oil Filters for Kia Soul 2006,KISO606794,5,6
+175,Oil Filters for BMW 5 Series 2011,BM5 1106446,9,6
+176,Oil Filters for Hyundai Kona 2014,HYKO1406155,14,6
+177,Oil Filters for Hyundai Sonata 2007,HYSO706833,20,6
+178,Oil Filters for Toyota Highlander 2013,TOHI1306946,2,6
+179,Oil Filters for Ford Focus 2010,FOFO1006379,23,6
+180,Oil Filters for Mercedes GLC 2015,MEGL1506872,16,6
+181,Air Filters for Hyundai Santa Fe 2021,HYSA2107695,26,7
+182,Air Filters for BMW X5 2022,BMX52207339,6,7
+183,Air Filters for Mercedes GLC 2015,MEGL1507884,16,7
+184,Air Filters for Toyota Highlander 2013,TOHI1307699,2,7
+185,Air Filters for Ford Explorer 2022,FOEX2207411,29,7
+186,Air Filters for Ford Explorer 2020,FOEX2007416,30,7
+187,Air Filters for Audi Q7 2011,AUQ71107883,17,7
+188,Air Filters for Kia Sportage 2023,KISP2307947,1,7
+189,Air Filters for Hyundai Sonata 2017,HYSO1707245,13,7
+190,Air Filters for Hyundai Sonata 2023,HYSO2307540,19,7
+191,Air Filters for Kia Soul 2006,KISO607440,5,7
+192,Air Filters for Chevrolet Suburban 2021,CHSU2107384,15,7
+193,Air Filters for Ford Focus 2010,FOFO1007589,23,7
+194,Air Filters for Nissan Rogue 2015,NIRO1507523,4,7
+195,Air Filters for Chevrolet Suburban 2022,CHSU2207666,8,7
+196,Air Filters for Audi Q5 2022,AUQ52207486,11,7
+197,Air Filters for Chevrolet Malibu 2023,CHMA2307774,25,7
+198,Air Filters for Nissan Sentra 2023,NISE2307926,28,7
+199,Air Filters for Audi Q5 2020,AUQ52007486,3,7
+200,Air Filters for Hyundai Sonata 2005,HYSO507250,7,7
+201,Air Filters for BMW 5 Series 2011,BM5 1107688,9,7
+202,Air Filters for Mercedes GLE 2016,MEGL1607272,21,7
+203,Air Filters for Ford Focus 2023,FOFO2307102,22,7
+204,Air Filters for Hyundai Santa Fe 2006,HYSA607141,12,7
+205,Air Filters for Honda Odyssey 2015,HOOD1507903,10,7
+206,Air Filters for Toyota RAV4 2020,TORA2007688,27,7
+207,Air Filters for Honda CR-V 2017,HOCR1707515,24,7
+208,Air Filters for Mercedes GLE 2019,MEGL1907844,18,7
+209,Air Filters for Hyundai Kona 2014,HYKO1407929,14,7
+210,Air Filters for Hyundai Sonata 2007,HYSO707841,20,7
+211,Starters for Hyundai Kona 2014,HYKO1408211,14,8
+212,Starters for Ford Focus 2010,FOFO1008487,23,8
+213,Starters for Audi Q5 2020,AUQ52008917,3,8
+214,Starters for Ford Explorer 2022,FOEX2208676,29,8
+215,Starters for BMW 5 Series 2011,BM5 1108234,9,8
+216,Starters for Hyundai Santa Fe 2021,HYSA2108646,26,8
+217,Starters for BMW X5 2022,BMX52208346,6,8
+218,Starters for Audi Q5 2022,AUQ52208286,11,8
+219,Starters for Toyota RAV4 2020,TORA2008532,27,8
+220,Starters for Honda CR-V 2017,HOCR1708303,24,8
+221,Starters for Nissan Sentra 2023,NISE2308481,28,8
+222,Starters for Ford Explorer 2020,FOEX2008182,30,8
+223,Starters for Mercedes GLC 2015,MEGL1508331,16,8
+224,Starters for Kia Sportage 2023,KISP2308548,1,8
+225,Starters for Honda Odyssey 2015,HOOD1508312,10,8
+226,Starters for Chevrolet Suburban 2022,CHSU2208722,8,8
+227,Starters for Audi Q7 2011,AUQ71108787,17,8
+228,Starters for Hyundai Sonata 2005,HYSO508133,7,8
+229,Starters for Ford Focus 2023,FOFO2308981,22,8
+230,Starters for Chevrolet Malibu 2023,CHMA2308238,25,8
+231,Starters for Hyundai Santa Fe 2006,HYSA608866,12,8
+232,Starters for Nissan Rogue 2015,NIRO1508699,4,8
+233,Starters for Hyundai Sonata 2017,HYSO1708695,13,8
+234,Starters for Chevrolet Suburban 2021,CHSU2108124,15,8
+235,Starters for Kia Soul 2006,KISO608975,5,8
+236,Starters for Hyundai Sonata 2023,HYSO2308766,19,8
+237,Starters for Mercedes GLE 2016,MEGL1608495,21,8
+238,Starters for Mercedes GLE 2019,MEGL1908623,18,8
+239,Starters for Toyota Highlander 2013,TOHI1308629,2,8
+240,Starters for Hyundai Sonata 2007,HYSO708308,20,8
+241,Water Pumps for Honda Odyssey 2015,HOOD1509948,10,9
+242,Water Pumps for Mercedes GLE 2019,MEGL1909964,18,9
+243,Water Pumps for Hyundai Kona 2014,HYKO1409949,14,9
+244,Water Pumps for Ford Explorer 2020,FOEX2009355,30,9
+245,Water Pumps for Chevrolet Suburban 2021,CHSU2109565,15,9
+246,Water Pumps for Audi Q5 2022,AUQ52209441,11,9
+247,Water Pumps for Nissan Rogue 2015,NIRO1509491,4,9
+248,Water Pumps for Audi Q5 2020,AUQ52009207,3,9
+249,Water Pumps for Hyundai Sonata 2005,HYSO509128,7,9
+250,Water Pumps for Mercedes GLC 2015,MEGL1509115,16,9
+251,Water Pumps for Hyundai Sonata 2017,HYSO1709620,13,9
+252,Water Pumps for Chevrolet Suburban 2022,CHSU2209972,8,9
+253,Water Pumps for Ford Focus 2010,FOFO1009908,23,9
+254,Water Pumps for Chevrolet Malibu 2023,CHMA2309858,25,9
+255,Water Pumps for BMW X5 2022,BMX52209189,6,9
+256,Water Pumps for Kia Soul 2006,KISO609303,5,9
+257,Water Pumps for BMW 5 Series 2011,BM5 1109402,9,9
+258,Water Pumps for Toyota RAV4 2020,TORA2009487,27,9
+259,Water Pumps for Nissan Sentra 2023,NISE2309258,28,9
+260,Water Pumps for Toyota Highlander 2013,TOHI1309498,2,9
+261,Water Pumps for Hyundai Santa Fe 2006,HYSA609363,12,9
+262,Water Pumps for Mercedes GLE 2016,MEGL1609914,21,9
+263,Water Pumps for Ford Focus 2023,FOFO2309179,22,9
+264,Water Pumps for Kia Sportage 2023,KISP2309353,1,9
+265,Water Pumps for Ford Explorer 2022,FOEX2209416,29,9
+266,Water Pumps for Honda CR-V 2017,HOCR1709914,24,9
+267,Water Pumps for Hyundai Sonata 2007,HYSO709637,20,9
+268,Water Pumps for Hyundai Sonata 2023,HYSO2309711,19,9
+269,Water Pumps for Audi Q7 2011,AUQ71109235,17,9
+270,Water Pumps for Hyundai Santa Fe 2021,HYSA2109126,26,9
+271,Fuel Pumps for Honda CR-V 2017,HOCR1710970,24,10
+272,Fuel Pumps for Hyundai Sonata 2005,HYSO510693,7,10
+273,Fuel Pumps for Nissan Rogue 2015,NIRO1510813,4,10
+274,Fuel Pumps for Hyundai Santa Fe 2021,HYSA2110189,26,10
+275,Fuel Pumps for Kia Soul 2006,KISO610489,5,10
+276,Fuel Pumps for Ford Focus 2010,FOFO1010678,23,10
+277,Fuel Pumps for Mercedes GLE 2016,MEGL1610123,21,10
+278,Fuel Pumps for Kia Sportage 2023,KISP2310245,1,10
+279,Fuel Pumps for Ford Focus 2023,FOFO2310434,22,10
+280,Fuel Pumps for Hyundai Santa Fe 2006,HYSA610377,12,10
+281,Fuel Pumps for Ford Explorer 2020,FOEX2010834,30,10
+282,Fuel Pumps for BMW 5 Series 2011,BM5 1110816,9,10
+283,Fuel Pumps for Nissan Sentra 2023,NISE2310207,28,10
+284,Fuel Pumps for Ford Explorer 2022,FOEX2210477,29,10
+285,Fuel Pumps for Toyota Highlander 2013,TOHI1310303,2,10
+286,Fuel Pumps for Mercedes GLC 2015,MEGL1510611,16,10
+287,Fuel Pumps for Hyundai Sonata 2007,HYSO710882,20,10
+288,Fuel Pumps for Audi Q7 2011,AUQ71110184,17,10
+289,Fuel Pumps for Chevrolet Malibu 2023,CHMA2310192,25,10
+290,Fuel Pumps for Mercedes GLE 2019,MEGL1910621,18,10
+291,Fuel Pumps for Chevrolet Suburban 2021,CHSU2110122,15,10
+292,Fuel Pumps for Hyundai Sonata 2017,HYSO1710274,13,10
+293,Fuel Pumps for Audi Q5 2022,AUQ52210926,11,10
+294,Fuel Pumps for Honda Odyssey 2015,HOOD1510251,10,10
+295,Fuel Pumps for Toyota RAV4 2020,TORA2010654,27,10
+296,Fuel Pumps for Audi Q5 2020,AUQ52010853,3,10
+297,Fuel Pumps for Hyundai Sonata 2023,HYSO2310491,19,10
+298,Fuel Pumps for Hyundai Kona 2014,HYKO1410831,14,10
+299,Fuel Pumps for BMW X5 2022,BMX52210116,6,10
+300,Fuel Pumps for Chevrolet Suburban 2022,CHSU2210972,8,10

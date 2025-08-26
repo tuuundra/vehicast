@@ -1,0 +1,901 @@
+part_id,part_name,component_name,city,state,latitude,longitude,demand_intensity
+102,Spark Plugs for Nissan Rogue 2015,spark plugs,Houston,TX,29.7604,-95.3698,0.34
+102,Spark Plugs for Nissan Rogue 2015,spark plugs,Philadelphia,PA,39.9526,-75.1652,0.34
+102,Spark Plugs for Nissan Rogue 2015,spark plugs,Austin,TX,30.2672,-97.7431,0.34
+38,Batteries for Nissan Rogue 2015,batteries,Denver,CO,39.7392,-104.9903,0.33
+38,Batteries for Nissan Rogue 2015,batteries,Detroit,MI,42.3314,-83.0458,0.34
+38,Batteries for Nissan Rogue 2015,batteries,New York,NY,40.7128,-74.006,0.34
+232,Starters for Nissan Rogue 2015,starters,Phoenix,AZ,33.4484,-112.074,0.33
+232,Starters for Nissan Rogue 2015,starters,San Jose,CA,37.3382,-121.8863,0.34
+232,Starters for Nissan Rogue 2015,starters,Houston,TX,29.7604,-95.3698,0.34
+165,Oil Filters for Nissan Rogue 2015,oil filters,Detroit,MI,42.3314,-83.0458,0.35
+165,Oil Filters for Nissan Rogue 2015,oil filters,Portland,OR,45.5051,-122.675,0.34
+165,Oil Filters for Nissan Rogue 2015,oil filters,San Diego,CA,32.7157,-117.1611,0.35
+133,Tires for Nissan Rogue 2015,tires,Portland,OR,45.5051,-122.675,0.33
+133,Tires for Nissan Rogue 2015,tires,Austin,TX,30.2672,-97.7431,0.34
+133,Tires for Nissan Rogue 2015,tires,Atlanta,GA,33.749,-84.388,0.34
+247,Water Pumps for Nissan Rogue 2015,water pumps,Denver,CO,39.7392,-104.9903,0.34
+247,Water Pumps for Nissan Rogue 2015,water pumps,Las Vegas,NV,36.1699,-115.1398,0.34
+247,Water Pumps for Nissan Rogue 2015,water pumps,Los Angeles,CA,34.0522,-118.2437,0.34
+80,Alternators for Nissan Rogue 2015,alternators,Portland,OR,45.5051,-122.675,0.34
+80,Alternators for Nissan Rogue 2015,alternators,Detroit,MI,42.3314,-83.0458,0.34
+80,Alternators for Nissan Rogue 2015,alternators,Los Angeles,CA,34.0522,-118.2437,0.34
+194,Air Filters for Nissan Rogue 2015,air filters,Philadelphia,PA,39.9526,-75.1652,0.34
+194,Air Filters for Nissan Rogue 2015,air filters,Portland,OR,45.5051,-122.675,0.33
+194,Air Filters for Nissan Rogue 2015,air filters,San Antonio,TX,29.4241,-98.4936,0.34
+273,Fuel Pumps for Nissan Rogue 2015,fuel pumps,Philadelphia,PA,39.9526,-75.1652,0.34
+273,Fuel Pumps for Nissan Rogue 2015,fuel pumps,Jacksonville,FL,30.3322,-81.6557,0.34
+273,Fuel Pumps for Nissan Rogue 2015,fuel pumps,Detroit,MI,42.3314,-83.0458,0.34
+20,Brakes for Nissan Rogue 2015,brakes,New York,NY,40.7128,-74.006,0.34
+20,Brakes for Nissan Rogue 2015,brakes,Portland,OR,45.5051,-122.675,0.34
+20,Brakes for Nissan Rogue 2015,brakes,Las Vegas,NV,36.1699,-115.1398,0.34
+176,Oil Filters for Hyundai Kona 2014,oil filters,Denver,CO,39.7392,-104.9903,0.33
+176,Oil Filters for Hyundai Kona 2014,oil filters,Phoenix,AZ,33.4484,-112.074,0.34
+176,Oil Filters for Hyundai Kona 2014,oil filters,Jacksonville,FL,30.3322,-81.6557,0.34
+87,Alternators for Hyundai Kona 2014,alternators,Chicago,IL,41.8781,-87.6298,0.34
+87,Alternators for Hyundai Kona 2014,alternators,Denver,CO,39.7392,-104.9903,0.34
+87,Alternators for Hyundai Kona 2014,alternators,Austin,TX,30.2672,-97.7431,0.34
+114,Spark Plugs for Hyundai Kona 2014,spark plugs,New York,NY,40.7128,-74.006,0.33
+114,Spark Plugs for Hyundai Kona 2014,spark plugs,San Jose,CA,37.3382,-121.8863,0.34
+114,Spark Plugs for Hyundai Kona 2014,spark plugs,Jacksonville,FL,30.3322,-81.6557,0.34
+1,Brakes for Hyundai Kona 2014,brakes,Boston,MA,42.3601,-71.0589,0.33
+1,Brakes for Hyundai Kona 2014,brakes,Chicago,IL,41.8781,-87.6298,0.33
+1,Brakes for Hyundai Kona 2014,brakes,Los Angeles,CA,34.0522,-118.2437,0.33
+60,Batteries for Hyundai Kona 2014,batteries,Boston,MA,42.3601,-71.0589,0.34
+60,Batteries for Hyundai Kona 2014,batteries,Los Angeles,CA,34.0522,-118.2437,0.34
+60,Batteries for Hyundai Kona 2014,batteries,Detroit,MI,42.3314,-83.0458,0.33
+142,Tires for Hyundai Kona 2014,tires,Seattle,WA,47.6062,-122.3321,0.33
+142,Tires for Hyundai Kona 2014,tires,Dallas,TX,32.7767,-96.797,0.33
+142,Tires for Hyundai Kona 2014,tires,Jacksonville,FL,30.3322,-81.6557,0.33
+298,Fuel Pumps for Hyundai Kona 2014,fuel pumps,Miami,FL,25.7617,-80.1918,0.33
+298,Fuel Pumps for Hyundai Kona 2014,fuel pumps,Houston,TX,29.7604,-95.3698,0.34
+298,Fuel Pumps for Hyundai Kona 2014,fuel pumps,Phoenix,AZ,33.4484,-112.074,0.33
+209,Air Filters for Hyundai Kona 2014,air filters,Philadelphia,PA,39.9526,-75.1652,0.34
+209,Air Filters for Hyundai Kona 2014,air filters,Atlanta,GA,33.749,-84.388,0.34
+209,Air Filters for Hyundai Kona 2014,air filters,Houston,TX,29.7604,-95.3698,0.34
+243,Water Pumps for Hyundai Kona 2014,water pumps,San Diego,CA,32.7157,-117.1611,0.34
+243,Water Pumps for Hyundai Kona 2014,water pumps,Houston,TX,29.7604,-95.3698,0.34
+243,Water Pumps for Hyundai Kona 2014,water pumps,Chicago,IL,41.8781,-87.6298,0.34
+211,Starters for Hyundai Kona 2014,starters,Boston,MA,42.3601,-71.0589,0.33
+211,Starters for Hyundai Kona 2014,starters,Portland,OR,45.5051,-122.675,0.34
+211,Starters for Hyundai Kona 2014,starters,Seattle,WA,47.6062,-122.3321,0.34
+41,Batteries for Honda CR-V 2017,batteries,Phoenix,AZ,33.4484,-112.074,0.34
+41,Batteries for Honda CR-V 2017,batteries,Seattle,WA,47.6062,-122.3321,0.33
+41,Batteries for Honda CR-V 2017,batteries,Miami,FL,25.7617,-80.1918,0.34
+220,Starters for Honda CR-V 2017,starters,San Antonio,TX,29.4241,-98.4936,0.33
+220,Starters for Honda CR-V 2017,starters,Philadelphia,PA,39.9526,-75.1652,0.34
+220,Starters for Honda CR-V 2017,starters,Jacksonville,FL,30.3322,-81.6557,0.33
+115,Spark Plugs for Honda CR-V 2017,spark plugs,Miami,FL,25.7617,-80.1918,0.34
+115,Spark Plugs for Honda CR-V 2017,spark plugs,San Antonio,TX,29.4241,-98.4936,0.33
+115,Spark Plugs for Honda CR-V 2017,spark plugs,Philadelphia,PA,39.9526,-75.1652,0.33
+10,Brakes for Honda CR-V 2017,brakes,Atlanta,GA,33.749,-84.388,0.33
+10,Brakes for Honda CR-V 2017,brakes,Chicago,IL,41.8781,-87.6298,0.33
+10,Brakes for Honda CR-V 2017,brakes,Philadelphia,PA,39.9526,-75.1652,0.33
+149,Tires for Honda CR-V 2017,tires,Miami,FL,25.7617,-80.1918,0.34
+149,Tires for Honda CR-V 2017,tires,Boston,MA,42.3601,-71.0589,0.33
+149,Tires for Honda CR-V 2017,tires,Chicago,IL,41.8781,-87.6298,0.34
+163,Oil Filters for Honda CR-V 2017,oil filters,Dallas,TX,32.7767,-96.797,0.33
+163,Oil Filters for Honda CR-V 2017,oil filters,San Diego,CA,32.7157,-117.1611,0.34
+163,Oil Filters for Honda CR-V 2017,oil filters,Detroit,MI,42.3314,-83.0458,0.34
+81,Alternators for Honda CR-V 2017,alternators,Denver,CO,39.7392,-104.9903,0.33
+81,Alternators for Honda CR-V 2017,alternators,San Diego,CA,32.7157,-117.1611,0.34
+81,Alternators for Honda CR-V 2017,alternators,Dallas,TX,32.7767,-96.797,0.34
+207,Air Filters for Honda CR-V 2017,air filters,Dallas,TX,32.7767,-96.797,0.33
+207,Air Filters for Honda CR-V 2017,air filters,Portland,OR,45.5051,-122.675,0.34
+207,Air Filters for Honda CR-V 2017,air filters,Jacksonville,FL,30.3322,-81.6557,0.33
+271,Fuel Pumps for Honda CR-V 2017,fuel pumps,Philadelphia,PA,39.9526,-75.1652,0.34
+271,Fuel Pumps for Honda CR-V 2017,fuel pumps,Dallas,TX,32.7767,-96.797,0.33
+271,Fuel Pumps for Honda CR-V 2017,fuel pumps,Detroit,MI,42.3314,-83.0458,0.33
+266,Water Pumps for Honda CR-V 2017,water pumps,Los Angeles,CA,34.0522,-118.2437,0.33
+266,Water Pumps for Honda CR-V 2017,water pumps,Miami,FL,25.7617,-80.1918,0.34
+266,Water Pumps for Honda CR-V 2017,water pumps,Seattle,WA,47.6062,-122.3321,0.34
+250,Water Pumps for Mercedes GLC 2015,water pumps,New York,NY,40.7128,-74.006,0.33
+250,Water Pumps for Mercedes GLC 2015,water pumps,Dallas,TX,32.7767,-96.797,0.34
+250,Water Pumps for Mercedes GLC 2015,water pumps,Chicago,IL,41.8781,-87.6298,0.33
+286,Fuel Pumps for Mercedes GLC 2015,fuel pumps,San Diego,CA,32.7157,-117.1611,0.33
+286,Fuel Pumps for Mercedes GLC 2015,fuel pumps,San Antonio,TX,29.4241,-98.4936,0.33
+286,Fuel Pumps for Mercedes GLC 2015,fuel pumps,Boston,MA,42.3601,-71.0589,0.33
+180,Oil Filters for Mercedes GLC 2015,oil filters,Boston,MA,42.3601,-71.0589,0.33
+180,Oil Filters for Mercedes GLC 2015,oil filters,San Jose,CA,37.3382,-121.8863,0.33
+180,Oil Filters for Mercedes GLC 2015,oil filters,San Diego,CA,32.7157,-117.1611,0.33
+21,Brakes for Mercedes GLC 2015,brakes,Austin,TX,30.2672,-97.7431,0.32
+21,Brakes for Mercedes GLC 2015,brakes,Detroit,MI,42.3314,-83.0458,0.33
+21,Brakes for Mercedes GLC 2015,brakes,Chicago,IL,41.8781,-87.6298,0.33
+119,Spark Plugs for Mercedes GLC 2015,spark plugs,Houston,TX,29.7604,-95.3698,0.33
+119,Spark Plugs for Mercedes GLC 2015,spark plugs,Denver,CO,39.7392,-104.9903,0.33
+119,Spark Plugs for Mercedes GLC 2015,spark plugs,Portland,OR,45.5051,-122.675,0.32
+69,Alternators for Mercedes GLC 2015,alternators,Portland,OR,45.5051,-122.675,0.34
+69,Alternators for Mercedes GLC 2015,alternators,Jacksonville,FL,30.3322,-81.6557,0.33
+69,Alternators for Mercedes GLC 2015,alternators,Atlanta,GA,33.749,-84.388,0.33
+126,Tires for Mercedes GLC 2015,tires,Miami,FL,25.7617,-80.1918,0.34
+126,Tires for Mercedes GLC 2015,tires,Austin,TX,30.2672,-97.7431,0.33
+126,Tires for Mercedes GLC 2015,tires,Portland,OR,45.5051,-122.675,0.33
+223,Starters for Mercedes GLC 2015,starters,Boston,MA,42.3601,-71.0589,0.33
+223,Starters for Mercedes GLC 2015,starters,Austin,TX,30.2672,-97.7431,0.34
+223,Starters for Mercedes GLC 2015,starters,Phoenix,AZ,33.4484,-112.074,0.33
+39,Batteries for Mercedes GLC 2015,batteries,Austin,TX,30.2672,-97.7431,0.33
+39,Batteries for Mercedes GLC 2015,batteries,Jacksonville,FL,30.3322,-81.6557,0.33
+39,Batteries for Mercedes GLC 2015,batteries,Boston,MA,42.3601,-71.0589,0.33
+183,Air Filters for Mercedes GLC 2015,air filters,Chicago,IL,41.8781,-87.6298,0.33
+183,Air Filters for Mercedes GLC 2015,air filters,Portland,OR,45.5051,-122.675,0.33
+183,Air Filters for Mercedes GLC 2015,air filters,Jacksonville,FL,30.3322,-81.6557,0.33
+275,Fuel Pumps for Kia Soul 2006,fuel pumps,Dallas,TX,32.7767,-96.797,0.33
+275,Fuel Pumps for Kia Soul 2006,fuel pumps,Philadelphia,PA,39.9526,-75.1652,0.33
+275,Fuel Pumps for Kia Soul 2006,fuel pumps,Phoenix,AZ,33.4484,-112.074,0.33
+182,Air Filters for BMW X5 2022,air filters,Jacksonville,FL,30.3322,-81.6557,0.33
+182,Air Filters for BMW X5 2022,air filters,Detroit,MI,42.3314,-83.0458,0.32
+182,Air Filters for BMW X5 2022,air filters,Atlanta,GA,33.749,-84.388,0.33
+191,Air Filters for Kia Soul 2006,air filters,Portland,OR,45.5051,-122.675,0.33
+191,Air Filters for Kia Soul 2006,air filters,Denver,CO,39.7392,-104.9903,0.33
+191,Air Filters for Kia Soul 2006,air filters,Miami,FL,25.7617,-80.1918,0.33
+255,Water Pumps for BMW X5 2022,water pumps,Los Angeles,CA,34.0522,-118.2437,0.33
+255,Water Pumps for BMW X5 2022,water pumps,Boston,MA,42.3601,-71.0589,0.33
+255,Water Pumps for BMW X5 2022,water pumps,Miami,FL,25.7617,-80.1918,0.33
+113,Spark Plugs for BMW X5 2022,spark plugs,San Diego,CA,32.7157,-117.1611,0.33
+113,Spark Plugs for BMW X5 2022,spark plugs,Atlanta,GA,33.749,-84.388,0.33
+113,Spark Plugs for BMW X5 2022,spark plugs,Dallas,TX,32.7767,-96.797,0.33
+17,Brakes for BMW X5 2022,brakes,Boston,MA,42.3601,-71.0589,0.33
+17,Brakes for BMW X5 2022,brakes,Phoenix,AZ,33.4484,-112.074,0.33
+17,Brakes for BMW X5 2022,brakes,Chicago,IL,41.8781,-87.6298,0.33
+143,Tires for BMW X5 2022,tires,New York,NY,40.7128,-74.006,0.32
+143,Tires for BMW X5 2022,tires,Dallas,TX,32.7767,-96.797,0.32
+143,Tires for BMW X5 2022,tires,Detroit,MI,42.3314,-83.0458,0.33
+161,Oil Filters for BMW X5 2022,oil filters,Philadelphia,PA,39.9526,-75.1652,0.32
+161,Oil Filters for BMW X5 2022,oil filters,Denver,CO,39.7392,-104.9903,0.33
+161,Oil Filters for BMW X5 2022,oil filters,Phoenix,AZ,33.4484,-112.074,0.33
+44,Batteries for Kia Soul 2006,batteries,Miami,FL,25.7617,-80.1918,0.33
+44,Batteries for Kia Soul 2006,batteries,Jacksonville,FL,30.3322,-81.6557,0.33
+44,Batteries for Kia Soul 2006,batteries,Philadelphia,PA,39.9526,-75.1652,0.33
+256,Water Pumps for Kia Soul 2006,water pumps,New York,NY,40.7128,-74.006,0.33
+256,Water Pumps for Kia Soul 2006,water pumps,Las Vegas,NV,36.1699,-115.1398,0.33
+256,Water Pumps for Kia Soul 2006,water pumps,San Antonio,TX,29.4241,-98.4936,0.33
+235,Starters for Kia Soul 2006,starters,Las Vegas,NV,36.1699,-115.1398,0.33
+235,Starters for Kia Soul 2006,starters,Atlanta,GA,33.749,-84.388,0.33
+235,Starters for Kia Soul 2006,starters,Detroit,MI,42.3314,-83.0458,0.33
+91,Spark Plugs for Kia Soul 2006,spark plugs,Houston,TX,29.7604,-95.3698,0.33
+91,Spark Plugs for Kia Soul 2006,spark plugs,San Antonio,TX,29.4241,-98.4936,0.33
+91,Spark Plugs for Kia Soul 2006,spark plugs,Chicago,IL,41.8781,-87.6298,0.33
+49,Batteries for BMW X5 2022,batteries,Detroit,MI,42.3314,-83.0458,0.33
+49,Batteries for BMW X5 2022,batteries,Jacksonville,FL,30.3322,-81.6557,0.33
+49,Batteries for BMW X5 2022,batteries,Boston,MA,42.3601,-71.0589,0.33
+22,Brakes for Kia Soul 2006,brakes,San Antonio,TX,29.4241,-98.4936,0.33
+22,Brakes for Kia Soul 2006,brakes,San Jose,CA,37.3382,-121.8863,0.33
+22,Brakes for Kia Soul 2006,brakes,Houston,TX,29.7604,-95.3698,0.33
+138,Tires for Kia Soul 2006,tires,Philadelphia,PA,39.9526,-75.1652,0.32
+138,Tires for Kia Soul 2006,tires,Seattle,WA,47.6062,-122.3321,0.33
+138,Tires for Kia Soul 2006,tires,San Antonio,TX,29.4241,-98.4936,0.33
+174,Oil Filters for Kia Soul 2006,oil filters,Los Angeles,CA,34.0522,-118.2437,0.33
+174,Oil Filters for Kia Soul 2006,oil filters,Portland,OR,45.5051,-122.675,0.33
+174,Oil Filters for Kia Soul 2006,oil filters,Boston,MA,42.3601,-71.0589,0.33
+72,Alternators for Kia Soul 2006,alternators,Boston,MA,42.3601,-71.0589,0.33
+72,Alternators for Kia Soul 2006,alternators,Phoenix,AZ,33.4484,-112.074,0.33
+72,Alternators for Kia Soul 2006,alternators,Austin,TX,30.2672,-97.7431,0.33
+217,Starters for BMW X5 2022,starters,Chicago,IL,41.8781,-87.6298,0.33
+217,Starters for BMW X5 2022,starters,San Antonio,TX,29.4241,-98.4936,0.33
+217,Starters for BMW X5 2022,starters,Atlanta,GA,33.749,-84.388,0.33
+63,Alternators for BMW X5 2022,alternators,Jacksonville,FL,30.3322,-81.6557,0.33
+63,Alternators for BMW X5 2022,alternators,Phoenix,AZ,33.4484,-112.074,0.33
+63,Alternators for BMW X5 2022,alternators,Los Angeles,CA,34.0522,-118.2437,0.33
+299,Fuel Pumps for BMW X5 2022,fuel pumps,Miami,FL,25.7617,-80.1918,0.33
+299,Fuel Pumps for BMW X5 2022,fuel pumps,Atlanta,GA,33.749,-84.388,0.33
+299,Fuel Pumps for BMW X5 2022,fuel pumps,Boston,MA,42.3601,-71.0589,0.33
+242,Water Pumps for Mercedes GLE 2019,water pumps,Las Vegas,NV,36.1699,-115.1398,0.33
+242,Water Pumps for Mercedes GLE 2019,water pumps,San Antonio,TX,29.4241,-98.4936,0.33
+242,Water Pumps for Mercedes GLE 2019,water pumps,Houston,TX,29.7604,-95.3698,0.33
+5,Brakes for Hyundai Sonata 2017,brakes,Boston,MA,42.3601,-71.0589,0.33
+5,Brakes for Hyundai Sonata 2017,brakes,Miami,FL,25.7617,-80.1918,0.33
+5,Brakes for Hyundai Sonata 2017,brakes,Dallas,TX,32.7767,-96.797,0.33
+106,Spark Plugs for Hyundai Sonata 2017,spark plugs,Phoenix,AZ,33.4484,-112.074,0.33
+106,Spark Plugs for Hyundai Sonata 2017,spark plugs,San Diego,CA,32.7157,-117.1611,0.33
+106,Spark Plugs for Hyundai Sonata 2017,spark plugs,Denver,CO,39.7392,-104.9903,0.32
+15,Brakes for Mercedes GLE 2019,brakes,Jacksonville,FL,30.3322,-81.6557,0.32
+15,Brakes for Mercedes GLE 2019,brakes,Atlanta,GA,33.749,-84.388,0.33
+15,Brakes for Mercedes GLE 2019,brakes,San Diego,CA,32.7157,-117.1611,0.32
+58,Batteries for Hyundai Sonata 2017,batteries,Austin,TX,30.2672,-97.7431,0.33
+58,Batteries for Hyundai Sonata 2017,batteries,Boston,MA,42.3601,-71.0589,0.33
+58,Batteries for Hyundai Sonata 2017,batteries,Portland,OR,45.5051,-122.675,0.33
+251,Water Pumps for Hyundai Sonata 2017,water pumps,New York,NY,40.7128,-74.006,0.33
+251,Water Pumps for Hyundai Sonata 2017,water pumps,Miami,FL,25.7617,-80.1918,0.33
+251,Water Pumps for Hyundai Sonata 2017,water pumps,Chicago,IL,41.8781,-87.6298,0.32
+152,Oil Filters for Mercedes GLE 2019,oil filters,Denver,CO,39.7392,-104.9903,0.33
+152,Oil Filters for Mercedes GLE 2019,oil filters,Las Vegas,NV,36.1699,-115.1398,0.33
+152,Oil Filters for Mercedes GLE 2019,oil filters,Philadelphia,PA,39.9526,-75.1652,0.33
+189,Air Filters for Hyundai Sonata 2017,air filters,Austin,TX,30.2672,-97.7431,0.33
+189,Air Filters for Hyundai Sonata 2017,air filters,San Diego,CA,32.7157,-117.1611,0.32
+189,Air Filters for Hyundai Sonata 2017,air filters,Chicago,IL,41.8781,-87.6298,0.32
+292,Fuel Pumps for Hyundai Sonata 2017,fuel pumps,Houston,TX,29.7604,-95.3698,0.33
+292,Fuel Pumps for Hyundai Sonata 2017,fuel pumps,New York,NY,40.7128,-74.006,0.32
+292,Fuel Pumps for Hyundai Sonata 2017,fuel pumps,San Jose,CA,37.3382,-121.8863,0.33
+62,Alternators for Hyundai Sonata 2017,alternators,Denver,CO,39.7392,-104.9903,0.33
+62,Alternators for Hyundai Sonata 2017,alternators,San Diego,CA,32.7157,-117.1611,0.33
+62,Alternators for Hyundai Sonata 2017,alternators,Philadelphia,PA,39.9526,-75.1652,0.33
+172,Oil Filters for Hyundai Sonata 2017,oil filters,San Antonio,TX,29.4241,-98.4936,0.33
+172,Oil Filters for Hyundai Sonata 2017,oil filters,Philadelphia,PA,39.9526,-75.1652,0.33
+172,Oil Filters for Hyundai Sonata 2017,oil filters,San Diego,CA,32.7157,-117.1611,0.32
+139,Tires for Hyundai Sonata 2017,tires,Jacksonville,FL,30.3322,-81.6557,0.33
+139,Tires for Hyundai Sonata 2017,tires,Chicago,IL,41.8781,-87.6298,0.33
+139,Tires for Hyundai Sonata 2017,tires,Dallas,TX,32.7767,-96.797,0.32
+233,Starters for Hyundai Sonata 2017,starters,San Antonio,TX,29.4241,-98.4936,0.32
+233,Starters for Hyundai Sonata 2017,starters,Denver,CO,39.7392,-104.9903,0.33
+233,Starters for Hyundai Sonata 2017,starters,Phoenix,AZ,33.4484,-112.074,0.33
+141,Tires for Mercedes GLE 2019,tires,Boston,MA,42.3601,-71.0589,0.33
+141,Tires for Mercedes GLE 2019,tires,Dallas,TX,32.7767,-96.797,0.33
+141,Tires for Mercedes GLE 2019,tires,Portland,OR,45.5051,-122.675,0.33
+79,Alternators for Mercedes GLE 2019,alternators,Jacksonville,FL,30.3322,-81.6557,0.33
+79,Alternators for Mercedes GLE 2019,alternators,Phoenix,AZ,33.4484,-112.074,0.32
+79,Alternators for Mercedes GLE 2019,alternators,Austin,TX,30.2672,-97.7431,0.33
+238,Starters for Mercedes GLE 2019,starters,Los Angeles,CA,34.0522,-118.2437,0.33
+238,Starters for Mercedes GLE 2019,starters,Portland,OR,45.5051,-122.675,0.32
+238,Starters for Mercedes GLE 2019,starters,Seattle,WA,47.6062,-122.3321,0.33
+290,Fuel Pumps for Mercedes GLE 2019,fuel pumps,Miami,FL,25.7617,-80.1918,0.33
+290,Fuel Pumps for Mercedes GLE 2019,fuel pumps,San Antonio,TX,29.4241,-98.4936,0.33
+290,Fuel Pumps for Mercedes GLE 2019,fuel pumps,Houston,TX,29.7604,-95.3698,0.33
+208,Air Filters for Mercedes GLE 2019,air filters,Austin,TX,30.2672,-97.7431,0.33
+208,Air Filters for Mercedes GLE 2019,air filters,San Antonio,TX,29.4241,-98.4936,0.33
+208,Air Filters for Mercedes GLE 2019,air filters,Houston,TX,29.7604,-95.3698,0.33
+116,Spark Plugs for Mercedes GLE 2019,spark plugs,Phoenix,AZ,33.4484,-112.074,0.32
+116,Spark Plugs for Mercedes GLE 2019,spark plugs,New York,NY,40.7128,-74.006,0.32
+116,Spark Plugs for Mercedes GLE 2019,spark plugs,Chicago,IL,41.8781,-87.6298,0.33
+56,Batteries for Mercedes GLE 2019,batteries,Seattle,WA,47.6062,-122.3321,0.33
+56,Batteries for Mercedes GLE 2019,batteries,Las Vegas,NV,36.1699,-115.1398,0.33
+56,Batteries for Mercedes GLE 2019,batteries,Los Angeles,CA,34.0522,-118.2437,0.33
+190,Air Filters for Hyundai Sonata 2023,air filters,Los Angeles,CA,34.0522,-118.2437,0.32
+190,Air Filters for Hyundai Sonata 2023,air filters,Seattle,WA,47.6062,-122.3321,0.33
+190,Air Filters for Hyundai Sonata 2023,air filters,Las Vegas,NV,36.1699,-115.1398,0.33
+187,Air Filters for Audi Q7 2011,air filters,Phoenix,AZ,33.4484,-112.074,0.33
+187,Air Filters for Audi Q7 2011,air filters,Los Angeles,CA,34.0522,-118.2437,0.33
+187,Air Filters for Audi Q7 2011,air filters,Philadelphia,PA,39.9526,-75.1652,0.33
+288,Fuel Pumps for Audi Q7 2011,fuel pumps,Philadelphia,PA,39.9526,-75.1652,0.33
+288,Fuel Pumps for Audi Q7 2011,fuel pumps,San Jose,CA,37.3382,-121.8863,0.33
+288,Fuel Pumps for Audi Q7 2011,fuel pumps,Dallas,TX,32.7767,-96.797,0.33
+297,Fuel Pumps for Hyundai Sonata 2023,fuel pumps,Seattle,WA,47.6062,-122.3321,0.33
+297,Fuel Pumps for Hyundai Sonata 2023,fuel pumps,Jacksonville,FL,30.3322,-81.6557,0.33
+297,Fuel Pumps for Hyundai Sonata 2023,fuel pumps,San Jose,CA,37.3382,-121.8863,0.32
+129,Tires for Audi Q7 2011,tires,San Antonio,TX,29.4241,-98.4936,0.33
+129,Tires for Audi Q7 2011,tires,Jacksonville,FL,30.3322,-81.6557,0.33
+129,Tires for Audi Q7 2011,tires,Boston,MA,42.3601,-71.0589,0.33
+127,Tires for Hyundai Sonata 2023,tires,Houston,TX,29.7604,-95.3698,0.32
+127,Tires for Hyundai Sonata 2023,tires,Denver,CO,39.7392,-104.9903,0.33
+127,Tires for Hyundai Sonata 2023,tires,New York,NY,40.7128,-74.006,0.33
+269,Water Pumps for Audi Q7 2011,water pumps,Phoenix,AZ,33.4484,-112.074,0.33
+269,Water Pumps for Audi Q7 2011,water pumps,Jacksonville,FL,30.3322,-81.6557,0.33
+269,Water Pumps for Audi Q7 2011,water pumps,Boston,MA,42.3601,-71.0589,0.33
+19,Brakes for Hyundai Sonata 2023,brakes,Dallas,TX,32.7767,-96.797,0.33
+19,Brakes for Hyundai Sonata 2023,brakes,New York,NY,40.7128,-74.006,0.32
+19,Brakes for Hyundai Sonata 2023,brakes,Austin,TX,30.2672,-97.7431,0.32
+107,Spark Plugs for Audi Q7 2011,spark plugs,San Diego,CA,32.7157,-117.1611,0.33
+107,Spark Plugs for Audi Q7 2011,spark plugs,Austin,TX,30.2672,-97.7431,0.33
+107,Spark Plugs for Audi Q7 2011,spark plugs,Miami,FL,25.7617,-80.1918,0.33
+65,Alternators for Hyundai Sonata 2023,alternators,Phoenix,AZ,33.4484,-112.074,0.33
+65,Alternators for Hyundai Sonata 2023,alternators,Los Angeles,CA,34.0522,-118.2437,0.33
+65,Alternators for Hyundai Sonata 2023,alternators,San Jose,CA,37.3382,-121.8863,0.33
+268,Water Pumps for Hyundai Sonata 2023,water pumps,Boston,MA,42.3601,-71.0589,0.33
+268,Water Pumps for Hyundai Sonata 2023,water pumps,Philadelphia,PA,39.9526,-75.1652,0.32
+268,Water Pumps for Hyundai Sonata 2023,water pumps,Jacksonville,FL,30.3322,-81.6557,0.33
+227,Starters for Audi Q7 2011,starters,Portland,OR,45.5051,-122.675,0.33
+227,Starters for Audi Q7 2011,starters,San Diego,CA,32.7157,-117.1611,0.33
+227,Starters for Audi Q7 2011,starters,Atlanta,GA,33.749,-84.388,0.32
+75,Alternators for Audi Q7 2011,alternators,Denver,CO,39.7392,-104.9903,0.32
+75,Alternators for Audi Q7 2011,alternators,San Jose,CA,37.3382,-121.8863,0.32
+75,Alternators for Audi Q7 2011,alternators,Portland,OR,45.5051,-122.675,0.33
+171,Oil Filters for Audi Q7 2011,oil filters,San Diego,CA,32.7157,-117.1611,0.33
+171,Oil Filters for Audi Q7 2011,oil filters,Boston,MA,42.3601,-71.0589,0.32
+171,Oil Filters for Audi Q7 2011,oil filters,Portland,OR,45.5051,-122.675,0.33
+236,Starters for Hyundai Sonata 2023,starters,Austin,TX,30.2672,-97.7431,0.32
+236,Starters for Hyundai Sonata 2023,starters,Jacksonville,FL,30.3322,-81.6557,0.32
+236,Starters for Hyundai Sonata 2023,starters,Denver,CO,39.7392,-104.9903,0.33
+53,Batteries for Audi Q7 2011,batteries,Chicago,IL,41.8781,-87.6298,0.32
+53,Batteries for Audi Q7 2011,batteries,San Jose,CA,37.3382,-121.8863,0.32
+53,Batteries for Audi Q7 2011,batteries,Las Vegas,NV,36.1699,-115.1398,0.33
+153,Oil Filters for Hyundai Sonata 2023,oil filters,Seattle,WA,47.6062,-122.3321,0.33
+153,Oil Filters for Hyundai Sonata 2023,oil filters,Portland,OR,45.5051,-122.675,0.32
+153,Oil Filters for Hyundai Sonata 2023,oil filters,Las Vegas,NV,36.1699,-115.1398,0.33
+105,Spark Plugs for Hyundai Sonata 2023,spark plugs,Chicago,IL,41.8781,-87.6298,0.33
+105,Spark Plugs for Hyundai Sonata 2023,spark plugs,Jacksonville,FL,30.3322,-81.6557,0.33
+105,Spark Plugs for Hyundai Sonata 2023,spark plugs,Austin,TX,30.2672,-97.7431,0.32
+42,Batteries for Hyundai Sonata 2023,batteries,Miami,FL,25.7617,-80.1918,0.33
+42,Batteries for Hyundai Sonata 2023,batteries,San Diego,CA,32.7157,-117.1611,0.32
+42,Batteries for Hyundai Sonata 2023,batteries,Seattle,WA,47.6062,-122.3321,0.32
+28,Brakes for Audi Q7 2011,brakes,Austin,TX,30.2672,-97.7431,0.33
+28,Brakes for Audi Q7 2011,brakes,Portland,OR,45.5051,-122.675,0.32
+28,Brakes for Audi Q7 2011,brakes,New York,NY,40.7128,-74.006,0.32
+109,Spark Plugs for Chevrolet Suburban 2022,spark plugs,Jacksonville,FL,30.3322,-81.6557,0.33
+109,Spark Plugs for Chevrolet Suburban 2022,spark plugs,Las Vegas,NV,36.1699,-115.1398,0.32
+109,Spark Plugs for Chevrolet Suburban 2022,spark plugs,San Diego,CA,32.7157,-117.1611,0.32
+6,Brakes for Kia Sportage 2023,brakes,San Diego,CA,32.7157,-117.1611,0.33
+6,Brakes for Kia Sportage 2023,brakes,San Jose,CA,37.3382,-121.8863,0.32
+6,Brakes for Kia Sportage 2023,brakes,Portland,OR,45.5051,-122.675,0.33
+224,Starters for Kia Sportage 2023,starters,Austin,TX,30.2672,-97.7431,0.32
+224,Starters for Kia Sportage 2023,starters,Phoenix,AZ,33.4484,-112.074,0.33
+224,Starters for Kia Sportage 2023,starters,San Jose,CA,37.3382,-121.8863,0.33
+24,Brakes for Chevrolet Suburban 2022,brakes,Chicago,IL,41.8781,-87.6298,0.32
+24,Brakes for Chevrolet Suburban 2022,brakes,Denver,CO,39.7392,-104.9903,0.32
+24,Brakes for Chevrolet Suburban 2022,brakes,Austin,TX,30.2672,-97.7431,0.33
+221,Starters for Nissan Sentra 2023,starters,San Antonio,TX,29.4241,-98.4936,0.33
+221,Starters for Nissan Sentra 2023,starters,Miami,FL,25.7617,-80.1918,0.33
+221,Starters for Nissan Sentra 2023,starters,Philadelphia,PA,39.9526,-75.1652,0.33
+93,Spark Plugs for Nissan Sentra 2023,spark plugs,Phoenix,AZ,33.4484,-112.074,0.32
+93,Spark Plugs for Nissan Sentra 2023,spark plugs,San Diego,CA,32.7157,-117.1611,0.33
+93,Spark Plugs for Nissan Sentra 2023,spark plugs,Portland,OR,45.5051,-122.675,0.33
+134,Tires for Nissan Sentra 2023,tires,Las Vegas,NV,36.1699,-115.1398,0.32
+134,Tires for Nissan Sentra 2023,tires,Austin,TX,30.2672,-97.7431,0.33
+134,Tires for Nissan Sentra 2023,tires,Phoenix,AZ,33.4484,-112.074,0.33
+283,Fuel Pumps for Nissan Sentra 2023,fuel pumps,Dallas,TX,32.7767,-96.797,0.33
+283,Fuel Pumps for Nissan Sentra 2023,fuel pumps,San Diego,CA,32.7157,-117.1611,0.33
+283,Fuel Pumps for Nissan Sentra 2023,fuel pumps,Denver,CO,39.7392,-104.9903,0.32
+140,Tires for Chevrolet Suburban 2022,tires,San Antonio,TX,29.4241,-98.4936,0.32
+140,Tires for Chevrolet Suburban 2022,tires,Austin,TX,30.2672,-97.7431,0.32
+140,Tires for Chevrolet Suburban 2022,tires,Jacksonville,FL,30.3322,-81.6557,0.33
+112,Spark Plugs for Kia Sportage 2023,spark plugs,Houston,TX,29.7604,-95.3698,0.32
+112,Spark Plugs for Kia Sportage 2023,spark plugs,New York,NY,40.7128,-74.006,0.32
+112,Spark Plugs for Kia Sportage 2023,spark plugs,Phoenix,AZ,33.4484,-112.074,0.33
+226,Starters for Chevrolet Suburban 2022,starters,Houston,TX,29.7604,-95.3698,0.33
+226,Starters for Chevrolet Suburban 2022,starters,Chicago,IL,41.8781,-87.6298,0.33
+226,Starters for Chevrolet Suburban 2022,starters,Jacksonville,FL,30.3322,-81.6557,0.32
+164,Oil Filters for Nissan Sentra 2023,oil filters,Atlanta,GA,33.749,-84.388,0.33
+164,Oil Filters for Nissan Sentra 2023,oil filters,Las Vegas,NV,36.1699,-115.1398,0.33
+164,Oil Filters for Nissan Sentra 2023,oil filters,Philadelphia,PA,39.9526,-75.1652,0.33
+158,Oil Filters for Chevrolet Suburban 2022,oil filters,San Antonio,TX,29.4241,-98.4936,0.33
+158,Oil Filters for Chevrolet Suburban 2022,oil filters,Chicago,IL,41.8781,-87.6298,0.32
+158,Oil Filters for Chevrolet Suburban 2022,oil filters,Austin,TX,30.2672,-97.7431,0.33
+155,Oil Filters for Kia Sportage 2023,oil filters,Las Vegas,NV,36.1699,-115.1398,0.32
+155,Oil Filters for Kia Sportage 2023,oil filters,Dallas,TX,32.7767,-96.797,0.33
+155,Oil Filters for Kia Sportage 2023,oil filters,Seattle,WA,47.6062,-122.3321,0.32
+3,Brakes for Nissan Sentra 2023,brakes,Houston,TX,29.7604,-95.3698,0.32
+3,Brakes for Nissan Sentra 2023,brakes,Miami,FL,25.7617,-80.1918,0.33
+3,Brakes for Nissan Sentra 2023,brakes,Jacksonville,FL,30.3322,-81.6557,0.32
+278,Fuel Pumps for Kia Sportage 2023,fuel pumps,San Diego,CA,32.7157,-117.1611,0.33
+278,Fuel Pumps for Kia Sportage 2023,fuel pumps,Denver,CO,39.7392,-104.9903,0.33
+278,Fuel Pumps for Kia Sportage 2023,fuel pumps,Philadelphia,PA,39.9526,-75.1652,0.32
+144,Tires for Kia Sportage 2023,tires,Chicago,IL,41.8781,-87.6298,0.33
+144,Tires for Kia Sportage 2023,tires,Houston,TX,29.7604,-95.3698,0.33
+144,Tires for Kia Sportage 2023,tires,San Jose,CA,37.3382,-121.8863,0.33
+300,Fuel Pumps for Chevrolet Suburban 2022,fuel pumps,Chicago,IL,41.8781,-87.6298,0.32
+300,Fuel Pumps for Chevrolet Suburban 2022,fuel pumps,Boston,MA,42.3601,-71.0589,0.33
+300,Fuel Pumps for Chevrolet Suburban 2022,fuel pumps,New York,NY,40.7128,-74.006,0.33
+85,Alternators for Chevrolet Suburban 2022,alternators,New York,NY,40.7128,-74.006,0.33
+85,Alternators for Chevrolet Suburban 2022,alternators,Dallas,TX,32.7767,-96.797,0.32
+85,Alternators for Chevrolet Suburban 2022,alternators,Las Vegas,NV,36.1699,-115.1398,0.33
+259,Water Pumps for Nissan Sentra 2023,water pumps,Houston,TX,29.7604,-95.3698,0.33
+259,Water Pumps for Nissan Sentra 2023,water pumps,Detroit,MI,42.3314,-83.0458,0.33
+259,Water Pumps for Nissan Sentra 2023,water pumps,Miami,FL,25.7617,-80.1918,0.32
+188,Air Filters for Kia Sportage 2023,air filters,San Diego,CA,32.7157,-117.1611,0.33
+188,Air Filters for Kia Sportage 2023,air filters,Austin,TX,30.2672,-97.7431,0.32
+188,Air Filters for Kia Sportage 2023,air filters,San Jose,CA,37.3382,-121.8863,0.33
+57,Batteries for Nissan Sentra 2023,batteries,Houston,TX,29.7604,-95.3698,0.33
+57,Batteries for Nissan Sentra 2023,batteries,Philadelphia,PA,39.9526,-75.1652,0.32
+57,Batteries for Nissan Sentra 2023,batteries,Seattle,WA,47.6062,-122.3321,0.33
+64,Alternators for Kia Sportage 2023,alternators,San Jose,CA,37.3382,-121.8863,0.33
+64,Alternators for Kia Sportage 2023,alternators,San Diego,CA,32.7157,-117.1611,0.33
+64,Alternators for Kia Sportage 2023,alternators,Chicago,IL,41.8781,-87.6298,0.32
+195,Air Filters for Chevrolet Suburban 2022,air filters,Las Vegas,NV,36.1699,-115.1398,0.32
+195,Air Filters for Chevrolet Suburban 2022,air filters,Los Angeles,CA,34.0522,-118.2437,0.33
+195,Air Filters for Chevrolet Suburban 2022,air filters,Detroit,MI,42.3314,-83.0458,0.32
+198,Air Filters for Nissan Sentra 2023,air filters,Chicago,IL,41.8781,-87.6298,0.32
+198,Air Filters for Nissan Sentra 2023,air filters,Atlanta,GA,33.749,-84.388,0.33
+198,Air Filters for Nissan Sentra 2023,air filters,Phoenix,AZ,33.4484,-112.074,0.32
+252,Water Pumps for Chevrolet Suburban 2022,water pumps,Chicago,IL,41.8781,-87.6298,0.33
+252,Water Pumps for Chevrolet Suburban 2022,water pumps,Portland,OR,45.5051,-122.675,0.32
+252,Water Pumps for Chevrolet Suburban 2022,water pumps,San Diego,CA,32.7157,-117.1611,0.33
+43,Batteries for Chevrolet Suburban 2022,batteries,Dallas,TX,32.7767,-96.797,0.33
+43,Batteries for Chevrolet Suburban 2022,batteries,Boston,MA,42.3601,-71.0589,0.33
+43,Batteries for Chevrolet Suburban 2022,batteries,Miami,FL,25.7617,-80.1918,0.32
+40,Batteries for Kia Sportage 2023,batteries,Seattle,WA,47.6062,-122.3321,0.32
+40,Batteries for Kia Sportage 2023,batteries,Los Angeles,CA,34.0522,-118.2437,0.32
+40,Batteries for Kia Sportage 2023,batteries,Philadelphia,PA,39.9526,-75.1652,0.32
+264,Water Pumps for Kia Sportage 2023,water pumps,Denver,CO,39.7392,-104.9903,0.32
+264,Water Pumps for Kia Sportage 2023,water pumps,Chicago,IL,41.8781,-87.6298,0.33
+264,Water Pumps for Kia Sportage 2023,water pumps,New York,NY,40.7128,-74.006,0.32
+90,Alternators for Nissan Sentra 2023,alternators,Boston,MA,42.3601,-71.0589,0.33
+90,Alternators for Nissan Sentra 2023,alternators,San Antonio,TX,29.4241,-98.4936,0.32
+90,Alternators for Nissan Sentra 2023,alternators,Jacksonville,FL,30.3322,-81.6557,0.33
+36,Batteries for Hyundai Santa Fe 2006,batteries,Los Angeles,CA,34.0522,-118.2437,0.32
+36,Batteries for Hyundai Santa Fe 2006,batteries,Phoenix,AZ,33.4484,-112.074,0.33
+36,Batteries for Hyundai Santa Fe 2006,batteries,Boston,MA,42.3601,-71.0589,0.32
+184,Air Filters for Toyota Highlander 2013,air filters,Jacksonville,FL,30.3322,-81.6557,0.32
+184,Air Filters for Toyota Highlander 2013,air filters,Las Vegas,NV,36.1699,-115.1398,0.32
+184,Air Filters for Toyota Highlander 2013,air filters,Los Angeles,CA,34.0522,-118.2437,0.33
+7,Brakes for Toyota Highlander 2013,brakes,Denver,CO,39.7392,-104.9903,0.32
+7,Brakes for Toyota Highlander 2013,brakes,Miami,FL,25.7617,-80.1918,0.32
+7,Brakes for Toyota Highlander 2013,brakes,Dallas,TX,32.7767,-96.797,0.33
+86,Alternators for Hyundai Santa Fe 2006,alternators,Jacksonville,FL,30.3322,-81.6557,0.32
+86,Alternators for Hyundai Santa Fe 2006,alternators,Boston,MA,42.3601,-71.0589,0.32
+86,Alternators for Hyundai Santa Fe 2006,alternators,Portland,OR,45.5051,-122.675,0.33
+229,Starters for Ford Focus 2023,starters,Atlanta,GA,33.749,-84.388,0.33
+229,Starters for Ford Focus 2023,starters,Dallas,TX,32.7767,-96.797,0.32
+229,Starters for Ford Focus 2023,starters,Chicago,IL,41.8781,-87.6298,0.32
+285,Fuel Pumps for Toyota Highlander 2013,fuel pumps,Atlanta,GA,33.749,-84.388,0.32
+285,Fuel Pumps for Toyota Highlander 2013,fuel pumps,Jacksonville,FL,30.3322,-81.6557,0.33
+285,Fuel Pumps for Toyota Highlander 2013,fuel pumps,Chicago,IL,41.8781,-87.6298,0.33
+14,Brakes for Hyundai Santa Fe 2006,brakes,Austin,TX,30.2672,-97.7431,0.33
+14,Brakes for Hyundai Santa Fe 2006,brakes,Denver,CO,39.7392,-104.9903,0.32
+14,Brakes for Hyundai Santa Fe 2006,brakes,Chicago,IL,41.8781,-87.6298,0.33
+59,Batteries for Toyota Highlander 2013,batteries,Austin,TX,30.2672,-97.7431,0.33
+59,Batteries for Toyota Highlander 2013,batteries,San Diego,CA,32.7157,-117.1611,0.33
+59,Batteries for Toyota Highlander 2013,batteries,Miami,FL,25.7617,-80.1918,0.33
+154,Oil Filters for Ford Focus 2023,oil filters,New York,NY,40.7128,-74.006,0.33
+154,Oil Filters for Ford Focus 2023,oil filters,Houston,TX,29.7604,-95.3698,0.33
+154,Oil Filters for Ford Focus 2023,oil filters,Jacksonville,FL,30.3322,-81.6557,0.33
+167,Oil Filters for Audi Q5 2022,oil filters,Phoenix,AZ,33.4484,-112.074,0.33
+167,Oil Filters for Audi Q5 2022,oil filters,San Antonio,TX,29.4241,-98.4936,0.33
+167,Oil Filters for Audi Q5 2022,oil filters,Philadelphia,PA,39.9526,-75.1652,0.33
+66,Alternators for Toyota Highlander 2013,alternators,Chicago,IL,41.8781,-87.6298,0.32
+66,Alternators for Toyota Highlander 2013,alternators,Los Angeles,CA,34.0522,-118.2437,0.32
+66,Alternators for Toyota Highlander 2013,alternators,New York,NY,40.7128,-74.006,0.32
+50,Batteries for Ford Focus 2023,batteries,San Antonio,TX,29.4241,-98.4936,0.33
+50,Batteries for Ford Focus 2023,batteries,Miami,FL,25.7617,-80.1918,0.32
+50,Batteries for Ford Focus 2023,batteries,Houston,TX,29.7604,-95.3698,0.32
+76,Alternators for Audi Q5 2022,alternators,Los Angeles,CA,34.0522,-118.2437,0.32
+76,Alternators for Audi Q5 2022,alternators,Denver,CO,39.7392,-104.9903,0.32
+76,Alternators for Audi Q5 2022,alternators,Las Vegas,NV,36.1699,-115.1398,0.32
+27,Brakes for Ford Focus 2023,brakes,Los Angeles,CA,34.0522,-118.2437,0.32
+27,Brakes for Ford Focus 2023,brakes,Austin,TX,30.2672,-97.7431,0.33
+27,Brakes for Ford Focus 2023,brakes,Boston,MA,42.3601,-71.0589,0.33
+118,Spark Plugs for Toyota Highlander 2013,spark plugs,Chicago,IL,41.8781,-87.6298,0.33
+118,Spark Plugs for Toyota Highlander 2013,spark plugs,Portland,OR,45.5051,-122.675,0.32
+118,Spark Plugs for Toyota Highlander 2013,spark plugs,Los Angeles,CA,34.0522,-118.2437,0.32
+218,Starters for Audi Q5 2022,starters,Portland,OR,45.5051,-122.675,0.32
+218,Starters for Audi Q5 2022,starters,Dallas,TX,32.7767,-96.797,0.32
+218,Starters for Audi Q5 2022,starters,Austin,TX,30.2672,-97.7431,0.33
+92,Spark Plugs for Audi Q5 2022,spark plugs,Los Angeles,CA,34.0522,-118.2437,0.33
+92,Spark Plugs for Audi Q5 2022,spark plugs,Denver,CO,39.7392,-104.9903,0.32
+92,Spark Plugs for Audi Q5 2022,spark plugs,Phoenix,AZ,33.4484,-112.074,0.32
+231,Starters for Hyundai Santa Fe 2006,starters,Chicago,IL,41.8781,-87.6298,0.32
+231,Starters for Hyundai Santa Fe 2006,starters,Miami,FL,25.7617,-80.1918,0.33
+231,Starters for Hyundai Santa Fe 2006,starters,San Diego,CA,32.7157,-117.1611,0.33
+99,Spark Plugs for Hyundai Santa Fe 2006,spark plugs,Chicago,IL,41.8781,-87.6298,0.32
+99,Spark Plugs for Hyundai Santa Fe 2006,spark plugs,New York,NY,40.7128,-74.006,0.33
+99,Spark Plugs for Hyundai Santa Fe 2006,spark plugs,Detroit,MI,42.3314,-83.0458,0.33
+178,Oil Filters for Toyota Highlander 2013,oil filters,Boston,MA,42.3601,-71.0589,0.32
+178,Oil Filters for Toyota Highlander 2013,oil filters,San Antonio,TX,29.4241,-98.4936,0.32
+178,Oil Filters for Toyota Highlander 2013,oil filters,San Jose,CA,37.3382,-121.8863,0.32
+169,Oil Filters for Hyundai Santa Fe 2006,oil filters,Austin,TX,30.2672,-97.7431,0.32
+169,Oil Filters for Hyundai Santa Fe 2006,oil filters,Phoenix,AZ,33.4484,-112.074,0.32
+169,Oil Filters for Hyundai Santa Fe 2006,oil filters,Detroit,MI,42.3314,-83.0458,0.32
+33,Batteries for Audi Q5 2022,batteries,Portland,OR,45.5051,-122.675,0.32
+33,Batteries for Audi Q5 2022,batteries,Detroit,MI,42.3314,-83.0458,0.33
+33,Batteries for Audi Q5 2022,batteries,Chicago,IL,41.8781,-87.6298,0.33
+77,Alternators for Ford Focus 2023,alternators,Jacksonville,FL,30.3322,-81.6557,0.33
+77,Alternators for Ford Focus 2023,alternators,Austin,TX,30.2672,-97.7431,0.32
+77,Alternators for Ford Focus 2023,alternators,Philadelphia,PA,39.9526,-75.1652,0.33
+94,Spark Plugs for Ford Focus 2023,spark plugs,Phoenix,AZ,33.4484,-112.074,0.32
+94,Spark Plugs for Ford Focus 2023,spark plugs,San Diego,CA,32.7157,-117.1611,0.32
+94,Spark Plugs for Ford Focus 2023,spark plugs,Atlanta,GA,33.749,-84.388,0.32
+293,Fuel Pumps for Audi Q5 2022,fuel pumps,New York,NY,40.7128,-74.006,0.32
+293,Fuel Pumps for Audi Q5 2022,fuel pumps,Portland,OR,45.5051,-122.675,0.33
+293,Fuel Pumps for Audi Q5 2022,fuel pumps,Boston,MA,42.3601,-71.0589,0.32
+263,Water Pumps for Ford Focus 2023,water pumps,San Diego,CA,32.7157,-117.1611,0.33
+263,Water Pumps for Ford Focus 2023,water pumps,Denver,CO,39.7392,-104.9903,0.32
+263,Water Pumps for Ford Focus 2023,water pumps,New York,NY,40.7128,-74.006,0.32
+279,Fuel Pumps for Ford Focus 2023,fuel pumps,Chicago,IL,41.8781,-87.6298,0.33
+279,Fuel Pumps for Ford Focus 2023,fuel pumps,Atlanta,GA,33.749,-84.388,0.33
+279,Fuel Pumps for Ford Focus 2023,fuel pumps,Portland,OR,45.5051,-122.675,0.32
+2,Brakes for Audi Q5 2022,brakes,San Diego,CA,32.7157,-117.1611,0.32
+2,Brakes for Audi Q5 2022,brakes,Philadelphia,PA,39.9526,-75.1652,0.33
+2,Brakes for Audi Q5 2022,brakes,Seattle,WA,47.6062,-122.3321,0.32
+239,Starters for Toyota Highlander 2013,starters,Las Vegas,NV,36.1699,-115.1398,0.32
+239,Starters for Toyota Highlander 2013,starters,Atlanta,GA,33.749,-84.388,0.33
+239,Starters for Toyota Highlander 2013,starters,Boston,MA,42.3601,-71.0589,0.32
+261,Water Pumps for Hyundai Santa Fe 2006,water pumps,Las Vegas,NV,36.1699,-115.1398,0.33
+261,Water Pumps for Hyundai Santa Fe 2006,water pumps,San Jose,CA,37.3382,-121.8863,0.32
+261,Water Pumps for Hyundai Santa Fe 2006,water pumps,Portland,OR,45.5051,-122.675,0.33
+203,Air Filters for Ford Focus 2023,air filters,Austin,TX,30.2672,-97.7431,0.33
+203,Air Filters for Ford Focus 2023,air filters,San Jose,CA,37.3382,-121.8863,0.32
+203,Air Filters for Ford Focus 2023,air filters,San Antonio,TX,29.4241,-98.4936,0.32
+204,Air Filters for Hyundai Santa Fe 2006,air filters,Boston,MA,42.3601,-71.0589,0.32
+204,Air Filters for Hyundai Santa Fe 2006,air filters,New York,NY,40.7128,-74.006,0.32
+204,Air Filters for Hyundai Santa Fe 2006,air filters,Dallas,TX,32.7767,-96.797,0.33
+246,Water Pumps for Audi Q5 2022,water pumps,Houston,TX,29.7604,-95.3698,0.32
+246,Water Pumps for Audi Q5 2022,water pumps,Denver,CO,39.7392,-104.9903,0.33
+246,Water Pumps for Audi Q5 2022,water pumps,Miami,FL,25.7617,-80.1918,0.33
+146,Tires for Ford Focus 2023,tires,Denver,CO,39.7392,-104.9903,0.32
+146,Tires for Ford Focus 2023,tires,Boston,MA,42.3601,-71.0589,0.33
+146,Tires for Ford Focus 2023,tires,Jacksonville,FL,30.3322,-81.6557,0.32
+196,Air Filters for Audi Q5 2022,air filters,San Jose,CA,37.3382,-121.8863,0.32
+196,Air Filters for Audi Q5 2022,air filters,Houston,TX,29.7604,-95.3698,0.33
+196,Air Filters for Audi Q5 2022,air filters,San Diego,CA,32.7157,-117.1611,0.32
+147,Tires for Hyundai Santa Fe 2006,tires,San Diego,CA,32.7157,-117.1611,0.33
+147,Tires for Hyundai Santa Fe 2006,tires,San Antonio,TX,29.4241,-98.4936,0.33
+147,Tires for Hyundai Santa Fe 2006,tires,Miami,FL,25.7617,-80.1918,0.32
+280,Fuel Pumps for Hyundai Santa Fe 2006,fuel pumps,Dallas,TX,32.7767,-96.797,0.33
+280,Fuel Pumps for Hyundai Santa Fe 2006,fuel pumps,Philadelphia,PA,39.9526,-75.1652,0.32
+280,Fuel Pumps for Hyundai Santa Fe 2006,fuel pumps,New York,NY,40.7128,-74.006,0.32
+150,Tires for Toyota Highlander 2013,tires,Detroit,MI,42.3314,-83.0458,0.32
+150,Tires for Toyota Highlander 2013,tires,Los Angeles,CA,34.0522,-118.2437,0.32
+150,Tires for Toyota Highlander 2013,tires,Houston,TX,29.7604,-95.3698,0.32
+148,Tires for Audi Q5 2022,tires,Houston,TX,29.7604,-95.3698,0.32
+148,Tires for Audi Q5 2022,tires,Dallas,TX,32.7767,-96.797,0.33
+148,Tires for Audi Q5 2022,tires,Philadelphia,PA,39.9526,-75.1652,0.32
+260,Water Pumps for Toyota Highlander 2013,water pumps,Miami,FL,25.7617,-80.1918,0.33
+260,Water Pumps for Toyota Highlander 2013,water pumps,Chicago,IL,41.8781,-87.6298,0.32
+260,Water Pumps for Toyota Highlander 2013,water pumps,Philadelphia,PA,39.9526,-75.1652,0.33
+124,Tires for Mercedes GLE 2016,tires,New York,NY,40.7128,-74.006,0.32
+124,Tires for Mercedes GLE 2016,tires,Detroit,MI,42.3314,-83.0458,0.32
+124,Tires for Mercedes GLE 2016,tires,Chicago,IL,41.8781,-87.6298,0.32
+82,Alternators for Mercedes GLE 2016,alternators,Los Angeles,CA,34.0522,-118.2437,0.32
+82,Alternators for Mercedes GLE 2016,alternators,Boston,MA,42.3601,-71.0589,0.32
+82,Alternators for Mercedes GLE 2016,alternators,Philadelphia,PA,39.9526,-75.1652,0.32
+202,Air Filters for Mercedes GLE 2016,air filters,Dallas,TX,32.7767,-96.797,0.33
+202,Air Filters for Mercedes GLE 2016,air filters,Jacksonville,FL,30.3322,-81.6557,0.32
+202,Air Filters for Mercedes GLE 2016,air filters,New York,NY,40.7128,-74.006,0.33
+37,Batteries for Mercedes GLE 2016,batteries,San Diego,CA,32.7157,-117.1611,0.32
+37,Batteries for Mercedes GLE 2016,batteries,Houston,TX,29.7604,-95.3698,0.32
+37,Batteries for Mercedes GLE 2016,batteries,Los Angeles,CA,34.0522,-118.2437,0.32
+173,Oil Filters for Mercedes GLE 2016,oil filters,Atlanta,GA,33.749,-84.388,0.32
+173,Oil Filters for Mercedes GLE 2016,oil filters,Denver,CO,39.7392,-104.9903,0.32
+173,Oil Filters for Mercedes GLE 2016,oil filters,Portland,OR,45.5051,-122.675,0.32
+95,Spark Plugs for Mercedes GLE 2016,spark plugs,Austin,TX,30.2672,-97.7431,0.32
+95,Spark Plugs for Mercedes GLE 2016,spark plugs,Jacksonville,FL,30.3322,-81.6557,0.32
+95,Spark Plugs for Mercedes GLE 2016,spark plugs,San Diego,CA,32.7157,-117.1611,0.33
+262,Water Pumps for Mercedes GLE 2016,water pumps,San Jose,CA,37.3382,-121.8863,0.32
+262,Water Pumps for Mercedes GLE 2016,water pumps,Houston,TX,29.7604,-95.3698,0.32
+262,Water Pumps for Mercedes GLE 2016,water pumps,New York,NY,40.7128,-74.006,0.32
+237,Starters for Mercedes GLE 2016,starters,Houston,TX,29.7604,-95.3698,0.32
+237,Starters for Mercedes GLE 2016,starters,Atlanta,GA,33.749,-84.388,0.32
+237,Starters for Mercedes GLE 2016,starters,Portland,OR,45.5051,-122.675,0.33
+277,Fuel Pumps for Mercedes GLE 2016,fuel pumps,San Antonio,TX,29.4241,-98.4936,0.32
+277,Fuel Pumps for Mercedes GLE 2016,fuel pumps,Las Vegas,NV,36.1699,-115.1398,0.32
+277,Fuel Pumps for Mercedes GLE 2016,fuel pumps,Jacksonville,FL,30.3322,-81.6557,0.32
+23,Brakes for Mercedes GLE 2016,brakes,Chicago,IL,41.8781,-87.6298,0.33
+23,Brakes for Mercedes GLE 2016,brakes,Portland,OR,45.5051,-122.675,0.32
+23,Brakes for Mercedes GLE 2016,brakes,Jacksonville,FL,30.3322,-81.6557,0.32
+289,Fuel Pumps for Chevrolet Malibu 2023,fuel pumps,Los Angeles,CA,34.0522,-118.2437,0.32
+289,Fuel Pumps for Chevrolet Malibu 2023,fuel pumps,Las Vegas,NV,36.1699,-115.1398,0.32
+289,Fuel Pumps for Chevrolet Malibu 2023,fuel pumps,Chicago,IL,41.8781,-87.6298,0.32
+276,Fuel Pumps for Ford Focus 2010,fuel pumps,Phoenix,AZ,33.4484,-112.074,0.32
+276,Fuel Pumps for Ford Focus 2010,fuel pumps,New York,NY,40.7128,-74.006,0.32
+276,Fuel Pumps for Ford Focus 2010,fuel pumps,Austin,TX,30.2672,-97.7431,0.32
+125,Tires for Ford Focus 2010,tires,San Jose,CA,37.3382,-121.8863,0.32
+125,Tires for Ford Focus 2010,tires,Seattle,WA,47.6062,-122.3321,0.32
+125,Tires for Ford Focus 2010,tires,Detroit,MI,42.3314,-83.0458,0.32
+210,Air Filters for Hyundai Sonata 2007,air filters,Dallas,TX,32.7767,-96.797,0.32
+210,Air Filters for Hyundai Sonata 2007,air filters,San Diego,CA,32.7157,-117.1611,0.32
+210,Air Filters for Hyundai Sonata 2007,air filters,Detroit,MI,42.3314,-83.0458,0.32
+254,Water Pumps for Chevrolet Malibu 2023,water pumps,San Diego,CA,32.7157,-117.1611,0.32
+254,Water Pumps for Chevrolet Malibu 2023,water pumps,Atlanta,GA,33.749,-84.388,0.32
+254,Water Pumps for Chevrolet Malibu 2023,water pumps,San Antonio,TX,29.4241,-98.4936,0.32
+170,Oil Filters for Chevrolet Malibu 2023,oil filters,Los Angeles,CA,34.0522,-118.2437,0.32
+170,Oil Filters for Chevrolet Malibu 2023,oil filters,Houston,TX,29.7604,-95.3698,0.32
+170,Oil Filters for Chevrolet Malibu 2023,oil filters,Miami,FL,25.7617,-80.1918,0.32
+31,Batteries for Chevrolet Malibu 2023,batteries,Detroit,MI,42.3314,-83.0458,0.32
+31,Batteries for Chevrolet Malibu 2023,batteries,Las Vegas,NV,36.1699,-115.1398,0.32
+31,Batteries for Chevrolet Malibu 2023,batteries,Houston,TX,29.7604,-95.3698,0.32
+110,Spark Plugs for Ford Focus 2010,spark plugs,Seattle,WA,47.6062,-122.3321,0.32
+110,Spark Plugs for Ford Focus 2010,spark plugs,Austin,TX,30.2672,-97.7431,0.32
+110,Spark Plugs for Ford Focus 2010,spark plugs,Boston,MA,42.3601,-71.0589,0.32
+83,Alternators for Chevrolet Malibu 2023,alternators,Los Angeles,CA,34.0522,-118.2437,0.32
+83,Alternators for Chevrolet Malibu 2023,alternators,Seattle,WA,47.6062,-122.3321,0.32
+83,Alternators for Chevrolet Malibu 2023,alternators,Austin,TX,30.2672,-97.7431,0.32
+177,Oil Filters for Hyundai Sonata 2007,oil filters,San Diego,CA,32.7157,-117.1611,0.32
+177,Oil Filters for Hyundai Sonata 2007,oil filters,Jacksonville,FL,30.3322,-81.6557,0.32
+177,Oil Filters for Hyundai Sonata 2007,oil filters,Portland,OR,45.5051,-122.675,0.32
+121,Tires for Hyundai Sonata 2007,tires,Los Angeles,CA,34.0522,-118.2437,0.32
+121,Tires for Hyundai Sonata 2007,tires,Philadelphia,PA,39.9526,-75.1652,0.32
+121,Tires for Hyundai Sonata 2007,tires,Seattle,WA,47.6062,-122.3321,0.32
+287,Fuel Pumps for Hyundai Sonata 2007,fuel pumps,Los Angeles,CA,34.0522,-118.2437,0.32
+287,Fuel Pumps for Hyundai Sonata 2007,fuel pumps,Portland,OR,45.5051,-122.675,0.32
+287,Fuel Pumps for Hyundai Sonata 2007,fuel pumps,Houston,TX,29.7604,-95.3698,0.32
+26,Brakes for Ford Focus 2010,brakes,Houston,TX,29.7604,-95.3698,0.32
+26,Brakes for Ford Focus 2010,brakes,Dallas,TX,32.7767,-96.797,0.32
+26,Brakes for Ford Focus 2010,brakes,Denver,CO,39.7392,-104.9903,0.32
+253,Water Pumps for Ford Focus 2010,water pumps,Jacksonville,FL,30.3322,-81.6557,0.32
+253,Water Pumps for Ford Focus 2010,water pumps,Denver,CO,39.7392,-104.9903,0.32
+253,Water Pumps for Ford Focus 2010,water pumps,Dallas,TX,32.7767,-96.797,0.32
+230,Starters for Chevrolet Malibu 2023,starters,New York,NY,40.7128,-74.006,0.32
+230,Starters for Chevrolet Malibu 2023,starters,Seattle,WA,47.6062,-122.3321,0.32
+230,Starters for Chevrolet Malibu 2023,starters,Miami,FL,25.7617,-80.1918,0.32
+267,Water Pumps for Hyundai Sonata 2007,water pumps,San Antonio,TX,29.4241,-98.4936,0.32
+267,Water Pumps for Hyundai Sonata 2007,water pumps,Los Angeles,CA,34.0522,-118.2437,0.32
+267,Water Pumps for Hyundai Sonata 2007,water pumps,Austin,TX,30.2672,-97.7431,0.32
+61,Alternators for Ford Focus 2010,alternators,Atlanta,GA,33.749,-84.388,0.32
+61,Alternators for Ford Focus 2010,alternators,Miami,FL,25.7617,-80.1918,0.32
+61,Alternators for Ford Focus 2010,alternators,Houston,TX,29.7604,-95.3698,0.32
+84,Alternators for Hyundai Sonata 2007,alternators,Austin,TX,30.2672,-97.7431,0.32
+84,Alternators for Hyundai Sonata 2007,alternators,Miami,FL,25.7617,-80.1918,0.32
+84,Alternators for Hyundai Sonata 2007,alternators,Houston,TX,29.7604,-95.3698,0.32
+193,Air Filters for Ford Focus 2010,air filters,Las Vegas,NV,36.1699,-115.1398,0.32
+193,Air Filters for Ford Focus 2010,air filters,Boston,MA,42.3601,-71.0589,0.32
+193,Air Filters for Ford Focus 2010,air filters,Austin,TX,30.2672,-97.7431,0.32
+52,Batteries for Hyundai Sonata 2007,batteries,Jacksonville,FL,30.3322,-81.6557,0.33
+52,Batteries for Hyundai Sonata 2007,batteries,Austin,TX,30.2672,-97.7431,0.32
+52,Batteries for Hyundai Sonata 2007,batteries,San Jose,CA,37.3382,-121.8863,0.32
+25,Brakes for Hyundai Sonata 2007,brakes,Denver,CO,39.7392,-104.9903,0.32
+25,Brakes for Hyundai Sonata 2007,brakes,Detroit,MI,42.3314,-83.0458,0.32
+25,Brakes for Hyundai Sonata 2007,brakes,Los Angeles,CA,34.0522,-118.2437,0.32
+101,Spark Plugs for Chevrolet Malibu 2023,spark plugs,Atlanta,GA,33.749,-84.388,0.32
+101,Spark Plugs for Chevrolet Malibu 2023,spark plugs,Los Angeles,CA,34.0522,-118.2437,0.32
+101,Spark Plugs for Chevrolet Malibu 2023,spark plugs,Houston,TX,29.7604,-95.3698,0.33
+197,Air Filters for Chevrolet Malibu 2023,air filters,Portland,OR,45.5051,-122.675,0.32
+197,Air Filters for Chevrolet Malibu 2023,air filters,Boston,MA,42.3601,-71.0589,0.32
+197,Air Filters for Chevrolet Malibu 2023,air filters,San Jose,CA,37.3382,-121.8863,0.32
+55,Batteries for Ford Focus 2010,batteries,Boston,MA,42.3601,-71.0589,0.32
+55,Batteries for Ford Focus 2010,batteries,Atlanta,GA,33.749,-84.388,0.32
+55,Batteries for Ford Focus 2010,batteries,Denver,CO,39.7392,-104.9903,0.32
+30,Brakes for Chevrolet Malibu 2023,brakes,Houston,TX,29.7604,-95.3698,0.32
+30,Brakes for Chevrolet Malibu 2023,brakes,Las Vegas,NV,36.1699,-115.1398,0.32
+30,Brakes for Chevrolet Malibu 2023,brakes,Phoenix,AZ,33.4484,-112.074,0.32
+212,Starters for Ford Focus 2010,starters,San Diego,CA,32.7157,-117.1611,0.32
+212,Starters for Ford Focus 2010,starters,Los Angeles,CA,34.0522,-118.2437,0.32
+212,Starters for Ford Focus 2010,starters,San Antonio,TX,29.4241,-98.4936,0.32
+96,Spark Plugs for Hyundai Sonata 2007,spark plugs,Houston,TX,29.7604,-95.3698,0.32
+96,Spark Plugs for Hyundai Sonata 2007,spark plugs,Atlanta,GA,33.749,-84.388,0.32
+96,Spark Plugs for Hyundai Sonata 2007,spark plugs,San Jose,CA,37.3382,-121.8863,0.32
+179,Oil Filters for Ford Focus 2010,oil filters,Phoenix,AZ,33.4484,-112.074,0.32
+179,Oil Filters for Ford Focus 2010,oil filters,Portland,OR,45.5051,-122.675,0.32
+179,Oil Filters for Ford Focus 2010,oil filters,New York,NY,40.7128,-74.006,0.32
+136,Tires for Chevrolet Malibu 2023,tires,Dallas,TX,32.7767,-96.797,0.32
+136,Tires for Chevrolet Malibu 2023,tires,Houston,TX,29.7604,-95.3698,0.32
+136,Tires for Chevrolet Malibu 2023,tires,San Antonio,TX,29.4241,-98.4936,0.32
+240,Starters for Hyundai Sonata 2007,starters,Austin,TX,30.2672,-97.7431,0.33
+240,Starters for Hyundai Sonata 2007,starters,Miami,FL,25.7617,-80.1918,0.32
+240,Starters for Hyundai Sonata 2007,starters,Portland,OR,45.5051,-122.675,0.32
+216,Starters for Hyundai Santa Fe 2021,starters,Boston,MA,42.3601,-71.0589,0.32
+216,Starters for Hyundai Santa Fe 2021,starters,San Jose,CA,37.3382,-121.8863,0.32
+216,Starters for Hyundai Santa Fe 2021,starters,Phoenix,AZ,33.4484,-112.074,0.32
+67,Alternators for Hyundai Sonata 2005,alternators,San Jose,CA,37.3382,-121.8863,0.32
+67,Alternators for Hyundai Sonata 2005,alternators,Seattle,WA,47.6062,-122.3321,0.32
+67,Alternators for Hyundai Sonata 2005,alternators,Miami,FL,25.7617,-80.1918,0.32
+274,Fuel Pumps for Hyundai Santa Fe 2021,fuel pumps,Seattle,WA,47.6062,-122.3321,0.32
+274,Fuel Pumps for Hyundai Santa Fe 2021,fuel pumps,Denver,CO,39.7392,-104.9903,0.32
+274,Fuel Pumps for Hyundai Santa Fe 2021,fuel pumps,San Antonio,TX,29.4241,-98.4936,0.32
+166,Oil Filters for Hyundai Santa Fe 2021,oil filters,San Jose,CA,37.3382,-121.8863,0.32
+166,Oil Filters for Hyundai Santa Fe 2021,oil filters,Jacksonville,FL,30.3322,-81.6557,0.32
+166,Oil Filters for Hyundai Santa Fe 2021,oil filters,Los Angeles,CA,34.0522,-118.2437,0.32
+270,Water Pumps for Hyundai Santa Fe 2021,water pumps,Detroit,MI,42.3314,-83.0458,0.32
+270,Water Pumps for Hyundai Santa Fe 2021,water pumps,San Diego,CA,32.7157,-117.1611,0.32
+270,Water Pumps for Hyundai Santa Fe 2021,water pumps,Los Angeles,CA,34.0522,-118.2437,0.32
+272,Fuel Pumps for Hyundai Sonata 2005,fuel pumps,Boston,MA,42.3601,-71.0589,0.32
+272,Fuel Pumps for Hyundai Sonata 2005,fuel pumps,Austin,TX,30.2672,-97.7431,0.32
+272,Fuel Pumps for Hyundai Sonata 2005,fuel pumps,Chicago,IL,41.8781,-87.6298,0.32
+228,Starters for Hyundai Sonata 2005,starters,San Diego,CA,32.7157,-117.1611,0.32
+228,Starters for Hyundai Sonata 2005,starters,Detroit,MI,42.3314,-83.0458,0.32
+228,Starters for Hyundai Sonata 2005,starters,Boston,MA,42.3601,-71.0589,0.32
+73,Alternators for Hyundai Santa Fe 2021,alternators,Portland,OR,45.5051,-122.675,0.32
+73,Alternators for Hyundai Santa Fe 2021,alternators,Seattle,WA,47.6062,-122.3321,0.32
+73,Alternators for Hyundai Santa Fe 2021,alternators,Las Vegas,NV,36.1699,-115.1398,0.32
+120,Spark Plugs for Hyundai Santa Fe 2021,spark plugs,Philadelphia,PA,39.9526,-75.1652,0.32
+120,Spark Plugs for Hyundai Santa Fe 2021,spark plugs,Las Vegas,NV,36.1699,-115.1398,0.32
+120,Spark Plugs for Hyundai Santa Fe 2021,spark plugs,Miami,FL,25.7617,-80.1918,0.32
+200,Air Filters for Hyundai Sonata 2005,air filters,Austin,TX,30.2672,-97.7431,0.32
+200,Air Filters for Hyundai Sonata 2005,air filters,Jacksonville,FL,30.3322,-81.6557,0.32
+200,Air Filters for Hyundai Sonata 2005,air filters,New York,NY,40.7128,-74.006,0.32
+249,Water Pumps for Hyundai Sonata 2005,water pumps,Chicago,IL,41.8781,-87.6298,0.32
+249,Water Pumps for Hyundai Sonata 2005,water pumps,Austin,TX,30.2672,-97.7431,0.32
+249,Water Pumps for Hyundai Sonata 2005,water pumps,San Jose,CA,37.3382,-121.8863,0.32
+51,Batteries for Hyundai Santa Fe 2021,batteries,Atlanta,GA,33.749,-84.388,0.32
+51,Batteries for Hyundai Santa Fe 2021,batteries,Boston,MA,42.3601,-71.0589,0.32
+51,Batteries for Hyundai Santa Fe 2021,batteries,Seattle,WA,47.6062,-122.3321,0.32
+108,Spark Plugs for Hyundai Sonata 2005,spark plugs,Atlanta,GA,33.749,-84.388,0.32
+108,Spark Plugs for Hyundai Sonata 2005,spark plugs,Chicago,IL,41.8781,-87.6298,0.32
+108,Spark Plugs for Hyundai Sonata 2005,spark plugs,Denver,CO,39.7392,-104.9903,0.32
+11,Brakes for Hyundai Santa Fe 2021,brakes,Portland,OR,45.5051,-122.675,0.32
+11,Brakes for Hyundai Santa Fe 2021,brakes,Houston,TX,29.7604,-95.3698,0.32
+11,Brakes for Hyundai Santa Fe 2021,brakes,Seattle,WA,47.6062,-122.3321,0.32
+181,Air Filters for Hyundai Santa Fe 2021,air filters,Boston,MA,42.3601,-71.0589,0.32
+181,Air Filters for Hyundai Santa Fe 2021,air filters,Atlanta,GA,33.749,-84.388,0.32
+181,Air Filters for Hyundai Santa Fe 2021,air filters,Portland,OR,45.5051,-122.675,0.32
+4,Brakes for Hyundai Sonata 2005,brakes,Dallas,TX,32.7767,-96.797,0.32
+4,Brakes for Hyundai Sonata 2005,brakes,San Antonio,TX,29.4241,-98.4936,0.32
+4,Brakes for Hyundai Sonata 2005,brakes,Miami,FL,25.7617,-80.1918,0.32
+45,Batteries for Hyundai Sonata 2005,batteries,Chicago,IL,41.8781,-87.6298,0.32
+45,Batteries for Hyundai Sonata 2005,batteries,Seattle,WA,47.6062,-122.3321,0.32
+45,Batteries for Hyundai Sonata 2005,batteries,Atlanta,GA,33.749,-84.388,0.32
+130,Tires for Hyundai Santa Fe 2021,tires,San Diego,CA,32.7157,-117.1611,0.32
+130,Tires for Hyundai Santa Fe 2021,tires,Austin,TX,30.2672,-97.7431,0.32
+130,Tires for Hyundai Santa Fe 2021,tires,Boston,MA,42.3601,-71.0589,0.32
+157,Oil Filters for Hyundai Sonata 2005,oil filters,Detroit,MI,42.3314,-83.0458,0.32
+157,Oil Filters for Hyundai Sonata 2005,oil filters,Dallas,TX,32.7767,-96.797,0.32
+157,Oil Filters for Hyundai Sonata 2005,oil filters,Houston,TX,29.7604,-95.3698,0.32
+122,Tires for Hyundai Sonata 2005,tires,San Jose,CA,37.3382,-121.8863,0.32
+122,Tires for Hyundai Sonata 2005,tires,Jacksonville,FL,30.3322,-81.6557,0.32
+122,Tires for Hyundai Sonata 2005,tires,Portland,OR,45.5051,-122.675,0.32
+135,Tires for BMW 5 Series 2011,tires,Detroit,MI,42.3314,-83.0458,0.32
+135,Tires for BMW 5 Series 2011,tires,Las Vegas,NV,36.1699,-115.1398,0.32
+135,Tires for BMW 5 Series 2011,tires,New York,NY,40.7128,-74.006,0.31
+100,Spark Plugs for BMW 5 Series 2011,spark plugs,Dallas,TX,32.7767,-96.797,0.32
+100,Spark Plugs for BMW 5 Series 2011,spark plugs,Atlanta,GA,33.749,-84.388,0.32
+100,Spark Plugs for BMW 5 Series 2011,spark plugs,Chicago,IL,41.8781,-87.6298,0.32
+201,Air Filters for BMW 5 Series 2011,air filters,Los Angeles,CA,34.0522,-118.2437,0.32
+201,Air Filters for BMW 5 Series 2011,air filters,Denver,CO,39.7392,-104.9903,0.32
+201,Air Filters for BMW 5 Series 2011,air filters,Dallas,TX,32.7767,-96.797,0.32
+257,Water Pumps for BMW 5 Series 2011,water pumps,Boston,MA,42.3601,-71.0589,0.32
+257,Water Pumps for BMW 5 Series 2011,water pumps,Miami,FL,25.7617,-80.1918,0.32
+257,Water Pumps for BMW 5 Series 2011,water pumps,Austin,TX,30.2672,-97.7431,0.32
+29,Brakes for BMW 5 Series 2011,brakes,Las Vegas,NV,36.1699,-115.1398,0.32
+29,Brakes for BMW 5 Series 2011,brakes,Dallas,TX,32.7767,-96.797,0.32
+29,Brakes for BMW 5 Series 2011,brakes,Los Angeles,CA,34.0522,-118.2437,0.32
+215,Starters for BMW 5 Series 2011,starters,Boston,MA,42.3601,-71.0589,0.32
+215,Starters for BMW 5 Series 2011,starters,Portland,OR,45.5051,-122.675,0.32
+215,Starters for BMW 5 Series 2011,starters,Dallas,TX,32.7767,-96.797,0.32
+54,Batteries for BMW 5 Series 2011,batteries,Chicago,IL,41.8781,-87.6298,0.32
+54,Batteries for BMW 5 Series 2011,batteries,Miami,FL,25.7617,-80.1918,0.32
+54,Batteries for BMW 5 Series 2011,batteries,Las Vegas,NV,36.1699,-115.1398,0.32
+282,Fuel Pumps for BMW 5 Series 2011,fuel pumps,New York,NY,40.7128,-74.006,0.32
+282,Fuel Pumps for BMW 5 Series 2011,fuel pumps,Boston,MA,42.3601,-71.0589,0.32
+282,Fuel Pumps for BMW 5 Series 2011,fuel pumps,Miami,FL,25.7617,-80.1918,0.32
+175,Oil Filters for BMW 5 Series 2011,oil filters,Chicago,IL,41.8781,-87.6298,0.31
+175,Oil Filters for BMW 5 Series 2011,oil filters,Houston,TX,29.7604,-95.3698,0.32
+175,Oil Filters for BMW 5 Series 2011,oil filters,Los Angeles,CA,34.0522,-118.2437,0.32
+88,Alternators for BMW 5 Series 2011,alternators,San Diego,CA,32.7157,-117.1611,0.32
+88,Alternators for BMW 5 Series 2011,alternators,Miami,FL,25.7617,-80.1918,0.32
+88,Alternators for BMW 5 Series 2011,alternators,Philadelphia,PA,39.9526,-75.1652,0.32
+160,Oil Filters for Ford Explorer 2020,oil filters,Chicago,IL,41.8781,-87.6298,0.31
+160,Oil Filters for Ford Explorer 2020,oil filters,Austin,TX,30.2672,-97.7431,0.32
+160,Oil Filters for Ford Explorer 2020,oil filters,Atlanta,GA,33.749,-84.388,0.31
+89,Alternators for Ford Explorer 2020,alternators,Boston,MA,42.3601,-71.0589,0.32
+89,Alternators for Ford Explorer 2020,alternators,Jacksonville,FL,30.3322,-81.6557,0.32
+89,Alternators for Ford Explorer 2020,alternators,Dallas,TX,32.7767,-96.797,0.32
+97,Spark Plugs for Ford Explorer 2020,spark plugs,Dallas,TX,32.7767,-96.797,0.32
+97,Spark Plugs for Ford Explorer 2020,spark plugs,Philadelphia,PA,39.9526,-75.1652,0.32
+97,Spark Plugs for Ford Explorer 2020,spark plugs,Austin,TX,30.2672,-97.7431,0.32
+131,Tires for Ford Explorer 2020,tires,Seattle,WA,47.6062,-122.3321,0.32
+131,Tires for Ford Explorer 2020,tires,Dallas,TX,32.7767,-96.797,0.32
+131,Tires for Ford Explorer 2020,tires,Denver,CO,39.7392,-104.9903,0.32
+16,Brakes for Ford Explorer 2020,brakes,Chicago,IL,41.8781,-87.6298,0.32
+16,Brakes for Ford Explorer 2020,brakes,Houston,TX,29.7604,-95.3698,0.32
+16,Brakes for Ford Explorer 2020,brakes,Denver,CO,39.7392,-104.9903,0.32
+186,Air Filters for Ford Explorer 2020,air filters,Miami,FL,25.7617,-80.1918,0.32
+186,Air Filters for Ford Explorer 2020,air filters,Houston,TX,29.7604,-95.3698,0.32
+186,Air Filters for Ford Explorer 2020,air filters,San Jose,CA,37.3382,-121.8863,0.32
+222,Starters for Ford Explorer 2020,starters,Portland,OR,45.5051,-122.675,0.32
+222,Starters for Ford Explorer 2020,starters,Phoenix,AZ,33.4484,-112.074,0.31
+222,Starters for Ford Explorer 2020,starters,Boston,MA,42.3601,-71.0589,0.32
+244,Water Pumps for Ford Explorer 2020,water pumps,Seattle,WA,47.6062,-122.3321,0.32
+244,Water Pumps for Ford Explorer 2020,water pumps,Houston,TX,29.7604,-95.3698,0.31
+244,Water Pumps for Ford Explorer 2020,water pumps,Atlanta,GA,33.749,-84.388,0.32
+46,Batteries for Ford Explorer 2020,batteries,Austin,TX,30.2672,-97.7431,0.32
+46,Batteries for Ford Explorer 2020,batteries,Philadelphia,PA,39.9526,-75.1652,0.32
+46,Batteries for Ford Explorer 2020,batteries,Chicago,IL,41.8781,-87.6298,0.32
+281,Fuel Pumps for Ford Explorer 2020,fuel pumps,Las Vegas,NV,36.1699,-115.1398,0.32
+281,Fuel Pumps for Ford Explorer 2020,fuel pumps,Portland,OR,45.5051,-122.675,0.32
+281,Fuel Pumps for Ford Explorer 2020,fuel pumps,Miami,FL,25.7617,-80.1918,0.32
+132,Tires for Audi Q5 2020,tires,San Diego,CA,32.7157,-117.1611,0.31
+132,Tires for Audi Q5 2020,tires,Jacksonville,FL,30.3322,-81.6557,0.32
+132,Tires for Audi Q5 2020,tires,Las Vegas,NV,36.1699,-115.1398,0.32
+213,Starters for Audi Q5 2020,starters,Houston,TX,29.7604,-95.3698,0.32
+213,Starters for Audi Q5 2020,starters,San Diego,CA,32.7157,-117.1611,0.32
+213,Starters for Audi Q5 2020,starters,Miami,FL,25.7617,-80.1918,0.32
+117,Spark Plugs for Audi Q5 2020,spark plugs,Detroit,MI,42.3314,-83.0458,0.32
+117,Spark Plugs for Audi Q5 2020,spark plugs,Dallas,TX,32.7767,-96.797,0.32
+117,Spark Plugs for Audi Q5 2020,spark plugs,Phoenix,AZ,33.4484,-112.074,0.32
+70,Alternators for Audi Q5 2020,alternators,Denver,CO,39.7392,-104.9903,0.32
+70,Alternators for Audi Q5 2020,alternators,Detroit,MI,42.3314,-83.0458,0.31
+70,Alternators for Audi Q5 2020,alternators,San Diego,CA,32.7157,-117.1611,0.31
+8,Brakes for Audi Q5 2020,brakes,Jacksonville,FL,30.3322,-81.6557,0.32
+8,Brakes for Audi Q5 2020,brakes,Atlanta,GA,33.749,-84.388,0.32
+8,Brakes for Audi Q5 2020,brakes,Detroit,MI,42.3314,-83.0458,0.31
+296,Fuel Pumps for Audi Q5 2020,fuel pumps,Los Angeles,CA,34.0522,-118.2437,0.32
+296,Fuel Pumps for Audi Q5 2020,fuel pumps,Las Vegas,NV,36.1699,-115.1398,0.31
+296,Fuel Pumps for Audi Q5 2020,fuel pumps,Austin,TX,30.2672,-97.7431,0.32
+199,Air Filters for Audi Q5 2020,air filters,San Jose,CA,37.3382,-121.8863,0.32
+199,Air Filters for Audi Q5 2020,air filters,Detroit,MI,42.3314,-83.0458,0.32
+199,Air Filters for Audi Q5 2020,air filters,Miami,FL,25.7617,-80.1918,0.31
+248,Water Pumps for Audi Q5 2020,water pumps,Detroit,MI,42.3314,-83.0458,0.32
+248,Water Pumps for Audi Q5 2020,water pumps,Dallas,TX,32.7767,-96.797,0.32
+248,Water Pumps for Audi Q5 2020,water pumps,San Antonio,TX,29.4241,-98.4936,0.32
+48,Batteries for Audi Q5 2020,batteries,Portland,OR,45.5051,-122.675,0.32
+48,Batteries for Audi Q5 2020,batteries,San Diego,CA,32.7157,-117.1611,0.31
+48,Batteries for Audi Q5 2020,batteries,Detroit,MI,42.3314,-83.0458,0.31
+159,Oil Filters for Audi Q5 2020,oil filters,San Diego,CA,32.7157,-117.1611,0.31
+159,Oil Filters for Audi Q5 2020,oil filters,Detroit,MI,42.3314,-83.0458,0.31
+159,Oil Filters for Audi Q5 2020,oil filters,Portland,OR,45.5051,-122.675,0.32
+156,Oil Filters for Ford Explorer 2022,oil filters,Chicago,IL,41.8781,-87.6298,0.31
+156,Oil Filters for Ford Explorer 2022,oil filters,Houston,TX,29.7604,-95.3698,0.32
+156,Oil Filters for Ford Explorer 2022,oil filters,Dallas,TX,32.7767,-96.797,0.31
+78,Alternators for Ford Explorer 2022,alternators,San Jose,CA,37.3382,-121.8863,0.31
+78,Alternators for Ford Explorer 2022,alternators,San Antonio,TX,29.4241,-98.4936,0.31
+78,Alternators for Ford Explorer 2022,alternators,Houston,TX,29.7604,-95.3698,0.31
+284,Fuel Pumps for Ford Explorer 2022,fuel pumps,Las Vegas,NV,36.1699,-115.1398,0.32
+284,Fuel Pumps for Ford Explorer 2022,fuel pumps,San Antonio,TX,29.4241,-98.4936,0.32
+284,Fuel Pumps for Ford Explorer 2022,fuel pumps,San Jose,CA,37.3382,-121.8863,0.31
+128,Tires for Ford Explorer 2022,tires,Atlanta,GA,33.749,-84.388,0.31
+128,Tires for Ford Explorer 2022,tires,Los Angeles,CA,34.0522,-118.2437,0.31
+128,Tires for Ford Explorer 2022,tires,Philadelphia,PA,39.9526,-75.1652,0.31
+98,Spark Plugs for Ford Explorer 2022,spark plugs,Miami,FL,25.7617,-80.1918,0.32
+98,Spark Plugs for Ford Explorer 2022,spark plugs,Portland,OR,45.5051,-122.675,0.31
+98,Spark Plugs for Ford Explorer 2022,spark plugs,Philadelphia,PA,39.9526,-75.1652,0.31
+185,Air Filters for Ford Explorer 2022,air filters,Atlanta,GA,33.749,-84.388,0.31
+185,Air Filters for Ford Explorer 2022,air filters,Los Angeles,CA,34.0522,-118.2437,0.31
+185,Air Filters for Ford Explorer 2022,air filters,San Antonio,TX,29.4241,-98.4936,0.31
+214,Starters for Ford Explorer 2022,starters,Seattle,WA,47.6062,-122.3321,0.32
+214,Starters for Ford Explorer 2022,starters,San Jose,CA,37.3382,-121.8863,0.31
+214,Starters for Ford Explorer 2022,starters,Austin,TX,30.2672,-97.7431,0.31
+265,Water Pumps for Ford Explorer 2022,water pumps,Houston,TX,29.7604,-95.3698,0.31
+265,Water Pumps for Ford Explorer 2022,water pumps,Portland,OR,45.5051,-122.675,0.32
+265,Water Pumps for Ford Explorer 2022,water pumps,Boston,MA,42.3601,-71.0589,0.32
+34,Batteries for Ford Explorer 2022,batteries,Houston,TX,29.7604,-95.3698,0.31
+34,Batteries for Ford Explorer 2022,batteries,Phoenix,AZ,33.4484,-112.074,0.31
+34,Batteries for Ford Explorer 2022,batteries,Atlanta,GA,33.749,-84.388,0.32
+13,Brakes for Ford Explorer 2022,brakes,Houston,TX,29.7604,-95.3698,0.31
+13,Brakes for Ford Explorer 2022,brakes,Seattle,WA,47.6062,-122.3321,0.32
+13,Brakes for Ford Explorer 2022,brakes,Dallas,TX,32.7767,-96.797,0.31
+68,Alternators for Chevrolet Suburban 2021,alternators,Phoenix,AZ,33.4484,-112.074,0.31
+68,Alternators for Chevrolet Suburban 2021,alternators,Seattle,WA,47.6062,-122.3321,0.31
+68,Alternators for Chevrolet Suburban 2021,alternators,Los Angeles,CA,34.0522,-118.2437,0.31
+162,Oil Filters for Chevrolet Suburban 2021,oil filters,Portland,OR,45.5051,-122.675,0.31
+162,Oil Filters for Chevrolet Suburban 2021,oil filters,San Jose,CA,37.3382,-121.8863,0.31
+162,Oil Filters for Chevrolet Suburban 2021,oil filters,Las Vegas,NV,36.1699,-115.1398,0.31
+123,Tires for Chevrolet Suburban 2021,tires,Seattle,WA,47.6062,-122.3321,0.31
+123,Tires for Chevrolet Suburban 2021,tires,Boston,MA,42.3601,-71.0589,0.31
+123,Tires for Chevrolet Suburban 2021,tires,San Jose,CA,37.3382,-121.8863,0.31
+47,Batteries for Chevrolet Suburban 2021,batteries,San Antonio,TX,29.4241,-98.4936,0.31
+47,Batteries for Chevrolet Suburban 2021,batteries,Dallas,TX,32.7767,-96.797,0.31
+47,Batteries for Chevrolet Suburban 2021,batteries,Portland,OR,45.5051,-122.675,0.31
+192,Air Filters for Chevrolet Suburban 2021,air filters,Portland,OR,45.5051,-122.675,0.31
+192,Air Filters for Chevrolet Suburban 2021,air filters,Atlanta,GA,33.749,-84.388,0.31
+192,Air Filters for Chevrolet Suburban 2021,air filters,San Antonio,TX,29.4241,-98.4936,0.31
+104,Spark Plugs for Chevrolet Suburban 2021,spark plugs,Dallas,TX,32.7767,-96.797,0.31
+104,Spark Plugs for Chevrolet Suburban 2021,spark plugs,Seattle,WA,47.6062,-122.3321,0.31
+104,Spark Plugs for Chevrolet Suburban 2021,spark plugs,Chicago,IL,41.8781,-87.6298,0.31
+234,Starters for Chevrolet Suburban 2021,starters,San Antonio,TX,29.4241,-98.4936,0.31
+234,Starters for Chevrolet Suburban 2021,starters,Portland,OR,45.5051,-122.675,0.31
+234,Starters for Chevrolet Suburban 2021,starters,Detroit,MI,42.3314,-83.0458,0.31
+245,Water Pumps for Chevrolet Suburban 2021,water pumps,Las Vegas,NV,36.1699,-115.1398,0.31
+245,Water Pumps for Chevrolet Suburban 2021,water pumps,Detroit,MI,42.3314,-83.0458,0.31
+245,Water Pumps for Chevrolet Suburban 2021,water pumps,Chicago,IL,41.8781,-87.6298,0.31
+291,Fuel Pumps for Chevrolet Suburban 2021,fuel pumps,Los Angeles,CA,34.0522,-118.2437,0.31
+291,Fuel Pumps for Chevrolet Suburban 2021,fuel pumps,Atlanta,GA,33.749,-84.388,0.31
+291,Fuel Pumps for Chevrolet Suburban 2021,fuel pumps,Philadelphia,PA,39.9526,-75.1652,0.31
+18,Brakes for Chevrolet Suburban 2021,brakes,Detroit,MI,42.3314,-83.0458,0.31
+18,Brakes for Chevrolet Suburban 2021,brakes,Austin,TX,30.2672,-97.7431,0.31
+18,Brakes for Chevrolet Suburban 2021,brakes,San Antonio,TX,29.4241,-98.4936,0.31
+294,Fuel Pumps for Honda Odyssey 2015,fuel pumps,Las Vegas,NV,36.1699,-115.1398,0.31
+294,Fuel Pumps for Honda Odyssey 2015,fuel pumps,San Antonio,TX,29.4241,-98.4936,0.31
+294,Fuel Pumps for Honda Odyssey 2015,fuel pumps,Boston,MA,42.3601,-71.0589,0.3
+295,Fuel Pumps for Toyota RAV4 2020,fuel pumps,San Antonio,TX,29.4241,-98.4936,0.31
+295,Fuel Pumps for Toyota RAV4 2020,fuel pumps,Denver,CO,39.7392,-104.9903,0.31
+295,Fuel Pumps for Toyota RAV4 2020,fuel pumps,Phoenix,AZ,33.4484,-112.074,0.3
+206,Air Filters for Toyota RAV4 2020,air filters,Houston,TX,29.7604,-95.3698,0.31
+206,Air Filters for Toyota RAV4 2020,air filters,Denver,CO,39.7392,-104.9903,0.31
+206,Air Filters for Toyota RAV4 2020,air filters,Jacksonville,FL,30.3322,-81.6557,0.31
+258,Water Pumps for Toyota RAV4 2020,water pumps,Chicago,IL,41.8781,-87.6298,0.31
+258,Water Pumps for Toyota RAV4 2020,water pumps,Houston,TX,29.7604,-95.3698,0.3
+258,Water Pumps for Toyota RAV4 2020,water pumps,Phoenix,AZ,33.4484,-112.074,0.3
+111,Spark Plugs for Honda Odyssey 2015,spark plugs,Boston,MA,42.3601,-71.0589,0.31
+111,Spark Plugs for Honda Odyssey 2015,spark plugs,Chicago,IL,41.8781,-87.6298,0.3
+111,Spark Plugs for Honda Odyssey 2015,spark plugs,Philadelphia,PA,39.9526,-75.1652,0.3
+205,Air Filters for Honda Odyssey 2015,air filters,Boston,MA,42.3601,-71.0589,0.3
+205,Air Filters for Honda Odyssey 2015,air filters,Chicago,IL,41.8781,-87.6298,0.3
+205,Air Filters for Honda Odyssey 2015,air filters,Philadelphia,PA,39.9526,-75.1652,0.31
+137,Tires for Honda Odyssey 2015,tires,Miami,FL,25.7617,-80.1918,0.31
+137,Tires for Honda Odyssey 2015,tires,Austin,TX,30.2672,-97.7431,0.3
+137,Tires for Honda Odyssey 2015,tires,Dallas,TX,32.7767,-96.797,0.31
+145,Tires for Toyota RAV4 2020,tires,San Jose,CA,37.3382,-121.8863,0.31
+145,Tires for Toyota RAV4 2020,tires,San Antonio,TX,29.4241,-98.4936,0.31
+145,Tires for Toyota RAV4 2020,tires,San Diego,CA,32.7157,-117.1611,0.31
+9,Brakes for Toyota RAV4 2020,brakes,Phoenix,AZ,33.4484,-112.074,0.31
+9,Brakes for Toyota RAV4 2020,brakes,San Jose,CA,37.3382,-121.8863,0.3
+9,Brakes for Toyota RAV4 2020,brakes,San Antonio,TX,29.4241,-98.4936,0.31
+12,Brakes for Honda Odyssey 2015,brakes,Jacksonville,FL,30.3322,-81.6557,0.31
+12,Brakes for Honda Odyssey 2015,brakes,San Jose,CA,37.3382,-121.8863,0.3
+12,Brakes for Honda Odyssey 2015,brakes,Portland,OR,45.5051,-122.675,0.31
+103,Spark Plugs for Toyota RAV4 2020,spark plugs,Miami,FL,25.7617,-80.1918,0.31
+103,Spark Plugs for Toyota RAV4 2020,spark plugs,Portland,OR,45.5051,-122.675,0.3
+103,Spark Plugs for Toyota RAV4 2020,spark plugs,Philadelphia,PA,39.9526,-75.1652,0.31
+35,Batteries for Honda Odyssey 2015,batteries,San Antonio,TX,29.4241,-98.4936,0.31
+35,Batteries for Honda Odyssey 2015,batteries,San Diego,CA,32.7157,-117.1611,0.31
+35,Batteries for Honda Odyssey 2015,batteries,Chicago,IL,41.8781,-87.6298,0.31
+225,Starters for Honda Odyssey 2015,starters,Portland,OR,45.5051,-122.675,0.3
+225,Starters for Honda Odyssey 2015,starters,Atlanta,GA,33.749,-84.388,0.31
+225,Starters for Honda Odyssey 2015,starters,Miami,FL,25.7617,-80.1918,0.31
+32,Batteries for Toyota RAV4 2020,batteries,Jacksonville,FL,30.3322,-81.6557,0.31
+32,Batteries for Toyota RAV4 2020,batteries,Detroit,MI,42.3314,-83.0458,0.31
+32,Batteries for Toyota RAV4 2020,batteries,Austin,TX,30.2672,-97.7431,0.31
+151,Oil Filters for Toyota RAV4 2020,oil filters,Las Vegas,NV,36.1699,-115.1398,0.3
+151,Oil Filters for Toyota RAV4 2020,oil filters,Los Angeles,CA,34.0522,-118.2437,0.31
+151,Oil Filters for Toyota RAV4 2020,oil filters,Jacksonville,FL,30.3322,-81.6557,0.31
+168,Oil Filters for Honda Odyssey 2015,oil filters,San Jose,CA,37.3382,-121.8863,0.31
+168,Oil Filters for Honda Odyssey 2015,oil filters,Austin,TX,30.2672,-97.7431,0.31
+168,Oil Filters for Honda Odyssey 2015,oil filters,Phoenix,AZ,33.4484,-112.074,0.31
+74,Alternators for Honda Odyssey 2015,alternators,Philadelphia,PA,39.9526,-75.1652,0.3
+74,Alternators for Honda Odyssey 2015,alternators,Los Angeles,CA,34.0522,-118.2437,0.31
+74,Alternators for Honda Odyssey 2015,alternators,Seattle,WA,47.6062,-122.3321,0.31
+71,Alternators for Toyota RAV4 2020,alternators,Detroit,MI,42.3314,-83.0458,0.31
+71,Alternators for Toyota RAV4 2020,alternators,Houston,TX,29.7604,-95.3698,0.3
+71,Alternators for Toyota RAV4 2020,alternators,Jacksonville,FL,30.3322,-81.6557,0.31
+219,Starters for Toyota RAV4 2020,starters,New York,NY,40.7128,-74.006,0.31
+219,Starters for Toyota RAV4 2020,starters,San Antonio,TX,29.4241,-98.4936,0.3
+219,Starters for Toyota RAV4 2020,starters,Chicago,IL,41.8781,-87.6298,0.31
+241,Water Pumps for Honda Odyssey 2015,water pumps,Philadelphia,PA,39.9526,-75.1652,0.31
+241,Water Pumps for Honda Odyssey 2015,water pumps,Phoenix,AZ,33.4484,-112.074,0.31
+241,Water Pumps for Honda Odyssey 2015,water pumps,Chicago,IL,41.8781,-87.6298,0.31

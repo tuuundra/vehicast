@@ -1,0 +1,783 @@
+/* Import Inter font from Google Fonts - Supabase uses Inter */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+/* Global styles */
+:root {
+  --font-primary: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  --font-mono: "SF Mono", "Menlo", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: "ss01", "ss02", "ss03", "cv01", "cv02", "cv03", "cv04";
+  letter-spacing: -0.015em;
+  background-color: #121212;
+  color: white;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+/* Dark mode scrollbar */
+@media (prefers-color-scheme: dark) {
+  ::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.05);
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.2);
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.3);
+  }
+}
+
+/* Animation utilities */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInRight {
+  from {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+.fade-in-delay-1 {
+  animation: fadeIn 0.5s ease-out 0.1s forwards;
+  opacity: 0;
+}
+
+.fade-in-delay-2 {
+  animation: fadeIn 0.5s ease-out 0.2s forwards;
+  opacity: 0;
+}
+
+.fade-in-delay-3 {
+  animation: fadeIn 0.5s ease-out 0.3s forwards;
+  opacity: 0;
+}
+
+.fade-in-right {
+  animation: fadeInRight 0.5s ease-out forwards;
+}
+
+.float-animation {
+  animation: float 6s ease-in-out infinite;
+}
+
+/* Typography adjustments to match Supabase */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-primary);
+  letter-spacing: -0.03em;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+p, li, a {
+  font-family: var(--font-primary);
+  letter-spacing: -0.01em;
+}
+
+/* Button hover effects */
+button {
+  position: relative;
+  overflow: hidden;
+  border-radius: 0;
+}
+
+button::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  display: block;
+  height: 100%;
+  width: 100%;
+  transform-origin: right;
+  transform: scaleX(0);
+  transition: transform 0.3s ease;
+  background: linear-gradient(90deg, #8b46ff, #8b46ff);
+}
+
+button:hover::after {
+  transform-origin: left;
+  transform: scaleX(1);
+}
+
+/* Enhance Chakra buttons as well */
+.chakra-button {
+  position: relative;
+  overflow: hidden !important;
+  border-radius: 0 !important;
+}
+
+.chakra-button::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  display: block;
+  height: 100%;
+  width: 100%;
+  transform-origin: right;
+  transform: scaleX(0);
+  transition: transform 0.3s ease;
+  background: linear-gradient(90deg, #8b46ff, #8b46ff);
+  opacity: 1;
+  pointer-events: none;
+}
+
+.chakra-button:hover::after {
+  transform-origin: left;
+  transform: scaleX(1);
+}
+
+.chakra-button > * {
+  position: relative;
+  z-index: 5;
+  transition: transform 0.3s ease;
+}
+
+.chakra-button:hover > * {
+  transform: translateX(2px);
+}
+
+.chakra-button svg {
+  transition: transform 0.3s ease;
+}
+
+.chakra-button:hover svg {
+  transform: translateX(-2px);
+}
+
+/* For outline buttons */
+.chakra-button[data-variant="outline"]::after {
+  background: #1a202c;
+}
+
+/* Remove any upward movement on hover */
+.chakra-button:hover {
+  transform: none !important;
+}
+
+/* Grid background */
+.grid-background {
+  background-image: linear-gradient(#222222 1px, transparent 1px), linear-gradient(90deg, #222222 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+
+/* Scroll animations */
+.scroll-fade-up {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+}
+
+.scroll-fade-up.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Supabase-like dark theme adjustments */
+.dark-card {
+  background-color: #1c1c1c;
+  border: 1px solid #2a2a2a;
+  border-radius: 8px;
+  transition: all 0.2s;
+}
+
+.dark-card:hover {
+  border-color: #3ecf8e;
+  transform: translateY(-2px);
+}
+
+/* Utility class for text gradients */
+.text-gradient {
+  background: linear-gradient(90deg, #3ecf8e, #3e83cf);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent; 
+}
+
+/* Class to animate elements in on scroll */
+.animate-fade-in .feature-item {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Additional styling to ensure text visibility */
+.chakra-button span, 
+.chakra-button p,
+.chakra-button div {
+  position: relative;
+  z-index: 10 !important;
+}
+
+/* Custom fix for specific buttons if needed */
+[data-testid="button-text"],
+.chakra-button__text,
+.chakra-button-text {
+  position: relative;
+  z-index: 10 !important;
+}
+
+/* Blinking cursor animation for streaming text */
+@keyframes pulse {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.4;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/* Custom scrollbar for chat area */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #2d3748;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #4a5568;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #718096;
+}
+
+/* Add styling for markdown content in chat */
+.markdown-content {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.4;
+  color: white;
+}
+
+/* Typography styling */
+.markdown-content strong,
+.markdown-content b {
+  font-weight: 700;
+}
+
+.markdown-content em,
+.markdown-content i {
+  font-style: italic;
+}
+
+/* Concise list formatting with minimal spacing */
+.markdown-content ul,
+.markdown-content ol {
+  padding-left: 1.5rem;
+  margin: 0.35rem 0;
+}
+
+/* More aggressive fix for spacing between adjacent lists */
+.markdown-content ol + ul,
+.markdown-content ul + ol {
+  margin-top: -0.35rem !important; /* More negative margin to pull lists much closer */
+}
+
+/* Force tighter spacing throughout the entire content */
+.markdown-content ol,
+.markdown-content ul {
+  margin-top: 0.1rem;
+  margin-bottom: 0.1rem;
+}
+
+/* Target the specific pattern we're seeing in the screenshots */
+.markdown-content ol li,
+.markdown-content > ol > li {
+  margin-bottom: 0.1rem;
+}
+
+/* Create visual connection between numbered items and their bullets */
+.markdown-content ol li + ul,
+.markdown-content ol + ul {
+  margin-top: -0.25rem !important;
+  padding-top: 0;
+}
+
+/* Add padding inside list items to compensate for reduced margins */
+.markdown-content li {
+  margin-bottom: 0.1rem;
+  padding-left: 0.1rem;
+  padding-top: 0.05rem;
+  padding-bottom: 0.05rem;
+}
+
+/* Tighter paragraph spacing */
+.markdown-content p {
+  margin: 0.35rem 0;
+}
+
+/* Compact headings */
+.markdown-content h1,
+.markdown-content h2,
+.markdown-content h3,
+.markdown-content h4 {
+  font-weight: 700;
+  margin: 0.75rem 0 0.35rem 0;
+  line-height: 1.3;
+}
+
+/* Improved spacing after section headers */
+.markdown-content h1 + ol,
+.markdown-content h2 + ol,
+.markdown-content h3 + ol,
+.markdown-content h4 + ol,
+.markdown-content p + ol {
+  margin-top: 0.1rem;
+}
+
+.markdown-content h1 {
+  font-size: 1.5rem;
+}
+
+.markdown-content h2 {
+  font-size: 1.35rem;
+}
+
+.markdown-content h3 {
+  font-size: 1.2rem;
+}
+
+.markdown-content h4 {
+  font-size: 1.1rem;
+}
+
+/* Bullet points */
+.markdown-content ul {
+  list-style-type: disc;
+}
+
+.markdown-content ul li::marker {
+  color: white;
+}
+
+/* Tight spacing for nested lists */
+.markdown-content li > ul,
+.markdown-content li > ol {
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
+}
+
+/* Last list item doesn't need bottom margin */
+.markdown-content li:last-child {
+  margin-bottom: 0;
+}
+
+/* Avoid spacing issues with lists that have bold labels */
+.markdown-content li strong:first-child {
+  margin-right: 0.2rem;
+}
+
+/* Minimal code formatting */
+.markdown-content code {
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 0.2rem 0.3rem;
+  border-radius: 0.25rem;
+  font-size: 0.9em;
+}
+
+.markdown-content pre {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 0.75rem;
+  border-radius: 0.4rem;
+  overflow-x: auto;
+  margin: 0.5rem 0;
+}
+
+.markdown-content pre code {
+  background-color: transparent;
+  padding: 0;
+}
+
+/* Links */
+.markdown-content a {
+  color: #63b3ed;
+  text-decoration: underline;
+}
+
+/* Quotes */
+.markdown-content blockquote {
+  border-left: 3px solid #63b3ed;
+  padding-left: 0.75rem;
+  color: rgba(255, 255, 255, 0.8);
+  margin: 0.5rem 0;
+}
+
+/* Animation for the typing indicator */
+@keyframes pulse {
+  0% { opacity: 0.5; }
+  50% { opacity: 1; }
+  100% { opacity: 0.5; }
+}
+
+/* Add styles to target the specific spacing issues with major sections */
+.markdown-content > p + h2,
+.markdown-content > p + h3,
+.markdown-content > ul + h2,
+.markdown-content > ol + h2 {
+  margin-top: 0.5rem;
+}
+
+/* Specifically target spacing between section headers like "Brake Pads" and their content */
+.markdown-content p strong + ol,
+.markdown-content p strong + ul,
+.markdown-content p b + ol,
+.markdown-content p b + ul,
+.markdown-content strong + ol,
+.markdown-content strong + ul,
+.markdown-content b + ol,
+.markdown-content b + ul {
+  margin-top: 0;
+}
+
+/* Aggressively reduce spacing in numbered lists to make format more compact */
+.markdown-content ol {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+}
+
+/* Add direct styling for the space between numbered items and bullet points */
+.markdown-content li ol,
+.markdown-content li ul {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+/* Force removal of all excess whitespace in lists */
+.markdown-content li > *:first-child {
+  margin-top: 0;
+}
+
+.markdown-content li > *:last-child {
+  margin-bottom: 0;
+}
+
+/* Custom list components with aggressive spacing controls */
+.custom-numbered-list {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-top: 0.1rem;
+  padding-bottom: 0 !important;
+}
+
+.custom-bullet-list {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-top: 0;
+  padding-bottom: 0.1rem;
+}
+
+/* Special case: when a bullet list follows a numbered list - much more aggressive */
+.custom-numbered-list + .custom-bullet-list {
+  margin-top: -1rem !important;
+}
+
+/* Target list items in numbered lists - merged rules for sizing and spacing */
+.custom-numbered-list > .custom-list-item {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+  font-size: 1.1rem !important; /* Increase font size */
+  font-weight: 600 !important; /* Make it slightly bolder */
+  display: block;
+}
+
+/* Remove duplicate rule */
+/* Extra specific selector to target the exact pattern we're seeing */
+.custom-numbered-list > .custom-list-item:last-child {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Ensure proper indentation and spacing for nested lists */
+.custom-list-item .custom-bullet-list,
+.custom-list-item .custom-numbered-list {
+  margin-top: 0.1rem !important;
+  margin-bottom: 0 !important;
+}
+
+/* Direct targeting of the spacing between numbered items and their bullet points */
+.markdown-content ol li + ul,
+.markdown-content ol + ul {
+  margin-top: -1rem !important;
+  padding-top: 0 !important;
+}
+
+/* Ensure list items have minimal spacing */
+.custom-list-item {
+  margin-top: 0.1rem;
+  margin-bottom: 0.1rem;
+  padding-top: 0.05rem;
+  padding-bottom: 0.05rem;
+}
+
+/* Most aggressive targeting of numbered items with bullet points */
+li.custom-list-item p + ul.custom-bullet-list,
+.custom-list-item > p:first-child + .custom-bullet-list {
+  margin-top: -0.8rem !important;
+  padding-top: 0 !important;
+}
+
+/* Ensure bullets in a list maintain proper spacing relative to each other */
+.custom-bullet-list > .custom-list-item {
+  margin-top: 0.1rem !important;
+  margin-bottom: 0.1rem !important;
+}
+
+/* Direct targeting of the exact pattern from the screenshots */
+.markdown-content li strong,
+.markdown-content li b {
+  display: inline-block;
+  margin-bottom: 0 !important;
+}
+
+/* Fix for colons in labels to ensure they stay with their text */
+.markdown-content li p strong:after,
+.markdown-content li p b:after,
+.markdown-content li strong:after,
+.markdown-content li b:after {
+  content: " "; /* Add space after the colon */
+  white-space: nowrap;
+  display: inline;
+}
+
+/* Super specific targeting for the numbered items with colons */
+.markdown-content ol li p:first-of-type {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Make numbered text bigger and more prominent */
+.custom-numbered-list > .custom-list-item {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+  font-size: 1.1rem !important; /* Increase font size */
+  font-weight: 600 !important; /* Make it slightly bolder */
+}
+
+/* Make the numbered markers themselves larger - remove counter-reset which could be interfering */
+.custom-numbered-list {
+  /* counter-reset: item; */ /* Removing this */
+  list-style-type: decimal !important;
+}
+
+.custom-numbered-list > .custom-list-item {
+  display: list-item !important;
+  position: relative !important;
+  list-style: decimal !important;
+}
+
+/* Override any conflicting styles */
+.markdown-content ol {
+  list-style: decimal !important;
+  padding-left: 2rem !important; /* Ensure enough space for numbers */
+}
+
+.custom-numbered-list {
+  list-style: decimal !important;
+  padding-left: 2rem !important; /* Ensure enough space for numbers */
+}
+
+/* Specifically ensure numbers are visible - more aggressive fix */
+.markdown-content ol::before,
+.custom-numbered-list::before {
+  content: none !important; /* Prevent any before content that might override numbers */
+}
+
+/* Target just the first line of the numbered item (the one with Economy Option:, etc.) */
+.custom-numbered-list > .custom-list-item > p:first-child {
+  font-size: 1.1rem !important;
+  font-weight: 600 !important;
+}
+
+/* Specifically target the regular ordered list numbers if custom component isn't used */
+.markdown-content ol > li {
+  font-size: 1.1rem !important;
+  font-weight: 600 !important;
+}
+
+.markdown-content ol > li > p:first-child {
+  font-size: 1.1rem !important;
+  font-weight: 600 !important;
+}
+
+/* Keep bullet points at normal size */
+.custom-bullet-list > .custom-list-item,
+.markdown-content ul > li {
+  font-size: 1rem !important;
+  font-weight: normal !important;
+}
+
+/* Keep text within bullet points at normal size */
+.custom-bullet-list > .custom-list-item p,
+.markdown-content ul > li p {
+  font-size: 1rem !important;
+  font-weight: normal !important;
+}
+
+/* Make main section headers even more prominent */
+.markdown-content h2 {
+  font-size: 1.5rem !important;
+  font-weight: 700 !important;
+  margin-top: 1rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+/* For section headers like "Brake Pads:" that might not be proper <h2> tags */
+.markdown-content > p > strong:only-child,
+.markdown-content > p > b:only-child {
+  font-size: 1.4rem !important;
+  font-weight: 700 !important;
+  display: block;
+  margin-top: 1rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+/* For the colon-format headers like "Brake Pads:" - browser compatible version */
+.markdown-content > p:first-of-type strong,
+.markdown-content > p:first-of-type b {
+  font-size: 1.4rem !important;
+  font-weight: 700 !important;
+}
+
+/* Additional selector to better target section headers */
+.markdown-content > p:first-letter {
+  font-weight: 700;
+}
+
+/* Alternative approach to target standalone headings */
+.markdown-content > p > strong:first-child,
+.markdown-content > p > b:first-child {
+  display: inline-block;
+  font-size: 1.4rem !important;
+  font-weight: 700 !important;
+}
+
+/* Ensure numbers are visible in ordered lists */
+.markdown-content ol,
+.custom-numbered-list {
+  list-style-type: decimal !important;
+  counter-reset: none !important;
+}
+
+/* Restore list styling that might have been removed */
+.markdown-content ol > li,
+.custom-numbered-list > .custom-list-item {
+  display: list-item !important;  /* Ensures the default list display with visible numbers */
+  list-style-position: outside !important;
+  font-size: 1.1rem !important;
+  font-weight: 600 !important;
+}
+
+/* Fix any list styling issues */
+.markdown-content ol {
+  counter-reset: none !important;
+  list-style: decimal !important;
+}
+
+.markdown-content ol > li::marker,
+.custom-numbered-list > .custom-list-item::marker {
+  font-weight: 600 !important;
+  font-size: 1.1rem !important;
+}
+
+/* Ensure proper spacing with numbers visible */
+.custom-numbered-list > .custom-list-item,
+.markdown-content ol > li {
+  padding-left: 0 !important; /* Remove padding that might push content away from numbers */
+  margin-left: 0 !important; /* Ensure no margin pushing content */
+}
+
+/* Adjust spacing between number and content */
+.custom-numbered-list > .custom-list-item::marker,
+.markdown-content ol > li::marker {
+  margin-right: 0.5rem !important; /* Add space between number and content */
+}
+
+/* Fix specific style issues seen in screenshots */
+.markdown-content ol > li p:first-of-type {
+  display: inline-block !important; /* Keep text on same line as the number */
+}
+
+/* Fix spacing between numbered items and bullets */
+.markdown-content ol li ul,
+.custom-numbered-list .custom-list-item .custom-bullet-list {
+  margin-top: 0.25rem !important; /* Ensure space after numbered item text before bullets */
+  margin-left: 0 !important; /* Align with text, not with number */
+}

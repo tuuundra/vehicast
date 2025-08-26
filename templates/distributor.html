@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Distributor Dashboard - Automotive Parts Prediction</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            padding-top: 2rem;
+            background-color: #f8f9fa;
+        }
+        .jumbotron {
+            background-color: #e9ecef;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border-radius: 0.3rem;
+        }
+        .table-responsive {
+            margin-top: 2rem;
+        }
+        .summary-box {
+            background-color: #fff;
+            border-radius: 0.3rem;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,0.075);
+        }
+        .summary-number {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #007bff;
+        }
+        .loading {
+            display: none;
+            text-align: center;
+            margin: 2rem 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light mb-4">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="/">Automotive Parts Prediction</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" href="/distributor">Distributor Dashboard</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/shop">Shop Interface</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <div class="jumbotron">
+            <h1 class="display-4">Distributor Dashboard</h1>
+            <p class="lead">View parts demand forecasts and stock recommendations to optimize your inventory</p>
+        </div>
+
+        {% if has_data %}
+        <div class="row mb-4">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label for="timeWindow" class="form-label">Time Horizon</label>
+                    <select class="form-select" id="timeWindow" onchange="updateDemandTable()">
+                        <option value="3 months">3 Months</option>
+                        <option value="6 months" selected>6 Months</option>
+                        <option value="12 months">12 Months</option>
+                        <option value="24 months">24 Months</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <div class="loading" id="demand-loading">
+            <div class="spinner-border text-primary" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+            <p>Loading demand forecast...</p>
+        </div>
+
+        <div id="demand-content">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="summary-box">
+                        <h4>Total Expected Demand</h4>
+                        <div class="summary-number" id="total-demand">{{ total_demand }}</div>
+                        <p>units across all parts</p>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="summary-box">
+                        <h4>Total Recommended Stock</h4>
+                        <div class="summary-number" id="total-stock">{{ total_stock }}</div>
+                        <p>units (includes 20% buffer)</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="table-responsive" id="demand-table">
+                <h3>Top Parts by Demand <span class="text-muted" id="time-window-display">6 Months</span></h3>
+                <table class="table table-striped table-hover">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Part Name</th>
+                            <th>Part Number</th>
+                            <th>Component</th>
+                            <th>Vehicle Type</th>
+                            <th>Expected Demand</th>
+                            <th>Recommended Stock</th>
+                        </tr>
+                    </thead>
+                    <tbody id="demand-table-body">
+                        {% for part in parts %}
+                        <tr>
+                            <td>{{ part.part_name }}</td>
+                            <td>{{ part.part_number }}</td>
+                            <td>{{ part.component_name }}</td>
+                            <td>{{ part.vehicle_type }}</td>
+                            <td>{{ part.expected_demand }}</td>
+                            <td>{{ part.recommended_stock }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        {% else %}
+        <div class="alert alert-warning">
+            <h4>No Demand Forecast Available</h4>
+            <p>Please run the demand forecasting script to generate a forecast:</p>
+            <pre>python forecast_demand.py --output demand_forecast.csv</pre>
+        </div>
+        {% endif %}
+
+        <footer class="mt-5 text-center text-muted">
+            <p>Automotive Parts Prediction & Inventory Optimization - Proof of Concept</p>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    {% if has_data %}
+    <script>
+        function updateDemandTable() {
+            const timeWindow = document.getElementById('timeWindow').value;
+            
+            // Show loading indicator
+            document.getElementById('demand-loading').style.display = 'block';
+            document.getElementById('demand-content').style.display = 'none';
+            
+            // Update time window display
+            document.getElementById('time-window-display').textContent = timeWindow;
+            
+            // Fetch demand data for selected time window
+            fetch(`/api/demand?time_window=${encodeURIComponent(timeWindow)}`)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! Status: ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    // Update table with new data
+                    const tableBody = document.getElementById('demand-table-body');
+                    tableBody.innerHTML = '';
+                    
+                    data.parts.forEach(part => {
+                        const row = document.createElement('tr');
+                        row.innerHTML = `
+                            <td>${part.part_name}</td>
+                            <td>${part.part_number}</td>
+                            <td>${part.component_name}</td>
+                            <td>${part.vehicle_type}</td>
+                            <td>${part.expected_demand}</td>
+                            <td>${part.recommended_stock}</td>
+                        `;
+                        tableBody.appendChild(row);
+                    });
+                    
+                    // Update summary numbers
+                    document.getElementById('total-demand').textContent = data.total_demand;
+                    document.getElementById('total-stock').textContent = data.total_stock;
+                    
+                    // Hide loading, show content
+                    document.getElementById('demand-loading').style.display = 'none';
+                    document.getElementById('demand-content').style.display = 'block';
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    document.getElementById('demand-loading').style.display = 'none';
+                    document.getElementById('demand-content').style.display = 'block';
+                    alert('An error occurred while fetching demand data. Please try again.');
+                });
+        }
+
+        // Initial load
+        document.addEventListener('DOMContentLoaded', function() {
+            // Initialize the demand table
+            document.getElementById('demand-content').style.display = 'block';
+            
+            // Load initial data
+            updateDemandTable();
+        });
+    </script>
+    {% endif %}
+</body>
+</html> 

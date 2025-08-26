@@ -1,0 +1,68 @@
+services:
+  # Static site for frontend
+  - type: web
+    name: vehicast-frontend
+    env: static
+    buildCommand: cd frontend && npm install && npm run build
+    staticPublishPath: ./frontend/build
+    headers:
+      - path: /*
+        name: Cache-Control
+        value: no-cache
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    envVars:
+      - key: REACT_APP_API_URL
+        value: https://vehicast-api.onrender.com
+      - key: REACT_APP_WEBSOCKET_URL
+        value: wss://vehicast-ws.onrender.com
+      - key: REACT_APP_SUPABASE_URL
+        sync: false
+      - key: REACT_APP_SUPABASE_ANON_KEY
+        sync: false
+  
+  # Flask API service
+  - type: web
+    name: vehicast-api
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: FLASK_ENV
+        value: production
+      - key: FLASK_PORT
+        sync: false  # Use Render's assigned PORT
+      - key: FLASK_APP
+        value: app/app.py
+      - key: SUPABASE_URL
+        sync: false  # Set this in the Render dashboard
+      - key: SUPABASE_KEY
+        sync: false  # Set this in the Render dashboard
+      - key: OPENAI_API_KEY
+        sync: false  # Set this in the Render dashboard
+      - key: CORS_ORIGIN
+        value: https://vehicast-frontend.onrender.com
+      - key: WEBSOCKET_SERVICE_URL
+        value: wss://vehicast-ws.onrender.com
+    
+  # WebSocket service for real-time chat
+  - type: web
+    name: vehicast-ws
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python websocket_server.py
+    envVars:
+      - key: WS_HOST
+        value: 0.0.0.0
+      - key: WEBSOCKET_PORT
+        sync: false  # Use Render's assigned PORT
+      - key: SUPABASE_URL
+        sync: false  # Set this in the Render dashboard
+      - key: SUPABASE_KEY
+        sync: false  # Set this in the Render dashboard
+      - key: OPENAI_API_KEY
+        sync: false  # Set this in the Render dashboard
+      - key: CORS_ORIGIN
+        value: https://vehicast-frontend.onrender.com 
