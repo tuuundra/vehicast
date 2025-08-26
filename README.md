@@ -34,7 +34,7 @@ We generated synthetic registrations by region, component failure histories by m
 
 Schema snapshot:
 
-![Supabase schema](frontend/public/assets/images/supabase/supabase-schema.png)
+![Supabase schema](docs/images/supabase-schema.png)
 
 ### Frontend
 - Distributor dashboard: heatmap demand, adjustable horizons (7d–6m), top parts, inventory metrics, reorder suggestions
